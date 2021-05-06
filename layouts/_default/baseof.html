@@ -3,15 +3,22 @@
 
 <head>
   <meta charset="utf-8">
-  <title>{{ block "title" . }}
-    {{ .Site.Title }}
-    {{ end }}</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    {{ $screen := resources.Get "css/style.scss" | toCSS | minify | fingerprint }}
-    <link rel="stylesheet" href="{{ $screen.Permalink }}" media="screen">
-    {{ template "_internal/google_analytics.html" . }}
-    {{ template "_internal/opengraph.html" . }}
-    {{ template "_internal/twitter_cards.html" . }}
+  <title>{{ if .IsHome }}{{ .Site.Title }} &bull; {{ .Site.Params.slogan }}{{ else }}
+    {{ .Title }} &bull; {{ .Site.Title }} {{ end }}
+  </title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {{ with .Description }}
+  <meta name="description" content="{{ . }}">
+  {{ end }}
+  <link rel="canonical" href="{{ .Permalink }}">
+  <meta name="author" content="{{ .Site.Author.name }}">
+  <link rel="alternate" href="{{ .Site.RSSLink | absURL }}" title="{{ .Site.Title }}" type="application/atom+xml">
+  {{ $screen := resources.Get "css/style.scss" | toCSS | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $screen.Permalink }}" media="screen">
+  {{ hugo.Generator }}
+  {{ template "_internal/google_analytics.html" . }}
+  {{ template "_internal/opengraph.html" . }}
+  {{ template "_internal/twitter_cards.html" . }}
 </head>
 
 <body>
@@ -19,8 +26,8 @@
     {{ if .IsHome }}{{ site.Title }}{{ else }}<a href="/">Accueil / nouvelle recherche</a>{{ end }}
   </header>
   <main>
-  {{ block "main" . }}
-  {{ end }}
+    {{ block "main" . }}
+    {{ end }}
   </main>
   <footer>
     {{ with site.Params.footer }}{{ . | markdownify }}{{ end }}
@@ -33,4 +40,5 @@
 {{ $js := slice $fuse $search | resources.Concat "js/bundle.js" |minify | fingerprint }}
 <script src="{{ $js.Permalink }}"></script>
 {{ end }}
+
 </html>

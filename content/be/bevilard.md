@@ -6,6 +6,7 @@ territoire:
     - Champoz
     - Valbirse
 NPA:
+    - 2733
     - 2735
 meta:
     - Bévilard

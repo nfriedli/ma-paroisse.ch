@@ -1,5 +1,6 @@
 --- 
 title: Trouver ma paroisse en 5 secondes
+description: Trouver une paroisse protestante réformée en Suisse romande en 5 secondes par NPA, lieu, nom, etc.
 outputs:
     - html
     - json
