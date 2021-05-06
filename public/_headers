@@ -2,7 +2,6 @@
     Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
     X-Content-Type-Options: nosniff
     X-XSS-Protection: 1; mode=block
-    X-Frame-Options: DENY
     Cache-Control: max-age=86400
     Referrer-Policy: no-referrer-when-downgrade
     X-Frame-Options: DENY

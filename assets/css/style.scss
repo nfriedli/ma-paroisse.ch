@@ -1,12 +1,21 @@
+$color: #FFF;
+$text: #123;
+$contrast: #800;
 
 html {
     font-family: Inter, Roboto, Arial, sans-serif;
     font-size: 100%;
-    color: #333;
-    background: #FFF;
+    color: $text;
+    background: $color;
     line-height: 1.6;
     overflow-y: scroll;
     text-rendering: optimizeSpeed;
+}
+
+@media screen and (min-width: 1000px) {
+    html {
+        font-size: 120%;
+    }
 }
 
 body {
@@ -28,10 +37,16 @@ h1 {
 
 h2 {
     font-size: 1rem;
+    margin-top: 2rem;
 }
 
 input {
     font-size: 1.2rem;
     padding: .2rem;
-    border: 2px solid purple;
+    border: 4px solid $contrast;
+}
+
+a {
+    color: $contrast;
+    text-decoration-color: $text;
 }

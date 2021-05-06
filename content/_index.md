@@ -8,4 +8,4 @@ outputs:
 ---
 
 Recherche de paroisses protestantes réformées par nom de paroisse, par lieu ou commune, par numéro postal, etc.
-Un site «=» juste avant un nombre permet une recherche exacte (p.ex.: =2013).
+Un signe «=» juste avant un nombre permet une recherche exacte (p.ex.: =2013).
