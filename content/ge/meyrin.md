@@ -1,15 +1,13 @@
 ---
-title: Paroisse des 5 communes
-name: 5 communes
-site: https://5communes.epg.ch/
+title: Paroisse de Meyrin
+name: Meyrin
+site: https://meyrin.epg.ch/
 territoire:
-    - Bellevue
-    - Collex-Bossy
-    - Genthod
-    - Grand-Saconnex
-    - Pregny-Chambésy
+    - Meyrin
 NPA:
+    - 1217
 meta:
+    - Mategnin
 region:
-    - Jura-Lac
+    - Rhône-Mandement
 ---
