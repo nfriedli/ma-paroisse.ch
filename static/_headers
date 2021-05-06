@@ -4,6 +4,8 @@
     X-XSS-Protection: 1; mode=block
     X-Frame-Options: DENY
     Cache-Control: max-age=86400
+    Referrer-Policy: no-referrer-when-downgrade
+    X-Frame-Options: sameorigin
 
 /sitemap.xml
     X-Robots-Tag: noindex
