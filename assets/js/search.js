@@ -50,3 +50,9 @@ var clearResults = function () {
         resultsUI.removeChild(resultsUI.firstChild);
     }
 };
+
+focusMethod = function getFocus() {           
+    document.getElementById("search").focus();
+  }
+
+focusMethod();  

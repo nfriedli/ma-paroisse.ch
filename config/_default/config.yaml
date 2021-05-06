@@ -27,3 +27,9 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+
+params:
+  footer: |
+    **Site en développement!**  
+    N'hésitez pas à créer ou compléter des fiches paroissiales.  
+    Contact: nicolasfriedli@protonmail.ch

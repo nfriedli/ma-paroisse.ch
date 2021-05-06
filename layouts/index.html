@@ -3,15 +3,15 @@
 
  {{ .Content }}
 
-<input placeholder="Rechercher..." name="name" autocomplete="off" >
+<input placeholder="Rechercher..." name="name" autocomplete="off" id="search">
 
 <ul class="search-results"></ul>
 
-Par dépit, il est toujours possible de naviguer de manière classique:
+<p>Si la recherche ne fonctionne pas, il est toujours possible de naviguer de manière classique:</p>
 
 <ul>
   {{ range site.Sections }}
-  <li><a href="{{ .Permalink }}">{{ .Title }}</li>
+  <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
   {{ end }}
 </ul>
 

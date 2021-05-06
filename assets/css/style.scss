@@ -1,38 +1,29 @@
 
 html {
     font-family: Inter, Roboto, Arial, sans-serif;
-    font-size: 120%;
+    font-size: 100%;
     color: #333;
     background: #FFF;
     line-height: 1.6;
 }
 
 body {
-    margin: auto;
     padding: 1rem;
     max-width: 60ch
 }
 
-input {
-    text-align: center;
-    width: 50%;
-    border: 4px solid purple;
-    margin: auto;
-    margin-top: 1rem;
-    font-size: 1.2rem;
+body> * + * {
+        margin-top: 4rem;
+    } 
+
+header, footer {
+    font-size: .9rem;
 }
 
-ul.search-results {
-    margin-top: 2rem;
-    margin-bottom: 5rem;
-    font-size: 1rem;
-    padding: 0;
-    list-style-type: none;
+h1 {
+    font-size: 1.21rem;
+}
 
-    li {
-        border: 2px solid;
-        padding: 1rem;
-        margin: .2rem;
-        text-align: center;
-    }
+h2 {
+    font-size: 1.1rem;
 }
