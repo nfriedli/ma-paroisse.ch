@@ -5,7 +5,7 @@
     X-Frame-Options: DENY
     Cache-Control: max-age=86400
     Referrer-Policy: no-referrer-when-downgrade
-    X-Frame-Options: sameorigin
+    X-Frame-Options: DENY
 
 /sitemap.xml
     X-Robots-Tag: noindex
