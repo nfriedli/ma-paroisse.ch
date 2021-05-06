@@ -20,6 +20,5 @@ meta:
     - Collex
     - Pregny
     - cinq communes
-region:
-    - Jura-Lac
+region: Jura-Lac
 ---

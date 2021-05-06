@@ -3,8 +3,12 @@
 <h1>{{ .Title }}</h1>
 {{ .Content }}
 
+{{ with .Params.region }}
+<p>La paroisse fait partie de la région: {{ . }}.</p>
+{{ end }}
+
 {{ with .Params.site}}
-<a href="{{ . }}" target="_blank">{{ . }}</a>
+<p>Site paroissial: <a href="{{ . }}" target="_blank">{{ . }}</a></p>
 {{ end }}
 
 {{ with .Params.territoire }}

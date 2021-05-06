@@ -3,7 +3,7 @@
   <p>Actuellement, il y a {{ len .RegularPages }} paroisse(s) disponible(s) pour le {{ .Title }}.</p>
   <ul>
   {{ range .Pages }}
-     <li><a href="{{ .Permalink }}">{{ .Title }}</a></li> 
+     <li><a href="{{ .Permalink }}">{{ .Title }}</a>{{ with .Params.region }} (région: {{.}}){{ end }}</li> 
   {{ end }}
 </ul>
 

@@ -1,5 +1,5 @@
 ---
-title: Paroisse Val-de-Travers
+title: Paroisse du Val-de-Travers
 name: Val-de-Travers
 site: https://paroissereformeevaldetravers.wordpress.com/
 territoire:

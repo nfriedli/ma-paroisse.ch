@@ -8,6 +8,5 @@ NPA:
     - 1217
 meta:
     - Mategnin
-region:
-    - Rhône-Mandement
+region: Rhône-Mandement
 ---
