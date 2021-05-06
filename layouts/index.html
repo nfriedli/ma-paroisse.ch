@@ -7,11 +7,13 @@
 
 <ul class="search-results"></ul>
 
-<p>Si la recherche ne fonctionne pas, il est toujours possible de naviguer de manière classique:</p>
+
+<h2>Et sinon...</h2>
+<p>La recherche ne fonctionne pas ou ne vous donne pas satisfaction? Il est toujours possible de naviguer de manière classique:</p>
 
 <ul>
   {{ range site.Sections }}
-  <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+  <li><a href="{{ .Permalink }}">{{ .Title }}</a> ({{ len .RegularPages }} paroisses)</li>
   {{ end }}
 </ul>
 

@@ -12,13 +12,17 @@ NPA:
     - 2017
     - 2022
     - 2023
+    - 2024
     - 2025
+    - 2027
     - 2028
 meta:
     - Areuse
     - Bevaix
+    - Chez-le-Bart
     - Fresens
     - Gorgier
+    - Montalchez
+    - Saint-Aubin-Sauges
     - Vaumarcus
-    - Chez-le-Bart
 ---
