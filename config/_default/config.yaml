@@ -1,0 +1,29 @@
+baseURL: http://ma-paroisse.netlify.app/
+title: ma-paroisse...
+
+languageCode: fr-ch
+defaultContentLanguage: fr
+
+canonifyURLs: true
+copyright: Nicolas Friedli
+disableFastRender: true
+disableFastRender: true
+enableGitInfo: true
+cleandestinationdir: true
+removePathAccents: true
+
+author:
+  name: Nicolas Friedli
+  email: nicolasfriedli@protonmail.ch
+
+disableKinds:
+  - taxonomy
+  - term
+  - RSS
+  - sitemap
+  - 404
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

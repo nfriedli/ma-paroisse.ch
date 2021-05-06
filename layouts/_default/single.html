@@ -1,0 +1,31 @@
+{{ define "title" }}
+{{ .Title }} &ndash; {{ .Site.Title }}
+{{ end }}
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+{{ .Content }}
+
+{{ with .Params.site}}
+🎉 <a href="{{ . }}" target="_blank">{{ . }}</a> 🎉
+{{ end }}
+
+{{ with .Params.territoire }}
+<h2>Territoire</h2>
+<ul>{{ range . }}
+  <li>{{ . }}</li>
+  {{ end }}
+</ul>
+{{ end }}
+
+
+{{ with .Params.NPA }}
+<h2>Numéros postaux</h2>
+<p>{{ delimit . ", " }}</p>
+{{ end }}
+
+{{ with .Params.meta }}
+<h2>Autres critères</h2>
+<p>{{ delimit . ", " }}</p>
+{{ end }}
+
+{{ end }}

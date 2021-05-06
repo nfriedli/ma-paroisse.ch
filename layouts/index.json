@@ -1,0 +1,5 @@
+{{- $.Scratch.Add "index" slice -}}
+{{- range .Site.RegularPages -}}
+    {{- $.Scratch.Add "index" (dict "title" .Title "territoire" .Params.territoire "meta" .Params.meta "canton" .Params.canton "eglise" .Params.eglise "NPA" .Params.NPA "name" .Params.name "region" .Params.region "permalink" .Permalink) -}}
+{{- end -}}
+{{- $.Scratch.Get "index" | jsonify -}}

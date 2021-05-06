@@ -1,0 +1,18 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+
+ {{ .Content }}
+
+<input placeholder="Rechercher..." name="name" autocomplete="off" >
+
+<ul class="search-results"></ul>
+
+Par dépit, il est toujours possible de naviguer de manière classique:
+
+<ul>
+  {{ range site.Sections }}
+  <li><a href="{{ .Permalink }}">{{ .Title }}</li>
+  {{ end }}
+</ul>
+
+{{ end }}

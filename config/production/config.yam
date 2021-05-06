@@ -1,0 +1,7 @@
+# googleAnalytics: 
+
+minify:
+  minifyOutput: true
+  tdewolff:
+    html:
+      keepQuotes: true
