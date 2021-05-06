@@ -32,7 +32,6 @@
   <footer>
     {{ with site.Params.footer }}{{ . | markdownify }}{{ end }}
   </footer>
-</body>
 
 {{ if .IsHome}}
 {{ $search := resources.Get "js/search.js" | minify | fingerprint }}
@@ -40,5 +39,8 @@
 {{ $js := slice $fuse $search | resources.Concat "js/bundle.js" |minify | fingerprint }}
 <script src="{{ $js.Permalink }}"></script>
 {{ end }}
+
+</body>
+
 
 </html>
