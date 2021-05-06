@@ -1,4 +1,4 @@
-# googleAnalytics: 
+googleAnalytics: UA-59198139-6
 
 minify:
   minifyOutput: true
