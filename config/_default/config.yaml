@@ -19,8 +19,6 @@ author:
 disableKinds:
   - taxonomy
   - term
-  - RSS
-  - sitemap
   - 404
 
 markup:

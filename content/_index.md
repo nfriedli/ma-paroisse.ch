@@ -4,6 +4,7 @@ description: Trouver une paroisse protestante réformée en Suisse romande en 5 
 outputs:
     - html
     - json
+    - RSS
 ---
 
 Recherche de paroisses protestantes réformées par nom de paroisse, par lieu ou commune, par numéro postal, etc. Essayez!
