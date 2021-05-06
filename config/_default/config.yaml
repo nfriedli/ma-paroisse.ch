@@ -1,5 +1,5 @@
 baseURL: https://ma-paroisse.netlify.app/
-title: ma-paroisse...
+title: ma-paroisse.ch
 
 languageCode: fr-ch
 defaultContentLanguage: fr
@@ -33,3 +33,4 @@ params:
     **Contact:** nicolasfriedli@protonmail.ch
   images:
     - https://cdn.pixabay.com/photo/2020/02/17/16/47/sherlock-4857024_960_720.jpg
+  slogan: Trouver une paroisse protestante réformée en 5 secondes
