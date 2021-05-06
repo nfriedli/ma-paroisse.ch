@@ -3,28 +3,32 @@
 <h1>{{ .Title }}</h1>
 {{ .Content }}
 
+<dl>
 {{ with .Params.site}}
-<p>Site paroissial: <a href="{{ . }}" target="_blank">{{ . }}</a></p>
+<dt>Site paroissial</dt> 
+<dd><a href="{{ . }}" target="_blank">{{ . }}</a></dd>
 {{ end }}
 
 {{ with .Params.region }}
-<p>Région: {{ . }}.</p>
+<dt>Région</dt>
+<dd>{{ . }}</dd>
 {{ end }}
 
 {{ with .Params.territoire }}
-<h2>Territoire (communes)</h2>
-<p>{{ delimit . ", " }}.</p>
+<dt>Territoire (communes)</dt>
+<dd>{{ delimit . ", " }}</dd>
 {{ end }}
 
 
 {{ with .Params.NPA }}
-<h2>Numéros postaux</h2>
-<p>{{ delimit . ", " }}.</p>
+<dt>Numéros postaux (NPA)</dt>
+<dd>{{ delimit . ", " }}</dd>
 {{ end }}
 
 {{ with .Params.meta }}
-<h2>Autres critères (villages, hameaux, mots-clés)</h2>
-<p>{{ delimit . ", " }}.</p>
+<dt>Autres critères (villages, hameaux, mots-clés)</dt>
+<dd>{{ delimit . ", " }}</dd>
 {{ end }}
+</dl>
 
 {{ end }}

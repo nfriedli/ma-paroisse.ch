@@ -23,7 +23,7 @@
 
 <body>
   <header>
-    {{ if .IsHome }}{{ site.Title }}{{ else }}<a href="/">Accueil / nouvelle recherche</a>{{ end }}
+    {{ if .IsHome }}{{ site.Title }}{{ else }}<a href="/">{{ site.Title }}</a>{{ end }}
   </header>
   <main>
     {{ block "main" . }}
