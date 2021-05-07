@@ -1,4 +1,4 @@
-# ma-paroisse
+# ma-paroisse.ch
 
 Un site ultra simple pour retrouver sa paroisse protestante réformée en Suisse romande en 5 secondes.
 
@@ -35,11 +35,15 @@ Pour corriger un contenu: retrouvez-le dans la liste et envoyez votre version mo
 
 NB: si vous comprenez cette phrase, n'hésitez pas à proposer un *Pull request* dans GitHub.
 
-## Contact & compagnie
+## Contact & licence
 
-C'est ici: nicolasfriedli@protonmail.ch
-
+C'est ici: nicolasfriedli@protonmail.ch  
 Ce projet est personnel, bénévole et sans commanditaire.
+
+Le site n'est pas libre de droits -- je ne vois pas de sens à le copier --, mais les sources sont consultables pour y reprendre des idées.
+
+Les contenus sont libres de droits. Vous pouvez les récupérer dans leur dernière version ici: https://ma-paroisse.ch/index.json
+
 
 ## Merci...
 
