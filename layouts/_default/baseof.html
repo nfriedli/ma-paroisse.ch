@@ -8,6 +8,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {{ with .Description }}
   <meta name="description" content="{{ . }}">
+  {{ else }}
+  <meta name="description" content="
+  {{- with .Params.territoire -}}Commune(s): {{ delimit . ", " }}. {{ end }}
+  {{- with .Params.meta -}}Lieu(x): {{ delimit . ", " }}.{{- end -}}
+  ">
   {{ end }}
   <link rel="canonical" href="{{ .Permalink }}">
   <meta name="author" content="{{ .Site.Author.name }}">
