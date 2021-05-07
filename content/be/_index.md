@@ -1,5 +1,6 @@
 ---
 title: Canton de Berne
+description: Paroisses francophones de l'Église réformée de canton de Berne.
 weight: 10
 cascade:
     canton: Berne
