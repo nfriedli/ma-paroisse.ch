@@ -1,21 +1,21 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
-  <p>Actuellement, il y a {{ len .RegularPages }} paroisse(s) disponible(s) pour le {{ .Title }}.</p>
-  <ul>
+<h1>{{ .Title }}</h1>
+<p>Actuellement, il y a {{ len .RegularPages }} paroisse(s) disponible(s) pour le {{ .Title }}.</p>
+<ul>
   {{ range .Pages }}
-     <li><a href="{{ .Permalink }}">{{ .Title }}</a>{{ with .Params.region }} (région: {{.}}){{ end }}</li> 
+  <li><a href="{{ .Permalink }}">{{ .Title }}</a>{{ with .Params.region }} (région: {{.}}){{ end }}</li>
   {{ end }}
 </ul>
 
 <h2>Voir aussi:</h2>
 {{ $current := . }}
 <ul>
-{{ range site.Sections }}
-{{ if ne $current .}}
-            <li>
-                <a href="{{ .Permalink }}">{{ .Title }}</a> ({{ len .RegularPages }} paroisses)
-            </li>
-        {{ end }}
-{{ end }}
+  {{ range site.Sections }}
+  {{ if ne $current .}}
+  <li>
+    <a href="{{ .Permalink }}">{{ .Title }}</a> ({{ len .RegularPages }} paroisses)
+  </li>
+  {{ end }}
+  {{ end }}
 </ul>
 {{ end }}

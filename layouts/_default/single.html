@@ -9,6 +9,11 @@
 <dd><a href="{{ . }}" target="_blank">{{ . }}</a></dd>
 {{ end }}
 
+{{ if .Params.canton }}
+<dt>Canton</dt>
+<dd><a href="{{ .Parent.Permalink }}">{{ .Params.canton }}</a>{{ with .Params.eglise }} ({{ . }}){{ end }}</dd>
+{{ end }}
+
 {{ with .Params.region }}
 <dt>Région</dt>
 <dd>{{ . }}</dd>
@@ -29,6 +34,30 @@
 <dt>Autres critères (villages, hameaux, mots-clés)</dt>
 <dd>{{ delimit . ", " }}</dd>
 {{ end }}
+
+{{ if .Params.region }}
+<h2>Paroisses de la région</h2>
+    {{ $current := .}}
+    {{ with .Parent }}
+    <ul>
+    {{ range .Pages }}
+        {{ if eq $current.Params.region .Params.region }}
+        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+        {{ end }}
+    {{ end }}
+    </ul>
+    {{ end }}
+{{ else }}
+<h2>Paroisses du canton</h2>
+{{ with .Parent }}
+<ul>
+{{ range .Pages }}
+    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+{{ end }}
+</ul>
+{{ end }}
+{{ end }}
+
 </dl>
 
 {{ end }}
