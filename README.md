@@ -14,7 +14,7 @@ Le système de recherche utilisé (https://fusejs.io/) est tolérant aux coquill
 
 ## Ajouter / modifier une paroisse
 
-Pour ajouter, il vous suffit de copier un modèle en recherchant une paroisse similaire à celle que vous souhaitez documenter: https://github.com/nfriedli/ma-paroisse/tree/main/content
+Pour ajouter, il vous suffit de copier un modèle en recherchant une paroisse similaire à celle que vous souhaitez documenter: https://github.com/nfriedli/ma-paroisse.ch/tree/main/content
 
 Ou alors, il faut copier-coller ce «code» et me l'envoyer complété:
 
