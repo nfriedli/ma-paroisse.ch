@@ -6,7 +6,7 @@
 <dl>
 {{ with .Params.site}}
 <dt>Site paroissial</dt> 
-<dd><a href="{{ . }}" target="_blank">{{ . }}</a></dd>
+<dd><a href="{{ . }}" target="_blank">{{ . | replaceRE "^https?://" "" }}</a></dd>
 {{ end }}
 
 {{ if .Params.canton }}
