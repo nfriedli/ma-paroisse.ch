@@ -7,5 +7,4 @@ outputs:
     - RSS
 ---
 
-Recherche de paroisses protestantes réformées par nom de paroisse, par lieu ou commune, par numéro postal, etc.
-Un signe «=» juste avant un nombre permet une recherche exacte (p.ex.: =2013).
+Recherche de paroisses protestantes réformées de Suisse romande par nom de paroisse, par lieu ou par commune, par numéro postal.
