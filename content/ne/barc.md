@@ -14,7 +14,9 @@ NPA:
 meta:
     - Auvernier
     - Bôle
+    - Brot-Dessous
     - Chambrelien
     - Colombier
+    - Les Grattes
     - Montezillon
 ---
