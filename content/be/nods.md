@@ -1,7 +1,7 @@
 ---
 title: Paroisse de Nods
 name: Nods
-site: http://paref2520.ch/
+site: https://www.lac-en-ciel.ch/nods/
 territoire:
     - Nods
 NPA:
