@@ -4,7 +4,6 @@ description: Trouver une paroisse protestante réformée en Suisse romande en 5 
 outputs:
     - html
     - json
-    - RSS
 cascade:
     date: 2021-05-07
 ---
