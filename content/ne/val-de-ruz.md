@@ -24,7 +24,7 @@ NPA:
 meta:
     - Boudevilliers
     - Cernier
-    - Chézard-St-Martin
+    - Chézard-Saint-Martin
     - Coffrane
     - Dombresson
     - Engollon

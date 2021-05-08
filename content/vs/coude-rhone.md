@@ -4,7 +4,7 @@ name: Coude du Rhône
 site: https://coudedurhone.erev.ch/
 territoire:
     - Bagnes
-    - Bourg-St-Pierre
+    - Bourg-Saint-Pierre
     - Collonges
     - Les Marécottes
     - Leytron

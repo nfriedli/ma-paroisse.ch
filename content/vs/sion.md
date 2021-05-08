@@ -139,8 +139,8 @@ meta:
     - Signèse
     - Siviez
     - Sornard
-    - St-Léonard
-    - St-Romain
+    - Saint-Léonard
+    - Saint-Romain
     - Suen
     - Trogne
     - Uvrier
