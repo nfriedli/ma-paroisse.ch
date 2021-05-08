@@ -17,6 +17,7 @@
 
 /index.json
     X-Robots-Tag: noindex
+    Cache-Control: max-age=3600
 
 /js/*
     Cache-Control: max-age=63072000,immutable
