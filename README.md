@@ -12,6 +12,14 @@ Une recherche instantanée permet d'afficher les résultats en temps réel. De s
 
 Le système de recherche utilisé (https://fusejs.io/) est tolérant aux coquilles et fautes de frappe.
 
+## Le but
+
+Une fois ce projet assez avancé, je souhaite que se trouve dans les données (donc dans la recherche):
+
+- tous les NPA (numéros postaux d'acheminement) attribués en Suisse romande
+- toutes les communes de Suisse romande
+- si possible tous les villages, hameaux, etc.
+
 ## Ajouter / modifier une paroisse
 
 Pour ajouter, il vous suffit de copier un modèle en recherchant une paroisse similaire à celle que vous souhaitez documenter: https://github.com/nfriedli/ma-paroisse.ch/tree/main/content
@@ -34,6 +42,18 @@ region:
 Pour corriger un contenu: retrouvez-le dans la liste et envoyez votre version modifiée. Merci!
 
 NB: si vous comprenez cette phrase, n'hésitez pas à proposer un *Pull request* dans GitHub.
+
+## À propos des données
+
+- `title` est le nom exact de la paroisse (p. ex. Paroisse des Hautes Joux)
+- `name` est le nom court de la paroisse  (p. ex. Les Hautes Joux)
+- `site` est l'URL du site paroissial (pas de la maison-mère)
+- `territoire` est la liste des communes offcielles
+- `NPA` est la liste de tous les numéros sur le territoire paroissial
+- `meta` est une liste de motifs qui peuvent être recherchés (p.ex. Colombier, village de la commune de Milvignes); cette liste peut aussi porter d'autres «clés» de recherche pour aider le moteur dans des cas particuliers
+- `region` est un regroupement officiel de paroisses (mais pas une région au sens géographique du terme); il ne peut y en avoir qu'une
+
+L'attribution du canton et de l'Église sont automatiques en fonction de la localisation dans l'arborescence du site.
 
 ## Contact & licence
 
