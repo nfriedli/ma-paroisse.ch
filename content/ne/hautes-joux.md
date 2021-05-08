@@ -10,8 +10,16 @@ territoire:
     - Le Locle
     - Les Brenets
     - Les Ponts-de-Martel
+NPA:
+    - 2316
+    - 2318
+    - 2400
+    - 2405
+    - 2406
+    - 2414
+    - 2416
 meta:
     - Les Monts-de-Travers
+    - Le Cernil
 ---
 
-NPA à ajouter...
