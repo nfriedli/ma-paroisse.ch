@@ -5,7 +5,7 @@ outputs:
     - html
     - json
 cascade:
-    date: 2021-05-07
+    date: 2021-05-11
 ---
 
 Recherche de paroisses protestantes réformées de Suisse romande par nom de paroisse, par lieu ou par commune, par numéro postal.
