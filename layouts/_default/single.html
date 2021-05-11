@@ -36,7 +36,7 @@
 {{ end }}
 
 {{ if .Params.region }}
-<h2>Paroisses de la région</h2>
+<h2>Paroisses de la région {{ .Params.region }}</h2>
     {{ $current := .}}
     {{ with .Parent }}
     <ul>
