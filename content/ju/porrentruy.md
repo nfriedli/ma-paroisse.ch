@@ -10,7 +10,7 @@ territoire:
     - Bonfol
     - Bure
     - Clos du Doubs
-    - Coeuve
+    - Cœuve
     - Cornol
     - Courchavon
     - Courgenay
@@ -25,10 +25,65 @@ territoire:
     - Porrentruy
     - Vendlincourt
 NPA:
+    - 2882
+    - 2883 
+    - 2884 
+    - 2885 
+    - 2886 
+    - 2888 
+    - 2889 
     - 2900
+    - 2902
+    - 2905
+    - 2906
+    - 2907
+    - 2908
+    - 2912
+    - 2914
+    - 2915
+    - 2916
+    - 2922
+    - 2923
+    - 2924
+    - 2925
+    - 2926
+    - 2932
+    - 2933
+    - 2935
+    - 2942
+    - 2943
+    - 2944
+    - 2946
+    - 2947
+    - 2950
+    - 2952
+    - 2953
+    - 2954
 meta:
-    - Bure
-    - Cœuve
+    Asuel
+    Bressaucourt
+    Buix
+    Charmoille
+    Chevenez
+    Courtemaîche
+    Damvant
+    Epauvillers
+    Epiquerez
+    Fregiécourt
+    Miécourt
+    Montenol
+    Montignez
+    Montmelon-Dessous
+    Montmelon-Dessus
+    Ocourt
+    Pleujouse
+    Ravines
+    Réclère
+    Roche-d'Or
+    Rocourt
+    Saint-Ursanne
+    Seleute
+    Villars-sur-Fontenais
 ---
 
 Numéros postaux, communes et villages à compléter...
