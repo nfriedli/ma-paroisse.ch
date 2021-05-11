@@ -60,30 +60,30 @@ NPA:
     - 2953
     - 2954
 meta:
-    Asuel
-    Bressaucourt
-    Buix
-    Charmoille
-    Chevenez
-    Courtemaîche
-    Damvant
-    Epauvillers
-    Epiquerez
-    Fregiécourt
-    Miécourt
-    Montenol
-    Montignez
-    Montmelon-Dessous
-    Montmelon-Dessus
-    Ocourt
-    Pleujouse
-    Ravines
-    Réclère
-    Roche-d'Or
-    Rocourt
-    Saint-Ursanne
-    Seleute
-    Villars-sur-Fontenais
+    - Asuel
+    - Bressaucourt
+    - Buix
+    - Charmoille
+    - Chevenez
+    - Courtemaîche
+    - Damvant
+    - Epauvillers
+    - Epiquerez
+    - Fregiécourt
+    - Miécourt
+    - Montenol
+    - Montignez
+    - Montmelon-Dessous
+    - Montmelon-Dessus
+    - Ocourt
+    - Pleujouse
+    - Ravines
+    - Réclère
+    - Roche-d'Or
+    - Rocourt
+    - Saint-Ursanne
+    - Seleute
+    - Villars-sur-Fontenais
 ---
 
 Numéros postaux, communes et villages à compléter...
