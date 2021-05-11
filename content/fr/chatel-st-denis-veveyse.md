@@ -27,6 +27,7 @@ NPA:
 meta:
     - Besencens
     - Bouloz
+    - Châtel-St-Denis
     - Fiaugères
     - Grattavache
     - Le Crêt
