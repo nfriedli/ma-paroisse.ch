@@ -11,6 +11,7 @@
   {{ else }}
   <meta name="description" content="
   {{- with .Params.territoire -}}Commune(s): {{ delimit . ", " }}. {{ end }}
+  {{- with .Params.region -}}Région: {{ . }}. {{ end }}
   {{- with .Params.meta -}}Lieu(x): {{ delimit . ", " }}.{{- end -}}
   ">
   {{ end }}
