@@ -1,7 +1,7 @@
 ---
-title: Proisse de Moudon-Syens
+title: Paroisse de Moudon-Syens
 name: Moudon-Syens
-site: Moudon-Syens
+site: https://moudonsyens.eerv.ch/
 territoire:
     - Moudon
     - Syens

@@ -8,9 +8,9 @@ territoire:
     - Morat
     - Greng
 NPA:
-    - 3280
-    - 1796
     - 1795
+    - 1796
+    - 3280
 meta:
     - Coulevon
 ---
