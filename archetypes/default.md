@@ -1,6 +1,14 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title: 
+name: 
+site: 
+territoire:
+    - 
+NPA:
+    - 
+meta:
+    - 
+region: 
 draft: true
 ---
 
