@@ -60,9 +60,9 @@ L'attribution du canton et de l'Église sont automatiques en fonction de la loca
 C'est ici: nicolasfriedli@protonmail.ch  
 Ce projet est personnel, bénévole et sans commanditaire.
 
-Le site n'est pas libre de droits -- je ne vois pas de sens à le copier --, mais les sources sont consultables pour y reprendre des idées.
+Le site est sous [licence CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.fr) (domaine public), pourtant je ne vois pas de sens à le copier. Les sources sont consultables pour y reprendre des idées. Le script fuse.js est sous licence [Apache License 2.0](https://github.com/krisk/Fuse/blob/master/LICENSE).
 
-Les contenus sont libres de droits. Vous pouvez les récupérer dans leur dernière version ici: https://ma-paroisse.ch/index.json
+Les contenus sous format JSON sont disponibles ici: https://ma-paroisse.ch/index.json
 
 
 ## Merci...

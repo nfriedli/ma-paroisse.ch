@@ -29,8 +29,9 @@ markup:
 params:
   footer: |
     **Site en développement!**  
-    N'hésitez pas à proposer des nouveautés ou des corrections.  
-    **Contact:** nicolasfriedli@protonmail.ch  
+    N'hésitez pas à proposer des nouveautés ou des corrections  
+    Contact: nicolasfriedli@protonmail.ch  
+    Licence: CC0 (domaine public)  
     En savoir plus sur https://github.com/nfriedli/ma-paroisse.ch
   images:
     - https://cdn.pixabay.com/photo/2018/02/23/22/48/light-3176887_960_720.jpg
