@@ -17,7 +17,6 @@ NPA:
     - 2604
 meta:
     - Finvillier
-    - Jorat
     - Les Prés-d'Orvin
     - Plagne
     - Reuchenette

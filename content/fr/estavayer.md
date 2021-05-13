@@ -75,5 +75,4 @@ meta:
     - Seiry
     - Vernay
     - Vesin
-    - Vuissens
 ---

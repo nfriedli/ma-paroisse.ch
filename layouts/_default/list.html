@@ -1,6 +1,6 @@
 {{ define "main" }}
 <h1>{{ .Title }}</h1>
-<p>Actuellement, il y a {{ len .RegularPages }} paroisse(s) disponible(s) pour le {{ .Title }}.</p>
+<p>Actuellement, il y a {{ len .RegularPages }} paroisses disponibles pour le {{ .Title }}.</p>
 <ul>
   {{ range .Pages }}
   <li><a href="{{ .Permalink }}">{{ .Title }}</a>{{ with .Params.region }} (région: {{.}}){{ end }}</li>
