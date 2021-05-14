@@ -42,18 +42,26 @@
     <ul>
     {{ range .Pages }}
         {{ if eq $current.Params.region .Params.region }}
-        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+            {{ if eq $current.Permalink .Permalink }}    
+            <li>{{ .Title }}</li>
+            {{ else }}
+            <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+            {{ end }}
         {{ end }}
     {{ end }}
     </ul>
     {{ end }}
 {{ else }}
 <h2>Paroisses du canton</h2>
+{{ $current := .}}
 {{ with .Parent }}
 <ul>
 {{ range .Pages }}
-    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-{{ end }}
+    {{ if eq $current.Permalink .Permalink }}    
+        <li>{{ .Title }}</li>
+        {{ else }}
+        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{ end }}{{ end }}
 </ul>
 {{ end }}
 {{ end }}
