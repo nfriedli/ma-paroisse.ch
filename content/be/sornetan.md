@@ -1,10 +1,12 @@
 ---
 title: Paroisse de Sornetan
 name: Sornetan
-site: 
+site: https://www.par8.ch/
 territoire:
     - Petit-Val
 NPA:
+    - 2715
+    - 2716
 meta:
     - Châtelat
     - Moron
@@ -16,6 +18,7 @@ meta:
     - Lajoux
     - Fornet-Dessus
     - Les Genevez
+    - Les Écorcheresses
+    - Le Pichoux
 region: Par8
-draft: true
 ---

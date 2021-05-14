@@ -15,7 +15,11 @@ NPA:
     - 2533
     - 2533
 meta:
+    - Boujean 
+    - Mâche 
     - Macolin
+    - Madretsch 
+    - Pasquart
 ---
 
 La *paroisse réformée Bienne* et la *reformierte Kirchengemeinde Biel* forment la *paroisse générale réformée*.

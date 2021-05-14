@@ -7,10 +7,17 @@ territoire:
     - Perrefitte
     - Belprahon
     - Roches
+    - Schelten
+    - Seehof
 NPA:
     - 2740
     - 2742
     - 2744
+    - 2747
     - 2762
+    - 2827
+meta:
+    - La Scheulte
+    - Elay
 region: Par8
 ---
