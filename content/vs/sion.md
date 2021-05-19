@@ -8,7 +8,6 @@ territoire:
     - Ayent
     - Chamoson
     - Conthey
-    - Conthey
     - Evolène
     - Grimisuat
     - Hérémence
