@@ -29,7 +29,10 @@ markup:
 params:
   footer: |
     **Site en développement!**  
-    N'hésitez pas à proposer des nouveautés ou des corrections  
+    N'hésitez pas à proposer des nouveautés ou des corrections 
+
+    Liste de sites protestants romands: [Réseau protestant](https://reseau-protestant.ch/liste/)
+
     Contact: nicolasfriedli@protonmail.ch  
     Licence: CC0 (domaine public)  
     En savoir plus sur https://github.com/nfriedli/ma-paroisse.ch
