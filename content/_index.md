@@ -5,7 +5,7 @@ outputs:
     - html
     - json
 cascade:
-    date: 2021-05-14
+    date: 2021-05-22
 ---
 
-Recherche de paroisses protestantes réformées de Suisse romande par nom de paroisse, par lieu ou par commune, par numéro postal. Un signe «`=`» permet de rechercher un motif exact (p.ex. `=2013`).
+Recherche de paroisses protestantes réformées de Suisse romande par nom de paroisse, par lieu ou par commune, par numéro postal. 

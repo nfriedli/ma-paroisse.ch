@@ -1,6 +1,6 @@
 const options = {
     includeScore: true,
-    threshold: 0.2,
+    threshold: 0.20,
     useExtendedSearch: true,
     keys: [
         "title",
