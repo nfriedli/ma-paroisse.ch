@@ -1,5 +1,5 @@
 ---
-title: Paroisse La Neuveville
+title: Paroisse de La Neuveville
 name: La Neuveville
 site: http://paref2520.ch/
 territoire:
