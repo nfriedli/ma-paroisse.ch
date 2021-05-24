@@ -73,4 +73,4 @@ Pour leurs avis et leurs tests, merci à:
 - Diane Friedli (https://dianefriedli.ch/)
 - Philippe Golaz (https://philippegolaz.ch/)
 - Elio Jaillet
-- Sarah Nicolas
+- Sarah Nicolet
