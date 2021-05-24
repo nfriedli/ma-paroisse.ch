@@ -72,3 +72,5 @@ Pour leurs avis et leurs tests, merci à:
 - Laure Devaux Allisson (https://lauredevaux.ch/)
 - Diane Friedli (https://dianefriedli.ch/)
 - Philippe Golaz (https://philippegolaz.ch/)
+- Elio Jaillet
+- Sarah Nicolas
