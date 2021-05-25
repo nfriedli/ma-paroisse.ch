@@ -17,7 +17,6 @@
   {{ end }}
   <link rel="canonical" href="{{ .Permalink }}">
   <meta name="author" content="{{ .Site.Author.name }}">
-  <link rel="alternate" href="{{ .Site.RSSLink | absURL }}" title="{{ .Site.Title }}" type="application/atom+xml">
   {{ $screen := resources.Get "css/style.scss" | toCSS | minify | fingerprint }}
   <link rel="stylesheet" href="{{ $screen.Permalink }}" media="screen">
   {{ hugo.Generator }}
