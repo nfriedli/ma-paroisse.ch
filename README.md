@@ -81,7 +81,19 @@ L'attribution du canton et de l'Église sont automatiques en fonction de la loca
 
 Les contenus sous format JSON sont disponibles ici: https://ma-paroisse.ch/index.json
 
-Sur demande, je pourrais produire un flux JSON par canton. Si c'est utile à des responsables de sites, je peux créer un format sur mesure pour reprise directe sur leur site. Utile pour publier un tableau dynamique ou sa propre recherche. Il suffit de me donner la structure de JSON souhaitée.
+Les contenus JSON par canton:
+
+- https://ma-paroisse.ch/be/index.json
+- https://ma-paroisse.ch/fr/index.json
+- https://ma-paroisse.ch/ge/index.json
+- https://ma-paroisse.ch/ju/index.json
+- https://ma-paroisse.ch/ne/index.json
+- https://ma-paroisse.ch/vd/index.json
+- https://ma-paroisse.ch/vs/index.json
+
+N'hésitez pas à reprendre les données directement dans le JSON (*hotlink*)!
+
+Si c'est utile à des responsables de sites, je peux créer un format *sur mesure* pour reprise directe sur leur site. Utile pour publier un tableau dynamique ou sa propre recherche. Il suffit de me donner la structure de JSON souhaitée.
 
 ## Contact & licence
 
@@ -89,8 +101,6 @@ C'est ici: nicolasfriedli@protonmail.ch
 Ce projet est personnel, bénévole et sans commanditaire.
 
 Le site est sous [licence CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.fr) (domaine public), pourtant je ne vois pas de sens à le copier. Les sources sont consultables pour y reprendre des idées. Le script fuse.js est sous licence [Apache License 2.0](https://github.com/krisk/Fuse/blob/master/LICENSE).
-
-**N'hésitez pas à reprendre les données directement dans le JSON (*hotlink*)!**
 
 ## Merci...
 
