@@ -4,6 +4,8 @@ const options = {
     useExtendedSearch: true,
     ignoreLocation: true,
     ignoreFieldNorm: true,
+    includeMatches: true,
+    findAllMatches: true,
     keys: [
         "title",
         "name",
