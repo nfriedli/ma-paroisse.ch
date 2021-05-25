@@ -1,0 +1,18 @@
+{{ define "souspages" }}
+{{ if .Pages }}
+<ul>
+    {{ range .Pages}}
+    <li><a href="{{ .Permalink }}">{{ .Title }}</a>
+        {{ template "souspages" . }}
+    </li>
+    {{ end }}
+</ul>
+{{ end }}
+{{ end }}
+ 
+<ul>
+{{ range .Site.Sections }}
+    <li><a href="{{ .Permalink }}">{{ .Title }}</a>
+        {{ template "souspages" . }}</li>
+{{ end }}
+</ul>
