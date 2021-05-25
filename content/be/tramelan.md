@@ -7,6 +7,7 @@ territoire:
     - Tramelan
 NPA:
     - 2720
+    - 2722
 meta:
     -  Les Reussilles
 region: Par8

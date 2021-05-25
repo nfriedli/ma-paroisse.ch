@@ -111,6 +111,7 @@ Pour leurs avis et leurs tests, merci à:
 - Philippe Golaz (https://philippegolaz.ch/)
 - Elio Jaillet
 - Sarah Nicolet
+- CAMILLE ZIMMERMANN-GUERDAT
 
 Et merci au génial Régis Philibert (https://regisphilibert.com/fr/) pour une astuce Hugo qui a tout changé ;)
 
