@@ -56,6 +56,7 @@ NPA:
 meta:
     - Bassecourt
     - Berlincourt
+    - Choindez
     - Corban
     - Courfaivre
     - Glovelier
@@ -64,8 +65,9 @@ meta:
     - Recolaine
     - Soulce
     - Undervelier
+    - Vellerat
     - Vermes
     - Vicques
-date: 2021-05-24
+date: 2021-05-25
 ---
 
