@@ -37,7 +37,7 @@ input.addEventListener('keyup', function (event) {
     for (var i in result) {
         var listItem = document.createElement('li');
         var link = document.createElement('a');
-        link.textContent = result[i].item.title;
+        link.textContent = result[i].item.title + "(" + result[i].item.canton +")";
         link.setAttribute('href', result[i].item.permalink);
         listItem.appendChild(link);
         resultsUI.appendChild(listItem);
