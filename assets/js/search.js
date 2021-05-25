@@ -1,16 +1,18 @@
 const options = {
     includeScore: true,
-    threshold: 0.20,
+    threshold: 0.24,
     useExtendedSearch: true,
+    ignoreLocation: true,
+    ignoreFieldNorm: true,
     keys: [
         "title",
-        { name: "name", weight: 100},
+        "name",
         "canton",
-        { name: "territoire", weight: 10},
-        { name: "eglise", weight: 10},
-        { name: "meta", weight: 1000},
+        "territoire",
+        "eglise",
+        "meta",
         "permalink",
-        { name: "NPA", weight: 100},
+        "NPA",
         "region"
     ]
 };
