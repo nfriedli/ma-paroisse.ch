@@ -60,6 +60,7 @@ meta:
     - Courfaivre
     - Glovelier
     - Montsevelier
+    - Rebeuvelier
     - Recolaine
     - Soulce
     - Undervelier

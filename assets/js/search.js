@@ -8,7 +8,7 @@ const options = {
         "canton",
         { name: "territoire", weight: 10},
         { name: "eglise", weight: 10},
-        "meta",
+        { name: "meta", weight: 1000},
         "permalink",
         { name: "NPA", weight: 100},
         "region"
