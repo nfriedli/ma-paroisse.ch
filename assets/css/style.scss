@@ -10,6 +10,7 @@ html {
     line-height: 1.6;
     overflow-y: scroll;
     text-rendering: optimizeSpeed;
+    /* font-feature-settings: "zero" 1, "ss01" 1, "ss02" 1, "tnum" 1, "calt" 1, "case" 1, "dlig" 1; */
 }
 
 @media screen and (min-width: 1000px) {
