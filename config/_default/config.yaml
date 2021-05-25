@@ -45,9 +45,9 @@ params:
     Contact: nicolasfriedli@protonmail.ch  
     Licence: CC0 (domaine public)  
 
-    [Plan complet](/sitemap/ "Toutes les paroisses sur une seule page!") /
-    [En savoir plus](https://github.com/nfriedli/ma-paroisse.ch "Informations techniques et évolution du projet") / 
-    [Réseau protestant](https://reseau-protestant.ch/liste/)
+    [Plan complet](/sitemap/ "Toutes les paroisses sur une seule page") /
+    [En savoir plus](https://github.com/nfriedli/ma-paroisse.ch "README et sources du projet sur GitHub") / 
+    [Réseau protestant](https://reseau-protestant.ch/liste/ "Liste de sites protestants (réformés) de Suisse romande")
   images:
     - https://cdn.pixabay.com/photo/2018/02/23/22/48/light-3176887_960_720.jpg
     - https://cdn.pixabay.com/photo/2015/12/08/00/27/church-1081718_960_720.jpg
