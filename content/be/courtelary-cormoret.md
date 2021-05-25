@@ -1,12 +1,9 @@
----
-title: Paroisse de Courtelary-Cormoret
-name: Courtelary-Cormoret
-site: https://www.referguel.ch/paroisses/courtelary-cormoret/
-territoire:
-    - Cormoret
-    - Courtelary
-NPA:
-    - 2608
-    - 2612
-region: Erguël
----
++++
+NPA = [2608, 2612]
+name = "Courtelary-Cormoret"
+region = "Erguël"
+site = "https://www.referguel.ch/paroisses/courtelary-cormoret/"
+territoire = ["Cormoret", "Courtelary"]
+title = "Paroisse de Courtelary-Cormoret"
+
++++

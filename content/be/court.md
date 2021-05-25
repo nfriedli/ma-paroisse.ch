@@ -1,12 +1,9 @@
----
-title: Paroisse de Court
-name: Court
-site: https://www.par8.ch/court
-territoire:
-    - Court
-    - Sorvilier
-NPA:
-    - 2736
-    - 2738
-region: Par8
----
++++
+NPA = [2736, 2738]
+name = "Court"
+region = "Par8"
+site = "https://www.par8.ch/court"
+territoire = ["Court", "Sorvilier"]
+title = "Paroisse de Court"
+
++++

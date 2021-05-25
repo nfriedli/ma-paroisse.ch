@@ -1,78 +1,9 @@
----
-title: Paroisse d'Estavayer-le-Lac
-name: Estavayer-le-Lac
-site: https://www.estaparoisse.ch/
-territoire:
-    - Belmont-Broye
-    - Châtillon
-    - Cheyres-Châbles
-    - Cugy
-    - Delley-Portalban
-    - Estavayer
-    - Fétigny
-    - Gletterens
-    - Les Montets
-    - Lully
-    - Menières
-    - Montagny
-    - Nuvilly
-    - Prévondavaux
-    - Saint-Aubin
-    - Sévaz
-    - Surpierre
-    - Vallon
-    - Villeneuve
-    - Vuissens
-NPA:
-    - 1410
-    - 1470	
-    - 1473	
-    - 1475	
-    - 1486	
-    - 1489	
-    - 1541	
-    - 1542	
-    - 1468
-    - 1470
-    - 1473
-    - 1474
-    - 1475
-    - 1482
-    - 1483
-    - 1485
-    - 1489
-    - 1532
-    - 1533
-    - 1541
-    - 1542
-    - 1544
-    - 1565
-    - 1566
-    - 1567
-    - 1568
-    - 1775
-meta:  
-    - Autavaux	
-    - Bollion
-    - Bussy
-    - Cheiry
-    - Domdidier
-    - Dompierre
-    - Estavayer-le-Lac
-    - Font
-    - Forel
-    - Franex
-    - Grandsivaz
-    - La Counaise
-    - Léchelles
-    - Mannens
-    - Montborget
-    - Montbrelloz
-    - Morens
-    - Murist
-    - Rueyres-les-Prés
-    - Russy
-    - Seiry
-    - Vernay
-    - Vesin
----
++++
+NPA = [1410, 1470, 1473, 1475, 1486, 1489, 1541, 1542, 1468, 1470, 1473, 1474, 1475, 1482, 1483, 1485, 1489, 1532, 1533, 1541, 1542, 1544, 1565, 1566, 1567, 1568, 1775]
+meta = ["Autavaux", "Bollion", "Bussy", "Cheiry", "Domdidier", "Dompierre", "Estavayer-le-Lac", "Font", "Forel", "Franex", "Grandsivaz", "La Counaise", "Léchelles", "Mannens", "Montborget", "Montbrelloz", "Morens", "Murist", "Rueyres-les-Prés", "Russy", "Seiry", "Vernay", "Vesin"]
+name = "Estavayer-le-Lac"
+site = "https://www.estaparoisse.ch/"
+territoire = ["Belmont-Broye", "Châtillon", "Cheyres-Châbles", "Cugy", "Delley-Portalban", "Estavayer", "Fétigny", "Gletterens", "Les Montets", "Lully", "Menières", "Montagny", "Nuvilly", "Prévondavaux", "Saint-Aubin", "Sévaz", "Surpierre", "Vallon", "Villeneuve", "Vuissens"]
+title = "Paroisse d'Estavayer-le-Lac"
+
++++
