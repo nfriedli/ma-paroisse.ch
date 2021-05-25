@@ -4,6 +4,21 @@ Un site ultra simple pour retrouver sa paroisse protestante réformée en Suisse
 
 C'est ici: https://ma-paroisse.ch
 
+## La problématique
+
+Fusions de communes et regroupements paroissiaux rendent la maintenance des données complexes.
+
+Un exemple, le village de Valangin:
+
+- il se situe dans le Val-de-Ruz (et fait partie de la paroisse Val-de-Ruz)
+- mais il n'a pas rejoint la commune de Val-de-Ruz
+- aujourd'hui, il fait partie de la commune de Neuchâtel (mais n'a pas changé de paroisse)
+
+Les éléments graphiques pour représenter les territoires -- il en existe dans plusieurs Églises -- sont compliqués à mettre à jour.
+Souvent, ils ne le sont pas...
+
+Je suis convaincu que la production d'un site de référence construit uniquement sur des données (textuelles) est beaucoup plus simple. Donc plus fiable.
+
 ## Comment ça marche?
 
 Chaque paroisse listée comporte des informations qui dépassent son simple nom. Le pages de détails (par exemple: https://ma-paroisse.ch/ne/barc/) permettent de s'en faire une idée. Il existe peut-être d'autres «indices» cachés pour améliorer la recherche.
@@ -55,6 +70,12 @@ NB: si vous comprenez cette phrase, n'hésitez pas à proposer un *Pull request*
 
 L'attribution du canton et de l'Église sont automatiques en fonction de la localisation dans l'arborescence du site.
 
+## API
+
+Les contenus sous format JSON sont disponibles ici: https://ma-paroisse.ch/index.json
+
+Sur demande, je pourrais produire un flux JSON par canton. Si c'est utile à des responsables de sites, je peux créer un format sur mesure pour reprise directe sur leur site. Utile pour publier un tableau dynamique ou sa propre recherche. Il suffit de me donner la structure de JSON souhaitée.
+
 ## Contact & licence
 
 C'est ici: nicolasfriedli@protonmail.ch  
@@ -62,8 +83,7 @@ Ce projet est personnel, bénévole et sans commanditaire.
 
 Le site est sous [licence CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.fr) (domaine public), pourtant je ne vois pas de sens à le copier. Les sources sont consultables pour y reprendre des idées. Le script fuse.js est sous licence [Apache License 2.0](https://github.com/krisk/Fuse/blob/master/LICENSE).
 
-Les contenus sous format JSON sont disponibles ici: https://ma-paroisse.ch/index.json
-
+**N'hésitez pas à reprendre les données directement dans le JSON (*hotlink*)!**
 
 ## Merci...
 
