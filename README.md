@@ -14,10 +14,17 @@ Un exemple, le village de Valangin:
 - mais il n'a pas rejoint la commune de Val-de-Ruz
 - aujourd'hui, il fait partie de la commune de Neuchâtel (mais n'a pas changé de paroisse)
 
-Les éléments graphiques pour représenter les territoires -- il en existe dans plusieurs Églises -- sont compliqués à mettre à jour.
+Un autre exemple, le village d'Undervelier. Essayez une recherche:
+
+    paroisse Undervelier
+
+et dites-moi dans quelle paroisse réformée le village se trouve...
+
+Les éléments graphiques pour représenter les territoires — il en existe dans plusieurs Églises — sont compliqués à mettre à jour.
 Souvent, ils ne le sont pas...
 
-Je suis convaincu que la production d'un site de référence construit uniquement sur des données (textuelles) est beaucoup plus simple. Donc plus fiable.
+Je suis convaincu que la production d'un site de référence construit uniquement sur des données (textuelles) est beaucoup plus simple. Donc plus qualitatif et plus fiable.
+
 
 ## Comment ça marche?
 
@@ -94,3 +101,11 @@ Pour leurs avis et leurs tests, merci à:
 - Philippe Golaz (https://philippegolaz.ch/)
 - Elio Jaillet
 - Sarah Nicolet
+
+## Post-scriptum
+
+Bien que je sois convaincu de l'utilité de ce site, c'est avant tout un exercice pratique:
+
+- pour tester la génération de JSON avec Hugo
+- pour tester un script de recherche *fuzzy*
+- pour observer le référencement du tout
