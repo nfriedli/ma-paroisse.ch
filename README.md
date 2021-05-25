@@ -112,6 +112,8 @@ Pour leurs avis et leurs tests, merci à:
 - Elio Jaillet
 - Sarah Nicolet
 
+Et merci au génial Régis Philibert (https://regisphilibert.com/fr/) pour une astuce Hugo qui a tout changé ;)
+
 ## Post-scriptum
 
 Bien que je sois convaincu de l'utilité de ce site, c'est avant tout un exercice pratique:
