@@ -5,8 +5,7 @@ languageCode: fr-ch
 defaultContentLanguage: fr
 
 canonifyURLs: true
-copyright: Nicolas Friedli
-disableFastRender: true
+copyright: CC0 (domaine public)
 disableFastRender: true
 # enableGitInfo: true
 cleandestinationdir: true
@@ -40,7 +39,7 @@ outputs:
 params:
   footer: |
     **Site en développement!**  
-    Nouveautés et corrections bienvenues.
+    Nouvelles paroisses et corrections bienvenues.
     
     Contact: nicolasfriedli@protonmail.ch  
     Licence: CC0 (domaine public)  
