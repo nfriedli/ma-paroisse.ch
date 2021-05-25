@@ -1,15 +1,24 @@
 {{ define "souspages" }}
-{{ if .Pages }}
+{{ $pagesWithRegion := where .Pages ".Params.region" "!=" nil}}
+{{ $pagesWithoutRegion := where .Pages ".Params.region" nil}}
 <ul>
-    {{ range .Pages}}
+    {{ range $pagesWithoutRegion }}
     <li><a href="{{ .Permalink }}">{{ .Title }}</a>
         {{ template "souspages" . }}
     </li>
     {{ end }}
+    {{ range $pagesWithRegion.GroupByParam "region" }}
+    <li>{{ .Key }}
+        <ul>
+        {{ range .Pages}}
+        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+        {{ end }}
+        </ul>
+    </li>
+    {{ end }}
 </ul>
-{{ end }}
-{{ end }}
- 
+{{ end }} 
+
 <ul>
 {{ range .Site.Sections }}
     <li><a href="{{ .Permalink }}">{{ .Title }}</a>
