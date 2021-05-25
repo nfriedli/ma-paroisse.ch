@@ -1,89 +1,11 @@
----
-title: Paroisse de Porrentruy
-name: Porrentruy
-site: https://www.egliserefju.ch/porrentruy/
-territoire:
-    - Alle
-    - Basse-Allaine
-    - Beurnevésin
-    - Boncourt
-    - Bonfol
-    - Bure
-    - Clos du Doubs
-    - Cœuve
-    - Cornol
-    - Courchavon
-    - Courgenay
-    - Courtedoux
-    - Damphreux
-    - Fahy
-    - Fontenais
-    - Grandfontaine
-    - Haute-Ajoie
-    - La Baroche
-    - Lugnez
-    - Porrentruy
-    - Vendlincourt
-NPA:
-    - 2882
-    - 2883 
-    - 2884 
-    - 2885 
-    - 2886 
-    - 2888 
-    - 2889 
-    - 2900
-    - 2902
-    - 2905
-    - 2906
-    - 2907
-    - 2908
-    - 2912
-    - 2914
-    - 2915
-    - 2916
-    - 2922
-    - 2923
-    - 2924
-    - 2925
-    - 2926
-    - 2932
-    - 2933
-    - 2935
-    - 2942
-    - 2943
-    - 2944
-    - 2946
-    - 2947
-    - 2950
-    - 2952
-    - 2953
-    - 2954
-meta:
-    - Asuel
-    - Bressaucourt
-    - Buix
-    - Charmoille
-    - Chevenez
-    - Courtemaîche
-    - Damvant
-    - Epauvillers
-    - Epiquerez
-    - Fregiécourt
-    - Miécourt
-    - Montenol
-    - Montignez
-    - Montmelon-Dessous
-    - Montmelon-Dessus
-    - Ocourt
-    - Pleujouse
-    - Ravines
-    - Réclère
-    - Roche-d'Or
-    - Rocourt
-    - Saint-Ursanne
-    - Seleute
-    - Villars-sur-Fontenais
----
++++
+NPA = [2882, 2883, 2884, 2885, 2886, 2888, 2889, 2900, 2902, 2905, 2906, 2907, 2908, 2912, 2914, 2915, 2916, 2922, 2923, 2924, 2925, 2926, 2932, 2933, 2935, 2942, 2943, 2944, 2946, 2947, 2950, 2952, 2953, 2954]
+meta = ["Asuel", "Bressaucourt", "Buix", "Charmoille", "Chevenez", "Courtemaîche", "Damvant", "Epauvillers", "Epiquerez", "Fregiécourt", "Miécourt", "Montenol", "Montignez", "Montmelon-Dessous", "Montmelon-Dessus", "Ocourt", "Pleujouse", "Ravines", "Réclère", "Roche-d'Or", "Rocourt", "Saint-Ursanne", "Seleute", "Villars-sur-Fontenais"]
+name = "Porrentruy"
+site = "https://www.egliserefju.ch/porrentruy/"
+territoire = ["Alle", "Basse-Allaine", "Beurnevésin", "Boncourt", "Bonfol", "Bure", "Clos du Doubs", "Cœuve", "Cornol", "Courchavon", "Courgenay", "Courtedoux", "Damphreux", "Fahy", "Fontenais", "Grandfontaine", "Haute-Ajoie", "La Baroche", "Lugnez", "Porrentruy", "Vendlincourt"]
+title = "Paroisse de Porrentruy"
+
++++
 
 Numéros postaux, communes et villages à compléter...
