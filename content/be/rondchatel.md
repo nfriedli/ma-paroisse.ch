@@ -16,7 +16,7 @@ NPA:
     - 2603
     - 2604
 meta:
-    - Finvillier
+    - Frinvillier
     - Les Prés-d'Orvin
     - Plagne
     - Reuchenette
