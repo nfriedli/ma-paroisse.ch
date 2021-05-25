@@ -1,10 +1,12 @@
-+++
-NPA = [1217]
-meta = ["Mategnin"]
-name = "Meyrin"
-region = "Rhône-Mandement"
-site = "https://meyrin.epg.ch/"
-territoire = ["Meyrin"]
-title = "Paroisse de Meyrin"
-
-+++
+---
+title: Paroisse de Meyrin
+name: Meyrin
+site: https://meyrin.epg.ch/
+territoire:
+    - Meyrin
+NPA:
+    - 1217
+meta:
+    - Mategnin
+region: Rhône-Mandement
+---

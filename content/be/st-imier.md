@@ -1,10 +1,14 @@
-+++
-NPA = [2610]
-meta = ["Le Cerneux-Veusil", "Les Pontins", "Mont-Soleil"]
-name = "Saint-Imier"
-region = "Erguël"
-site = "https://www.referguel.ch/paroisses/saint-imier/"
-territoire = ["Saint-Imier"]
-title = "Paroisse de Saint-Imier"
-
-+++
+---
+title: Paroisse de Saint-Imier
+name: Saint-Imier
+site: https://www.referguel.ch/paroisses/saint-imier/
+territoire:
+    - Saint-Imier
+NPA:
+    - 2610
+meta:
+    - Le Cerneux-Veusil
+    - Les Pontins
+    - Mont-Soleil
+region: Erguël
+---
