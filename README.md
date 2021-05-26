@@ -77,6 +77,16 @@ NB: si vous comprenez cette phrase, n'hésitez pas à proposer un *Pull request*
 
 L'attribution du canton et de l'Église sont automatiques en fonction de la localisation dans l'arborescence du site.
 
+## Validations
+
+En principe, le site est conforme aux exigences techniques en cours. En particulier:
+
+- accessibilité (A11Y) selon le test Wave (https://wave.webaim.org/)
+- scores élevés aux tests de Google (https://web.dev/measure/)
+- validité HTML5 et CSS3 (https://validator.w3.org/)
+
+En langage courant: je souhaite que ce site puisse être vu quelle que soit la qualité de la connexion (vitesse), sur tout périphérique (*responsive design*), par toute personne sans discrimination (accessibilité).
+
 ## API
 
 Les contenus sous format JSON sont disponibles ici: https://ma-paroisse.ch/index.json
