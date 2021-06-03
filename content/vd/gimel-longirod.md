@@ -1,0 +1,26 @@
+---
+title: Paroisse de Gimel - Longirod
+name: Gimel - Longirod
+site: https://gimellongirod.eerv.ch
+territoire:
+    - Essertines-sur-Rolle
+    - Gimel
+    - Le Vaud
+    - Longirod
+    - Marchissy
+    - Saint-George
+    - Saint-Oyens
+    - Saubraz
+NPA:
+    - 1186
+    - 1187
+    - 1188
+    - 1189
+    - 1261
+meta:
+    - Bugnaux
+    - Châtel-sur-Rolle
+    - Creux du Mas
+    - Roussillon
+region: Morges - Aubonne
+---

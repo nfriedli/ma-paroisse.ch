@@ -1,9 +1,9 @@
 ---
 title: Paroisse de La Dôle
 name: La Dôle
-site: https://ladole.eerv.ch/
+site: https://ladole.eerv.ch
 territoire:
-    - Arnex/Nyon
+    - Arnex-sur-Nyon
     - Borex
     - Chéserex
     - Crassier
@@ -20,5 +20,12 @@ NPA:
     - 1276
     - 1277
     - 1278
+meta:
+    - Avenex
+    - Bonmont
+    - La Florettaz
+    - Petit-Eysins
+    - Signy
+    - Tranchepied
 region: La Côte
 ---
