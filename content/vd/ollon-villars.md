@@ -1,5 +1,5 @@
 ---
-title: Paroisse réformée d'Ollon - Villars
+title: Paroisse d'Ollon - Villars
 name: Ollon - Villars
 site: https://ollonvillars.eerv.ch
 territoire:
