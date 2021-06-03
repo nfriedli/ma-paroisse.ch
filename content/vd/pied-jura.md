@@ -8,6 +8,7 @@ territoire:
     - Berolle
     - Bière
     - Bussy-Chardonney
+    - Clarmont
     - Cottens VD
     - Mollens VD
     - Pampigny
@@ -15,6 +16,7 @@ territoire:
     - Sévery
 NPA:
     - 1116
+    - 1127
     - 1128
     - 1136
     - 1141

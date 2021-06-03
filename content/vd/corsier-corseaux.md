@@ -8,6 +8,8 @@ territoire:
 NPA:
     - 1802
     - 1804
+    - 1808
+    - 1809
 meta:
     - Fenil-sur-Corsier
     - Les Monts-de-Corsier

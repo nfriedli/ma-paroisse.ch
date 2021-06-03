@@ -7,6 +7,7 @@ territoire:
     - Saint-Cergue
 NPA:
     - 1264
+    - 1265
     - 1273
 meta:
     - La Cure

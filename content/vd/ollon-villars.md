@@ -6,6 +6,8 @@ territoire:
     - Ollon
 NPA:
     - 1867
+    - 1884
+    - 1885
 meta:
     - Antagnes
     - Arveyes
@@ -16,7 +18,7 @@ meta:
     - Exergillod
     - Forchex
     - Glutieres
-    - Huemoz
+    - Huémoz
     - Les Combes
     - Les Ecovets
     - Les Fontaines
