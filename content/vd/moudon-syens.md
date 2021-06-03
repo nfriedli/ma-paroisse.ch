@@ -1,9 +1,13 @@
 ---
-title: Paroisse de Moudon-Syens
-name: Moudon-Syens
-site: https://moudonsyens.eerv.ch/
+title: Paroisse de Moudon - Syens
+name: Moudon - Syens
+site: https://moudonsyens.eerv.ch
 territoire:
+    - Bussy-sur-Moudon
+    - Chavannes-sur-Moudon
+    - Hermenches
     - Moudon
+    - Rossenges
     - Syens
 NPA:
     - 1510
@@ -11,13 +15,6 @@ NPA:
     - 1513
     - 1514
 meta:
-    - Bussy-sur-Moudon
     - Bressonnaz
-    - Chavannes-sur-Moudon
-    - Hermenches
-    - Rossenges
-    - cathédrale de la Broye
-    - Saint-Étienne
 region: La Broye
 ---
-
