@@ -1,6 +1,6 @@
 ---
-title: Paroisse du Coeur de la Côte
-name: Coeur de la Côte
+title: Paroisse du Cœur de la Côte
+name: Cœur de la Côte
 site: https://coeurdelacote.eerv.ch
 territoire:
     - Bursinel

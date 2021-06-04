@@ -1,6 +1,6 @@
 ---
 title: Paroisse des 5 communes
-name: 5 communes
+name: Cinq communes
 site: https://5communes.epg.ch/
 territoire:
     - Bellevue
