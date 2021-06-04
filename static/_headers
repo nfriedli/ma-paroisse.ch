@@ -24,3 +24,6 @@
 
 /css/*
     Cache-Control: max-age=63072000,immutable
+
+/fonts/*
+    Cache-Control: max-age=63072000,immutable
