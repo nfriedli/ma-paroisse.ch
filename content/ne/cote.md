@@ -8,6 +8,7 @@ territoire:
 NPA:
     - 2034
     - 2035
+    - 2036
 meta:
     - Neuchâtel
 ---

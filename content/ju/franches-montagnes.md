@@ -17,6 +17,7 @@ territoire:
     - Saint-Brais
     - Soubey
 NPA:
+    - 2336
     - 2338
     - 2345
     - 2350

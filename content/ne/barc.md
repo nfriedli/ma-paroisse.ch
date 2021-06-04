@@ -11,12 +11,15 @@ NPA:
     - 2014
     - 2019
     - 2037
+    - 2149
 meta:
     - Auvernier
     - Bôle
     - Brot-Dessous
     - Chambrelien
+    - Champ-du-Moulin
     - Colombier
+    - Fretereules
     - Les Grattes
     - Montezillon
 ---
