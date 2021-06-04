@@ -132,10 +132,16 @@ Merci particulier au theologeek pour l'ajout massif des paroisses vaudoises et g
 
 Et merci au génial Régis Philibert (https://regisphilibert.com/fr/) pour une astuce Hugo qui a tout changé ;)
 
-## Post-scriptum
+## Post-scriptum 1
 
 Bien que je sois convaincu de l'utilité de ce site, c'est avant tout un exercice pratique:
 
 - pour tester la génération de JSON avec Hugo
 - pour tester un script de recherche *fuzzy*
 - pour observer le référencement du tout
+
+## Post-scriptum 2
+
+Une des promesses de `git` a été vérifiée par la pratique: la collaboration sans coordination est possible. La célèbre vidéo [Clay Shirky: Comment internet transformera un jour le gouvernement](https://www.youtube.com/watch?v=CEN4XNth61o) en montre le principe: *Cooperation without coordination*.
+
+Quand le theologeek Olivier Keshavjee travaillait sur des nouvelles listes de paroisses, j'améliorais certains points du site. Nous n'en avions pas parlé précédemment. Avec `git`, nous avons pu fusionner (*merge*) nos contributions «non coordonnées» sans se marcher sur les pieds. Pas de poste de coordination ou de modérature à créer, juste un logiciel prévu pour cela... À méditer!
