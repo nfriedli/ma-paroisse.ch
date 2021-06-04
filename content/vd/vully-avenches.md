@@ -20,7 +20,7 @@ NPA:
 meta:
     - Avenches
     - Bellerive
-    - Bellerive VD
+    - Bellerive
     - Chabrey
     - Champmartin
     - Constantine
@@ -31,7 +31,7 @@ meta:
     - Montet  (Vully)
     - Montmagny
     - Mur
-    - Mur (Vully) VD
+    - Mur (Vully)
     - Oleyres
     - Salavaux
     - Vallamand

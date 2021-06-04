@@ -1,6 +1,6 @@
 ---
-title: Paroisse de Jussy - Gy - Meinier - Presinge - Puplinge
-name: Jussy|Gy|Meinier|Presinge|Puplinge
+title: Paroisse de Jussy-Gy-Meinier-Presinge-Puplinge
+name: Jussy-Gy-Meinier-Presinge-Puplinge
 site: https://jussy.epg.ch
 territoire:
     - Choulex

@@ -6,7 +6,7 @@ territoire:
     - Anières
     - Choulex
     - Collonge-Bellerive
-    - Corsier (GE)
+    - Corsier
     - Hermance
 NPA:
     - 1222

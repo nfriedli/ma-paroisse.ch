@@ -3,7 +3,7 @@ title: Paroisse de Petit-Lancy St-Luc
 name: Petit-Lancy
 site: https://petit-lancy-st-luc.epg.ch
 territoire:
-    - Carouge (GE)
+    - Carouge
     - Genève
     - Lancy
     - Onex

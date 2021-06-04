@@ -29,7 +29,7 @@ meta:
     - La Coudre
     - Le Cosson
     - Les Mousses
-    - Moiry VD
+    - Moiry
     - Mollendruz
     - Romainmôtier
     - Saint-Denis

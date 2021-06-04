@@ -22,7 +22,7 @@ meta:
     - Les Combes
     - Les Ecovets
     - Les Fontaines
-    - Ollon VD
+    - Ollon
     - Pallueyres
     - Panex
     - Plambuit

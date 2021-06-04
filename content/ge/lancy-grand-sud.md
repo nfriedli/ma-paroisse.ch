@@ -3,7 +3,7 @@ title: Paroisse de Lancy Grand-Sud
 name: Lancy-Grand-Sud
 site: https://lancy-grand-sud.epg.ch
 territoire:
-    - Carouge (GE)
+    - Carouge
     - Genève
     - Lancy
 NPA:

@@ -21,6 +21,6 @@ NPA:
     - 1287
     - 1288
 meta:
-    - Athenaz (Avusy)
+    - Athenaz
 region: Plateau-Champagne
 ---

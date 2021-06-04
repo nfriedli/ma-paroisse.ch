@@ -17,7 +17,7 @@ NPA:
 meta:
     - La Coudre
     - Les Mousses
-    - Moiry VD
+    - Moiry
     - Mollendruz
     - Saint-Denis
     - Villars-Bozon

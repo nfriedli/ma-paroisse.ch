@@ -6,8 +6,8 @@ territoire:
     - Chessel
     - Noville
     - Rennaz
-    - Roche VD
-    - Villeneuve VD
+    - Roche
+    - Villeneuve
 NPA:
     - 1844
     - 1845

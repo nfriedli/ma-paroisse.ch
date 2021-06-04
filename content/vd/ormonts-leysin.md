@@ -18,7 +18,7 @@ meta:
     - Crettaz
     - La Comballaz
     - La Forclaz
-    - La Forclaz VD
+    - La Forclaz
     - Le Pont-de-la-Tine
     - Le Rosex
     - Le Sépey

@@ -7,7 +7,7 @@ territoire:
     - Lausanne
     - Prilly
     - Pully
-    - Renens VD
+    - Renens
 NPA:
     - 1003
     - 1004

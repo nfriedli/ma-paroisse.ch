@@ -4,8 +4,8 @@ name: Chavannes - Epenex
 site: https://chavannesepenex.eerv.ch
 territoire:
     - Chavannes-près-Renens
-    - Ecublens VD
-    - Renens VD
+    - Ecublens
+    - Renens
 NPA:
     - 1020
     - 1022

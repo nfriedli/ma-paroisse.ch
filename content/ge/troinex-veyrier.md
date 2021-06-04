@@ -4,7 +4,7 @@ name: Troinex-Veyrier
 site: https://troinex-veyrier.epg.ch
 territoire:
     - Bardonnex
-    - Carouge (GE)
+    - Carouge
     - Genève
     - Plan-les-Ouates
     - Troinex

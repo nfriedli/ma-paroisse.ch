@@ -3,7 +3,7 @@ title: Paroisse de Carouge
 name: Carouge
 site: https://carouge.epg.ch
 territoire:
-    - Carouge (GE)
+    - Carouge
     - Genève
 NPA:
     - 1227

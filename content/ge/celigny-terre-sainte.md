@@ -1,6 +1,6 @@
 ---
-title: Paroisse de Terre Sainte - Céligny
-name: Céligny Terre Sainte
+title: Paroisse de Céligny-Terre Sainte
+name: Céligny-Terre Sainte
 site: https://celigny-terre-sainte.epg.ch
 territoire:
     - Céligny

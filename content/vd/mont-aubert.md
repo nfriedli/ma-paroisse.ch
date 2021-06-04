@@ -6,7 +6,7 @@ territoire:
     - Concise
     - Corcelles-près-Concise
     - Mutrux
-    - Onnens VD
+    - Onnens
     - Provence
 NPA:
     - 1425

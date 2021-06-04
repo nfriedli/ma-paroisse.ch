@@ -6,7 +6,7 @@ territoire:
     - Belmont-sur-Yverdon
     - Cronay
     - Cuarny
-    - Ependes VD
+    - Ependes
     - Pomy
     - Suchy
     - Ursins

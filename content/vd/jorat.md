@@ -24,12 +24,12 @@ NPA:
 meta:
     - Bressonnaz-Dessus
     - Carrouge
-    - Carrouge VD
+    - Carrouge
     - Ferlens
-    - Ferlens VD
+    - Ferlens
     - Les Cullayes
     - Mézières
-    - Mézières VD
+    - Mézières
     - Seppey-pres-Vulliens
     - Servion
     - Ussières

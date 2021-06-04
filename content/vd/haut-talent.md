@@ -5,12 +5,12 @@ site: https://lehauttalent.eerv.ch
 territoire:
     - Bottens
     - Bretigny-sur-Morrens
-    - Cugy VD
+    - Cugy
     - Froideville
     - Jorat-Menthue
     - Lausanne
     - Montilliez
-    - Morrens VD
+    - Morrens
     - Poliez-Pittet
 NPA:
     - 1000

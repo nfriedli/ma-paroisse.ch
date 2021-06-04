@@ -5,7 +5,7 @@ site: https://vufflenslaville.eerv.ch
 territoire:
     - Bournens
     - Boussens
-    - Mex VD
+    - Mex
     - Sullens
     - Vufflens-la-Ville
 NPA:

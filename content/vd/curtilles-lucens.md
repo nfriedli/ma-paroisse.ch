@@ -4,7 +4,7 @@ name: Curtilles - Lucens
 site: https://curtilleslucens.eerv.ch
 territoire:
     - Curtilles
-    - Dompierre VD
+    - Dompierre
     - Lausanne
     - Lovatens
     - Lucens
@@ -20,7 +20,7 @@ NPA:
 meta:
     - Brenles
     - Cerniaz
-    - Cerniaz VD
+    - Cerniaz
     - Chesalles-sur-Moudon
     - Combremont-le-Grand
     - Combremont-le-Petit

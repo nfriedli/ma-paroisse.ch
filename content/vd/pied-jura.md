@@ -9,8 +9,8 @@ territoire:
     - Bière
     - Bussy-Chardonney
     - Clarmont
-    - Cottens VD
-    - Mollens VD
+    - Cottens
+    - Mollens
     - Pampigny
     - Reverolle
     - Sévery

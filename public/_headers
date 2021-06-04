@@ -1,0 +1,26 @@
+/*
+    Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+    X-Content-Type-Options: nosniff
+    X-XSS-Protection: 1; mode=block
+    Cache-Control: max-age=86400
+    Referrer-Policy: no-referrer-when-downgrade
+    X-Frame-Options: DENY
+
+/sitemap.xml
+    X-Robots-Tag: noindex
+    Cache-Control: max-age=3600
+
+
+/index.xml
+    X-Robots-Tag: noindex
+    Cache-Control: max-age=3600
+
+/index.json
+    X-Robots-Tag: noindex
+    Cache-Control: max-age=3600
+
+/js/*
+    Cache-Control: max-age=63072000,immutable
+
+/css/*
+    Cache-Control: max-age=63072000,immutable

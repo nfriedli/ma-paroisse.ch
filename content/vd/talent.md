@@ -15,7 +15,7 @@ territoire:
     - Oulens-sous-Echallens
     - Penthéréaz
     - Poliez-Pittet
-    - Saint-Barthélemy VD
+    - Saint-Barthélemy
     - Villars-le-Terroir
 NPA:
     - 1037

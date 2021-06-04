@@ -3,7 +3,7 @@ title: Paroisse de Nyon
 name: Nyon
 site: https://nyon.eerv.ch
 territoire:
-    - Crans VD
+    - Crans
     - Nyon
     - Prangins
 NPA:

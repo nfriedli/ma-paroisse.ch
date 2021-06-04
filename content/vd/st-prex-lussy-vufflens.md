@@ -5,7 +5,7 @@ site: https://saintprexlussyvufflens.eerv.ch
 territoire:
     - Chigny
     - Denens
-    - Lully VD
+    - Lully
     - Lussy-sur-Morges
     - Saint-Prex
     - Tolochenaz

@@ -3,7 +3,7 @@ title: Paroisse de l'Arve
 name: Arve
 site: https://arve.epg.ch
 territoire:
-    - Carouge (GE)
+    - Carouge
     - Genève
 NPA:
     - 1204

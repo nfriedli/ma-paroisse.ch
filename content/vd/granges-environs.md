@@ -4,7 +4,7 @@ name: Granges et environs
 site: https://grangesetenvirons.eerv.ch
 territoire:
     - Champtauroz
-    - Dompierre VD
+    - Dompierre
     - Henniez
     - Lovatens
     - Prévonloup
@@ -27,14 +27,14 @@ NPA:
     - 1682
 meta:
     - Cerniaz
-    - Cerniaz VD
+    - Cerniaz
     - Combremont-le-Grand
     - Combremont-le-Petit
     - Granges-près-Marnand
     - Granges-sous-Trey
     - Marnand
     - Rossens
-    - Rossens VD
+    - Rossens
     - Sassel
     - Seigneux
     - Sédeilles
