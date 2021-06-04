@@ -41,7 +41,7 @@
     {{ $current := .}}
     {{ with .Parent }}
     <ul>
-    {{ range .Pages }}
+    {{ range (sort .Pages "Permalink") }}
         {{ if eq $current.Params.region .Params.region }}
             {{ if eq $current.Permalink .Permalink }}    
             <li>{{ .Title }}</li>
@@ -57,12 +57,13 @@
 {{ $current := .}}
 {{ with .Parent }}
 <ul>
-{{ range .Pages }}
+{{ range (sort .Pages "Permalink") }}
     {{ if eq $current.Permalink .Permalink }}    
         <li>{{ .Title }}</li>
         {{ else }}
         <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-    {{ end }}{{ end }}
+    {{ end }}
+{{ end }}
 </ul>
 {{ end }}
 {{ end }}

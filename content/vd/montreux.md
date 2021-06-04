@@ -8,6 +8,10 @@ territoire:
 NPA:
     - 1820
     - 1822
+    - 1823
+    - 1824
+    - 1832
+    - 1833
 meta:
     - Baugy
     - Brent

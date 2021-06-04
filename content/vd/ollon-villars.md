@@ -1,11 +1,13 @@
 ---
-title: Paroisse réformée d'Ollon - Villars
+title: Paroisse d'Ollon - Villars
 name: Ollon - Villars
 site: https://ollonvillars.eerv.ch
 territoire:
     - Ollon
 NPA:
     - 1867
+    - 1884
+    - 1885
 meta:
     - Antagnes
     - Arveyes
@@ -16,7 +18,7 @@ meta:
     - Exergillod
     - Forchex
     - Glutieres
-    - Huemoz
+    - Huémoz
     - Les Combes
     - Les Ecovets
     - Les Fontaines
