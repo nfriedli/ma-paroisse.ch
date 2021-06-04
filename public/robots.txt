@@ -1,4 +1,0 @@
-User-agent: * 
-Disallow: /table/
-
-Sitemap: https://ma-paroisse.ch/sitemap.xml
