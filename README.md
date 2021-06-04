@@ -124,7 +124,7 @@ Pour leurs avis et leurs tests, merci à:
 - Sarah Nicolet
 - CAMILLE ZIMMERMANN-GUERDAT
 
-Merci particulier au theologeek pour l'ajout massif des paroisses vaudoises ;)
+Merci particulier au theologeek pour l'ajout massif des paroisses vaudoises et genevoises ;)
 
 Et merci au génial Régis Philibert (https://regisphilibert.com/fr/) pour une astuce Hugo qui a tout changé ;)
 
