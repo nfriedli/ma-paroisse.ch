@@ -36,11 +36,15 @@ Le système de recherche utilisé (https://fusejs.io/) est tolérant aux coquill
 
 ## Le but
 
-Une fois ce projet assez avancé, je souhaite que se trouve dans les données (donc dans la recherche):
+Une fois ce projet assez avancé, je souhaite que se trouvent dans les données (donc dans la recherche):
 
 - tous les NPA (numéros postaux d'acheminement) attribués en Suisse romande
 - toutes les communes de Suisse romande
 - si possible tous les villages, hameaux, etc.
+
+L'idée, c'est toujours de trouver une paroisse en 5 secondes, sans connaître son canton, sa région, etc. *a priori*.
+
+L'autre idée, c'est de redonner à qui le souhaite l'ensemble des données du site sous forme structurée et réutilisable. Cf. API ci-dessous.
 
 ## Ajouter / modifier une paroisse
 
