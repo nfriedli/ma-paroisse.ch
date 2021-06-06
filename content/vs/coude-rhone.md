@@ -50,7 +50,7 @@ meta:
     - Commeire
     - Cries
     - Dranse
-    - Etiez
+    - Étiez
     - Ferret
     - Fionnay
     - Fontaine-Dessous

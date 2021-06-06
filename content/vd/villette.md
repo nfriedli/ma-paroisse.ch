@@ -13,7 +13,7 @@ meta:
     - Aran
     - Chenaux
     - Cully
-    - Epesses
+    - Épesses
     - Grandvaux
     - Riex
     - Villette

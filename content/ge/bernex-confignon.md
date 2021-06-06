@@ -1,5 +1,5 @@
 ---
-title: Paroisse de Bernex - Confignon
+title: Paroisse de Bernex-Confignon
 name: Bernex-Confignon
 site: https://bernex-confignon.epg.ch
 territoire:

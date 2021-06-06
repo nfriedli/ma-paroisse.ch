@@ -9,7 +9,7 @@ territoire:
     - Genève
     - Puplinge
     - Thônex
-    - Vandoeuvres
+    - Vandœuvres
 NPA:
     - 1208
     - 1223

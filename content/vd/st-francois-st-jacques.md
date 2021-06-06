@@ -24,5 +24,5 @@ meta:
     - Vernand-Dessous
     - Vernand-Dessus
     - Vers-chez-les-Blanc
-region: Lausanne - Epalinges
+region: Lausanne - Épalinges
 ---

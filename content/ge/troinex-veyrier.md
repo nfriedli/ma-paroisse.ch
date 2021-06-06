@@ -17,7 +17,7 @@ NPA:
     - 1256
     - 1257
 meta:
-    - Carouge GE
+    - Carouge
     - La Croix-de-Rozon
     - Les Acacias
     - Vessy

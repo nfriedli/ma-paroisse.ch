@@ -1,9 +1,9 @@
 ---
-title: Paroisse d'Echallens
-name: Echallens
+title: Paroisse d'Échallens
+name: Échallens
 site: https://echallens.eerv.ch
 territoire:
-    - Echallens
+    - Échallens
     - Saint-Barthélemy
     - Villars-le-Terroir
 NPA:

@@ -1,9 +1,9 @@
 ---
-title: Paroisse d'Ecublens - Saint-Sulpice
-name: Ecublens - Saint-Sulpice
+title: Paroisse d'Écublens - Saint-Sulpice
+name: Écublens - Saint-Sulpice
 site: https://ecublenssaintsulpice.eerv.ch
 territoire:
-    - Ecublens
+    - Écublens
     - Saint-Sulpice
 NPA:
     - 1024

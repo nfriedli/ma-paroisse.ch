@@ -10,7 +10,7 @@ NPA:
     - 1212
     - 1227
 meta:
-    - Carouge GE
+    - Carouge
     - Grand-Lancy
     - Les Acacias
 region: Salève

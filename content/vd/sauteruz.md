@@ -17,7 +17,7 @@ NPA:
     - 1417
     - 1418
 meta:
-    - Epautheyres
+    - Épautheyres
     - La Robellaz
     - Nonfoux
     - Vuarrengel

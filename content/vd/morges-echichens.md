@@ -1,9 +1,9 @@
 ---
-title: Paroisse de Morges - Echichens
-name: Morges - Echichens
+title: Paroisse de Morges - Échichens
+name: Morges - Échichens
 site: https://morges.eerv.ch
 territoire:
-    - Echichens
+    - Échichens
     - Morges
 NPA:
     - 1110
@@ -13,7 +13,7 @@ NPA:
     - 1125
 meta:
     - Colombier
-    - Echichens
+    - Échichens
     - Monnaz
     - Saint-Saphorin-sur-Morges
 region: Morges - Aubonne

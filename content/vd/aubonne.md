@@ -7,7 +7,7 @@ territoire:
     - Aubonne
     - Bougy-Villars
     - Buchillon
-    - Etoy
+    - Étoy
     - Féchy
     - Lavigny
     - Saint-Livres

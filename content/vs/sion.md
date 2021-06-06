@@ -8,7 +8,7 @@ territoire:
     - Ayent
     - Chamoson
     - Conthey
-    - Evolène
+    - Évolène
     - Grimisuat
     - Hérémence
     - Hérens
@@ -79,7 +79,7 @@ meta:
     - Eison
     - Erde
     - Euseigne
-    - Evolène
+    - Évolène
     - Fey
     - Fortunau
     - Granois

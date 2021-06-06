@@ -3,7 +3,7 @@ title: Paroisse du Pays d'Enhaut
 name: Pays-d'Enhaut
 site: https://paysdenhaut.eerv.ch
 territoire:
-    - Château-d'Oex
+    - Château-d'Œx
     - Rossinière
     - Rougemont
 NPA:

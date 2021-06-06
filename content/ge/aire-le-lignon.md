@@ -1,5 +1,5 @@
 ---
-title: Paroisse de Aïre le Lignon
+title: Paroisse de Aïre Le Lignon
 name: Aïre Le Lignon
 site: https://aire-le-lignon.epg.ch
 territoire:

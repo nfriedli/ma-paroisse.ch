@@ -17,7 +17,7 @@ meta:
     - Bussigny-sur-Oron
     - Chesalles-sur-Oron
     - Châtillens
-    - Ecoteaux
+    - Écoteaux
     - La Rogivue
     - Les Tavernes
     - Les Thioleyres

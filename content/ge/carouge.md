@@ -8,7 +8,7 @@ territoire:
 NPA:
     - 1227
 meta:
-    - Carouge GE
+    - Carouge
     - Les Acacias
 region: Salève
 ---

@@ -20,7 +20,7 @@ meta:
     - Glutieres
     - Huémoz
     - Les Combes
-    - Les Ecovets
+    - Les Écovets
     - Les Fontaines
     - Ollon
     - Pallueyres

@@ -10,7 +10,7 @@ NPA:
     - 1205
     - 1227
 meta:
-    - Carouge GE
+    - Carouge
     - Les Acacias
 region: Centre-ville rive gauche
 ---

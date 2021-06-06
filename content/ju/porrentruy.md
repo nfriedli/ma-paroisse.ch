@@ -67,8 +67,8 @@ meta:
     - Chevenez
     - Courtemaîche
     - Damvant
-    - Epauvillers
-    - Epiquerez
+    - Épauvillers
+    - Épiquerez
     - Fregiécourt
     - Miécourt
     - Montenol

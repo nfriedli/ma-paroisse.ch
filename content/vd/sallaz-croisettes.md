@@ -3,7 +3,7 @@ title: Paroisse La Sallaz - Les Croisettes
 name: La Sallaz - Les Croisettes
 site: https://lasallazlescroisettes.eerv.ch
 territoire:
-    - Epalinges
+    - Épalinges
     - Lausanne
     - Pully
 NPA:
@@ -25,5 +25,5 @@ meta:
     - Vernand-Dessous
     - Vernand-Dessus
     - Vers-chez-les-Blanc
-region: Lausanne - Epalinges
+region: Lausanne - Épalinges
 ---

@@ -3,7 +3,7 @@ title: Paroisse de Chailly - La Cathédrale
 name: Chailly - La Cathédrale
 site: https://chaillylacathedrale.eerv.ch
 territoire:
-    - Epalinges
+    - Épalinges
     - Lausanne
     - Pully
 NPA:
@@ -24,5 +24,5 @@ meta:
     - Vernand-Dessous
     - Vernand-Dessus
     - Vers-chez-les-Blanc
-region: Lausanne - Epalinges
+region: Lausanne - Épalinges
 ---

@@ -7,12 +7,12 @@ territoire:
     - Bettens
     - Bioley-Orjulaz
     - Bottens
-    - Echallens
-    - Etagnières
+    - Échallens
+    - Étagnières
     - Goumoëns
     - Jorat-Menthue
     - Montilliez
-    - Oulens-sous-Echallens
+    - Oulens-sous-Échallens
     - Penthéréaz
     - Poliez-Pittet
     - Saint-Barthélemy
@@ -28,7 +28,7 @@ NPA:
 meta:
     - Assens
     - Dommartin
-    - Eclagnens
+    - Éclagnens
     - Goumoens-la-Ville
     - Goumoens-le-Jux
     - Goumoëns-la-Ville

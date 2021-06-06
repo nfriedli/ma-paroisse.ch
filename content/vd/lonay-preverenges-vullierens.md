@@ -6,7 +6,7 @@ territoire:
     - Aclens
     - Bremblens
     - Denges
-    - Echandens
+    - Échandens
     - Lonay
     - Préverenges
     - Vullierens

@@ -4,7 +4,7 @@ name: La Sarraz
 site: https://lasarraz.eerv.ch
 territoire:
     - Chevilly
-    - Eclépens
+    - Éclépens
     - Ferreyres
     - La Sarraz
     - Orny

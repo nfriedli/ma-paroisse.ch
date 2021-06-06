@@ -1,6 +1,6 @@
 ---
 title: Paroisse de Petit-Lancy St-Luc
-name: Petit-Lancy
+name: Petit-Lancy St-Luc
 site: https://petit-lancy-st-luc.epg.ch
 territoire:
     - Carouge
@@ -12,7 +12,6 @@ NPA:
     - 1213
     - 1227
 meta:
-    - Carouge GE
     - Grand-Lancy
     - Les Acacias
     - Petit-Lancy

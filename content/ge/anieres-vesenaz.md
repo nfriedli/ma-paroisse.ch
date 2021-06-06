@@ -16,7 +16,7 @@ NPA:
     - 1247
     - 1248
 meta:
-    - Corsier GE
+    - Corsier
     - Vésenaz
 region: Arve et Lac
 ---

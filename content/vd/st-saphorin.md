@@ -17,7 +17,7 @@ NPA:
 meta:
     - Cremières
     - Cully
-    - Epesses
+    - Épesses
     - Grandvaux
     - Grangeneuve
     - La Croix
