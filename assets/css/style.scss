@@ -59,6 +59,15 @@ dt {
     margin-top: 1rem;
 }
 
+details {
+    margin-top: 1rem;
+    font-size: .9rem;
+
+    dt {
+        font-size: .81rem;
+    }
+}
+
 a {
     color: $contrast;
     text-decoration-color: $text;

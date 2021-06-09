@@ -24,17 +24,19 @@
 <dd>{{ delimit . ", " }}</dd>
 {{ end }}
 
-
+<details>
+<summary>Plus d'informations</summary>
 {{ with .Params.NPA }}
 <dt>Numéros postaux (NPA)</dt>
 <dd>{{ delimit . ", " }}</dd>
 {{ end }}
 
 {{ with .Params.meta }}
-<dt>Autres critères (villages, hameaux, mots-clés)</dt>
+<dt>Autres critères de recherche (villages, hameaux, mots-clés)</dt>
 <dd>{{ delimit . ", " }}</dd>
 {{ end }}
 </dl>
+</details>
 
 {{ if .Params.region }}
 <h2>Paroisses de la région «{{ .Params.region }}»</h2>
