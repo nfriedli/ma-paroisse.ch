@@ -18,5 +18,6 @@ meta:
     - La Tine
     - Les Granges
     - Les Moulins
+    - Château-d'OEx
 region: Riviera - Pays-d'Enhaut
 ---

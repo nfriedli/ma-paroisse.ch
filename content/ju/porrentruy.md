@@ -84,6 +84,7 @@ meta:
     - Saint-Ursanne
     - Seleute
     - Villars-sur-Fontenais
+    - Coeuve
 ---
 
 Numéros postaux, communes et villages à compléter...

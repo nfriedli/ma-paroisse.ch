@@ -6,6 +6,7 @@ const options = {
     ignoreFieldNorm: true,
     includeMatches: true,
     findAllMatches: true,
+    tokenize: true,
     keys: [
         "title",
         "name",
