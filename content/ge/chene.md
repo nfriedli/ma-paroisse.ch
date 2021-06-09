@@ -21,5 +21,6 @@ NPA:
     - 1253
 meta:
     - Conches
+    - Vandoeuvres
 region: Arve et Lac
 ---
