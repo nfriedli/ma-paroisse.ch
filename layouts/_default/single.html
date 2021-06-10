@@ -24,6 +24,7 @@
 <dd>{{ delimit . ", " }}</dd>
 {{ end }}
 
+{{ if or .Params.NPA .Params.meta}}
 <details>
 <summary>Plus d'informations</summary>
 {{ with .Params.NPA }}
@@ -37,6 +38,7 @@
 {{ end }}
 </dl>
 </details>
+{{ end }}
 
 {{ if .Params.region }}
 <h2>Paroisses de la région «{{ .Params.region }}»</h2>
