@@ -28,5 +28,6 @@ meta:
     - Môtiers
     - Noiraigue
     - Saint-Sulpice
+    - St-Sulpice
     - Travers
 ---

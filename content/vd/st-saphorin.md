@@ -8,7 +8,7 @@ territoire:
     - Chexbres
     - Puidoux
     - Rivaz
-    - Saint-Saphorin (Lavaux)
+    - Saint-Saphorin
 NPA:
     - 1070
     - 1071
@@ -25,7 +25,8 @@ meta:
     - Lignières
     - Publoz
     - Riex
-    - Treytorrens  (Lavaux)
+    - Treytorrens
     - Villette
+    - St-Saphorin
 region: Lavaux
 ---

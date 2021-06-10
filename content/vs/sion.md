@@ -127,19 +127,26 @@ meta:
     - Riod
     - Roumaz
     - Saclentse
-    - Saint-Germain
-    - Saint-Martin
-    - Saint-Pierre-de-Clages
-    - Saint-Raphaël
-    - Saint-Severin
     - Salins
     - Saxonne
     - Sensine
     - Signèse
     - Siviez
     - Sornard
+    - Saint-Germain
+    - St-Germain
     - Saint-Léonard
+    - St-Léonard
+    - Saint-Martin
+    - St-Martin
+    - Saint-Pierre-de-Clages
+    - St-Pierre-de-Clages
+    - Saint-Raphaël
+    - St-Raphaël
     - Saint-Romain
+    - St-Romain
+    - Saint-Severin
+    - St-Severin
     - Suen
     - Trogne
     - Uvrier

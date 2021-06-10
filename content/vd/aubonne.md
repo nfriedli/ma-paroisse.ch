@@ -28,7 +28,7 @@ meta:
     - Les Cassivettes
     - Montherod
     - Pizy
-    - Pizy (2011)
     - Signal-de-Bougy
+    - St-Livres
 region: Morges - Aubonne
 ---

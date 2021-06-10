@@ -10,5 +10,6 @@ meta:
     - Le Cerneux-Veusil
     - Les Pontins
     - Mont-Soleil
+    - St-Imier
 region: Erguël
 ---

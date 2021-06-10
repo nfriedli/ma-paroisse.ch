@@ -25,4 +25,6 @@ meta:
     - Montalchez
     - Saint-Aubin-Sauges
     - Vaumarcus
+    - St-Aubin
+    - Sauges
 ---

@@ -33,6 +33,7 @@ meta:
     - Mollendruz
     - Romainmôtier
     - Saint-Denis
+    - St-Denis
     - Villars-Bozon
 region: Joux - Orbe
 ---

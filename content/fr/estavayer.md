@@ -75,4 +75,5 @@ meta:
     - Seiry
     - Vernay
     - Vesin
+    - St-Aubin
 ---

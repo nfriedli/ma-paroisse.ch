@@ -24,5 +24,7 @@ meta:
     - Vernand-Dessous
     - Vernand-Dessus
     - Vers-chez-les-Blanc
+    - St-François
+    - St-Jacques
 region: Lausanne - Épalinges
 ---

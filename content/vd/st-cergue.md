@@ -11,5 +11,6 @@ NPA:
     - 1273
 meta:
     - La Cure
+    - St-Cergue
 region: La Côte
 ---

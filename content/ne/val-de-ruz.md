@@ -42,6 +42,8 @@ meta:
     - Valangin
     - Vilars
     - Villiers
+    - Chézard
+    - St-Martin
 ---
 
 Valangin fait désormais partie de la commune de Neuchâtel, mais reste un village de la paroisse Val-de-Ruz.

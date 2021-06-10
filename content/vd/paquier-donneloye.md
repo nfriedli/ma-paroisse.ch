@@ -29,6 +29,7 @@ meta:
     - Peyres-Possens
     - Prahins
     - Saint-Cierges
+    - St-Cierges
     - Thierrens
 region: Nord vaudois
 ---

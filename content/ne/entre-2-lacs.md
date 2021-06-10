@@ -27,4 +27,5 @@ meta:
     - Thielle
     - Wavre
     - Entre-deux-Lacs
+    - St-Blaise
 ---

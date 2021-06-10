@@ -27,6 +27,7 @@ meta:
     - Peney-le-Jorat
     - Peyres-Possens
     - Saint-Cierges
+    - St-Cierges
     - Sottens
     - Thierrens
     - Villars-Mendraz

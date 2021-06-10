@@ -82,6 +82,7 @@ meta:
     - Roche-d'Or
     - Rocourt
     - Saint-Ursanne
+    - St-Ursanne
     - Seleute
     - Villars-sur-Fontenais
     - Coeuve

@@ -8,5 +8,7 @@ territoire:
 NPA:
     - 1024
     - 1025
+meta:
+    - St-Sulpice
 region: Les Chamberonnes
 ---

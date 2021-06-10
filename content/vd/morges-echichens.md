@@ -16,5 +16,6 @@ meta:
     - Échichens
     - Monnaz
     - Saint-Saphorin-sur-Morges
+    - St-Saphorin
 region: Morges - Aubonne
 ---

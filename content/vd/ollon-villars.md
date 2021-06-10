@@ -28,6 +28,7 @@ meta:
     - Plambuit
     - Plan d'Essert
     - Saint-Triphon
+    - St-Triphon
     - Salaz
     - Verschiez
     - Villars-sur-Ollon

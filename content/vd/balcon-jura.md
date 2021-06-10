@@ -17,12 +17,11 @@ meta:
     - L'Auberson
     - La Chaux
     - La Sagne
-    - La Sagne (Sainte-Croix)
     - La Vraconnaz
     - Le Château-Sainte-Croix
-    - Le Château-de-Sainte-Croix
     - Les Cluds
     - Les Rasses
     - Les Replans
+    - Ste-Croix
 region: Nord vaudois
 ---

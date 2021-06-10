@@ -8,5 +8,7 @@ territoire:
     - Villars-le-Terroir
 NPA:
     - 1040
+meta:
+    - St-Barthélemy
 region: Gros-de-Vaud - Venoge
 ---

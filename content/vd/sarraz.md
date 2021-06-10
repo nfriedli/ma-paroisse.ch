@@ -18,5 +18,6 @@ NPA:
     - 1318
 meta:
     - Saint-Loup
+    - St-Loup
 region: Gros-de-Vaud - Venoge
 ---

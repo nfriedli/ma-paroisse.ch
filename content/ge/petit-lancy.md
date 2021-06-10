@@ -1,6 +1,6 @@
 ---
-title: Paroisse de Petit-Lancy St-Luc
-name: Petit-Lancy St-Luc
+title: Paroisse de Petit-Lancy Saint-Luc
+name: Petit-Lancy Saint-Luc
 site: https://petit-lancy-st-luc.epg.ch
 territoire:
     - Carouge
@@ -15,5 +15,6 @@ meta:
     - Grand-Lancy
     - Les Acacias
     - Petit-Lancy
+    - St-Luc
 region: Plateau-Champagne
 ---

@@ -20,6 +20,7 @@ meta:
     - Moiry
     - Mollendruz
     - Saint-Denis
+    - St-Denis
     - Villars-Bozon
 region: Gros-de-Vaud - Venoge
 ---

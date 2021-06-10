@@ -22,5 +22,7 @@ meta:
     - Châtel-sur-Rolle
     - Creux du Mas
     - Roussillon
+    - St-George
+    - St-Oyens
 region: Morges - Aubonne
 ---

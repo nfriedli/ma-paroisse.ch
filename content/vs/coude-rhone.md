@@ -84,7 +84,7 @@ meta:
     - Les Granges
     - Les Marécottes
     - Les Moulins
-    - les Places
+    - Les Places
     - Les Rappes
     - Lourtier
     - Martigny-Bourg
@@ -115,6 +115,7 @@ meta:
     - Vichères
     - Villette
     - Vollèges
+    - Bourg-St-Pierre
 ---
 
 Je recherche des infos pour lister: toutes les communes, tous les villages et hameaux et tous les NPA de la paroisse...

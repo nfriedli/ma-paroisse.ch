@@ -25,5 +25,6 @@ NPA:
     - 1169
 meta:
     - Lussy
+    - St-Prex
 region: Morges - Aubonne
 ---

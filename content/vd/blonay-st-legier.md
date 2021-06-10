@@ -11,11 +11,12 @@ NPA:
 meta:
     - Bains-de-l'Alliaz
     - Clies
-    - Hauteville  (Vevey)
+    - Hauteville
     - L'Alliaz
     - La Chiésaz
     - Lally
     - Les Chevalleyres
     - Les Pléiades
+    - St-Légier
 region: Riviera - Pays-d'Enhaut
 ---

@@ -8,5 +8,7 @@ territoire:
 NPA:
     - 1029
     - 1030
+meta:
+    - Villars-Ste-Croix
 region: Les Chamberonnes
 ---
