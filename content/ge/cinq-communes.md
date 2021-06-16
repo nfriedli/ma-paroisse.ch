@@ -1,6 +1,6 @@
 ---
 title: Paroisse des 5 Communes
-name: 5 Communes|Genthod|Bellevue|Collex-Bossy|Pregny-Chambésy|Gd-Saconnex
+name: 5 Communes
 site: https://5communes.epg.ch
 territoire:
     - Bellevue
