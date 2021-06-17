@@ -29,4 +29,5 @@ meta:
     - Solalex
     - Vasselin
 region: Chablais vaudois
+date: 2021-06-17
 ---
