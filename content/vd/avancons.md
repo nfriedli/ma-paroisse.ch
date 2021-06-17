@@ -1,5 +1,5 @@
 ---
-title: Paroisse des Avançons - Bex - Gryon
+title: Paroisse des Avançons
 name: Les Avançons
 site: https://lesavancons.eerv.ch
 territoire:
