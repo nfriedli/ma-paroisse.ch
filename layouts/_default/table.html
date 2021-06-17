@@ -54,6 +54,21 @@
             max-width: 20%;
         }
     </style>
+<h2>Paroisse - NPA</h2>
+<table>
+    {{ range site.RegularPages }}
+    {{ $current := .}}
+    {{ if .Params.NPA }}
+    {{ range .Params.NPA }}
+    <tr>
+        <td>{{ $current.Title }}</td>
+        <td>{{ . }}</td>
+    </tr>
+    {{ end }}
+    {{ end }}
+    {{ end }}
+</table>
+
 </body>
 
 </html>
