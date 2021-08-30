@@ -14,5 +14,4 @@ meta:
     - Fontanney
     - Versvey
 region: Chablais vaudois
-date: 2021-06-17
 ---
