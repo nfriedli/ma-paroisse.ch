@@ -1,7 +1,7 @@
 ---
 title: Paroisse de Grandson
 name: Grandson
-site: https://grandson.eerv.ch
+site: https://www.eerv.ch/region/nord-vaudois/grandson/accueil
 territoire:
     - Giez
     - Grandson

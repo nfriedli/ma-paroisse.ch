@@ -1,7 +1,7 @@
 ---
 title: Paroisse du Balcon du Jura
 name: Balcon du Jura
-site: https://balcondujura.eerv.ch
+site: https://www.eerv.ch/region/nord-vaudois/balcon-du-jura/accueil
 territoire:
     - Bullet
     - Mauborget

@@ -1,7 +1,7 @@
 ---
 title: Paroisse de Saint-Jean
 name: Saint-Jean
-site: https://saintjean.eerv.ch
+site: https://www.eerv.ch/region/lausanne-epalinges/saint-jean/accueil
 territoire:
     - Lausanne
 NPA:

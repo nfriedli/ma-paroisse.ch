@@ -1,7 +1,7 @@
 ---
 title: Paroisse de Crissier
 name: Crissier
-site: https://crissier.eerv.ch
+site: https://www.eerv.ch/region/les-chamberonnes/crissier/accueil
 territoire:
     - Crissier
 NPA:

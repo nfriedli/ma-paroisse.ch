@@ -1,7 +1,7 @@
 ---
 title: Paroisse d'Écublens - Saint-Sulpice
 name: Écublens - Saint-Sulpice
-site: https://ecublenssaintsulpice.eerv.ch
+site: https://www.eerv.ch/region/les-chamberonnes/ecublens-saint-sulpice/accueil
 territoire:
     - Écublens
     - Saint-Sulpice

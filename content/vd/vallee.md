@@ -1,7 +1,7 @@
 ---
 title: Paroisse de La Vallée
 name: La Vallée
-site: https://lavallee.eerv.ch
+site: https://www.eerv.ch/region/joux-orbe/la-vallee/accueil
 territoire:
     - L'Abbaye
     - Le Chenit

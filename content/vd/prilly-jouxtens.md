@@ -1,7 +1,7 @@
 ---
 title: Paroisse de Prilly - Jouxtens
 name: Prilly - Jouxtens
-site: https://prillyjouxtens.eerv.ch
+site: https://www.eerv.ch/region/les-chamberonnes/prilly-jouxtens/accueil
 territoire:
     - Jouxtens-Mézery
     - Prilly

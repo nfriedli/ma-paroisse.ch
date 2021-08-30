@@ -1,7 +1,7 @@
 ---
 title: Paroisse de Vully - Avenches
 name: Vully - Avenches
-site: https://vullyavenches.eerv.ch
+site: https://www.eerv.ch/region/la-broye/vully-avenches/accueil
 territoire:
     - Avenches
     - Cudrefin

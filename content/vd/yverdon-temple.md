@@ -1,7 +1,7 @@
 ---
 title: Paroisse d'Yverdon-Temple
 name: Yverdon-Temple
-site: https://yverdontemple.eerv.ch
+site: https://www.eerv.ch/region/nord-vaudois/yverdon-temple/accueil
 territoire:
     - Cheseaux-Noréaz
     - Yverdon-les-Bains

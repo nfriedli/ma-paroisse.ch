@@ -1,7 +1,7 @@
 ---
 title: Paroisse de Morges - Échichens
 name: Morges - Échichens
-site: https://morges.eerv.ch
+site: https://www.eerv.ch/region/morges-aubonne/morges-echichens/accueil
 territoire:
     - Échichens
     - Morges

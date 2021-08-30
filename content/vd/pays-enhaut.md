@@ -1,7 +1,7 @@
 ---
 title: Paroisse du Pays d'Enhaut
 name: Pays-d'Enhaut
-site: https://paysdenhaut.eerv.ch
+site: https://www.eerv.ch/region/riviera-pays-denhaut/pays-denhaut/accueil
 territoire:
     - Château-d'Œx
     - Rossinière

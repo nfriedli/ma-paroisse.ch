@@ -1,7 +1,7 @@
 ---
 title: Paroisse de Bellevaux - Saint-Luc
 name: Bellevaux - Saint-Luc
-site: https://bellevauxsaintluc.eerv.ch
+site: https://www.eerv.ch/region/lausanne-epalinges/bellevaux-saint-luc/accueil
 territoire:
     - Lausanne
 NPA:

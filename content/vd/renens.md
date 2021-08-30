@@ -1,7 +1,7 @@
 ---
 title: Paroisse de Renens
 name: Renens
-site: https://renens.eerv.ch
+site: https://www.eerv.ch/region/les-chamberonnes/renens/accueil
 territoire:
     - Renens
 NPA:

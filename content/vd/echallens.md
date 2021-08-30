@@ -1,7 +1,7 @@
 ---
 title: Paroisse d'Échallens
 name: Échallens
-site: https://echallens.eerv.ch
+site: https://www.eerv.ch/region/gros-de-vaud-venoge/echallens/accueil
 territoire:
     - Échallens
     - Saint-Barthélemy

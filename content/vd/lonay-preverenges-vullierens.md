@@ -1,7 +1,7 @@
 ---
 title: Paroisse de Lonay - Préverenges - Vullierens
 name: Lonay - Préverenges - Vullierens
-site: https://lonaypreverenges.eerv.ch
+site: https://www.eerv.ch/region/morges-aubonne/lonay-preverenges-vullierens/accueil
 territoire:
     - Aclens
     - Bremblens

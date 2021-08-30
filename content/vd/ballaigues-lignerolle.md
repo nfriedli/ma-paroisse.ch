@@ -1,7 +1,7 @@
 ---
 title: Paroisse de Ballaigues - Lignerolle
 name: Ballaigues - Lignerolle
-site: https://ballaigueslignerolle.eerv.ch
+site: https://www.eerv.ch/region/joux-orbe/ballaigues-lignerolle/accueil
 territoire:
     - Ballaigues
     - L'Abergement

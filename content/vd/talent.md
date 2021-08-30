@@ -1,7 +1,7 @@
 ---
 title: Paroisse du Talent
 name: Talent
-site: https://talent.eerv.ch
+site: https://www.eerv.ch/region/gros-de-vaud-venoge/talent/accueil
 territoire:
     - Assens
     - Bettens

@@ -1,7 +1,7 @@
 ---
 title: Paroisse de La Sarraz
 name: La Sarraz
-site: https://lasarraz.eerv.ch
+site: https://www.eerv.ch/region/gros-de-vaud-venoge/la-sarraz/accueil
 territoire:
     - Chevilly
     - Éclépens

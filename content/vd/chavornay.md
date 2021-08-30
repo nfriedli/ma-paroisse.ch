@@ -1,7 +1,7 @@
 ---
 title: Paroisse de Chavornay
 name: Chavornay
-site: https://chavornay.eerv.ch
+site: https://www.eerv.ch/region/joux-orbe/chavornay/accueil
 territoire:
     - Bavois
     - Chavornay

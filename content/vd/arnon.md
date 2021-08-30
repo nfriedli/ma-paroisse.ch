@@ -1,7 +1,7 @@
 ---
 title: Paroisse de L'Arnon
 name: L'Arnon
-site: https://larnon.eerv.ch
+site: https://www.eerv.ch/region/nord-vaudois/larnon/accueil
 territoire:
     - Bonvillars
     - Champagne

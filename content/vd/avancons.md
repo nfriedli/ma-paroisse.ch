@@ -1,7 +1,7 @@
 ---
 title: Paroisse des Avançons
 name: Les Avançons
-site: https://lesavancons.eerv.ch
+site: https://www.eerv.ch/region/chablais-vaudois/les-avancons/accueil
 territoire:
     - Bex
     - Gryon
@@ -29,5 +29,4 @@ meta:
     - Solalex
     - Vasselin
 region: Chablais vaudois
-date: 2021-06-17
 ---

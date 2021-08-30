@@ -1,7 +1,7 @@
 ---
 title: Paroisse de Clarens
 name: Clarens
-site: https://clarens.eerv.ch
+site: https://www.eerv.ch/region/riviera-pays-denhaut/clarens/accueil
 territoire:
     - Montreux
     - Veytaux

@@ -1,7 +1,7 @@
 ---
 title: Paroisse de Belmont-Lutry
 name: Belmont - Lutry
-site: https://belmontlutry.eerv.ch
+site: https://www.eerv.ch/region/lavaux/belmont-lutry/accueil
 territoire:
     - Belmont-sur-Lausanne
     - Lutry

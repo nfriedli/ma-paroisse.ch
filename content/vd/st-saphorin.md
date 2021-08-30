@@ -1,7 +1,7 @@
 ---
 title: Paroisse de Saint-Saphorin
 name: Saint-Saphorin
-site: https://saintsaphorin.eerv.ch
+site: https://www.eerv.ch/region/lavaux/saint-saphorin/accueil
 territoire:
     - Bourg-en-Lavaux
     - Chardonne

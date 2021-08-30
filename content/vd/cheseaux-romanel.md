@@ -1,7 +1,7 @@
 ---
 title: Paroisse de Cheseaux - Romanel
 name: Cheseaux - Romanel
-site: https://cheseauxromanel.eerv.ch
+site: https://www.eerv.ch/region/les-chamberonnes/cheseaux-romanel/accueil
 territoire:
     - Cheseaux-sur-Lausanne
     - Lausanne

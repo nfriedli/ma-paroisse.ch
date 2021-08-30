@@ -1,7 +1,7 @@
 ---
 title: Paroisse du Plateau du Jorat
 name: Plateau du Jorat
-site: https://plateaudujorat.eerv.ch
+site: https://www.eerv.ch/region/gros-de-vaud-venoge/plateau-du-jorat/accueil
 territoire:
     - Boulens
     - Jorat-Menthue

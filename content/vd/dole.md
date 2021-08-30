@@ -1,7 +1,7 @@
 ---
 title: Paroisse de La Dôle
 name: La Dôle
-site: https://ladole.eerv.ch
+site: https://www.eerv.ch/region/la-cote/la-dole/accueil
 territoire:
     - Arnex-sur-Nyon
     - Borex

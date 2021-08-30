@@ -1,7 +1,7 @@
 ---
 title: Paroisse de Cossonay - Grancy
 name: Cossonay - Grancy
-site: https://cossonaygrancy.eerv.ch
+site: https://www.eerv.ch/region/gros-de-vaud-venoge/cossonay-grancy/accueil
 territoire:
     - Cossonay
     - Dizy

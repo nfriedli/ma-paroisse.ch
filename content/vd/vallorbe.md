@@ -1,7 +1,7 @@
 ---
 title: Paroisse de Vallorbe
 name: Vallorbe
-site: https://vallorbe.eerv.ch
+site: https://www.eerv.ch/region/joux-orbe/vallorbe/accueil
 territoire:
     - Vallorbe
 NPA:

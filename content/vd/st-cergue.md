@@ -1,7 +1,7 @@
 ---
 title: Paroisse de Saint-Cergue
 name: Saint-Cergue
-site: https://saintcergue.eerv.ch
+site: https://www.eerv.ch/region/la-cote/saint-cergue/accueil
 territoire:
     - Arzier-Le Muids
     - Saint-Cergue

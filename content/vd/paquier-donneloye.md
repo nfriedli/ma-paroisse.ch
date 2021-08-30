@@ -1,7 +1,7 @@
 ---
 title: Paroisse de Pâquier - Donneloye
 name: Pâquier - Donneloye
-site: https://paquierdonneloye.eerv.ch
+site: https://www.eerv.ch/region/nord-vaudois/paquier-donneloye/accueil
 territoire:
     - Bioley-Magnoux
     - Chavannes-le-Chêne

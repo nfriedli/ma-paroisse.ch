@@ -1,7 +1,7 @@
 ---
 title: Paroisse de Vaulion - Romainmôtier
 name: Vaulion - Romainmôtier
-site: https://vaulionromainmotier.eerv.ch
+site: https://www.eerv.ch/region/joux-orbe/vaulion-romainmotier/accueil
 territoire:
     - Bretonnières
     - Chavannes-le-Veyron

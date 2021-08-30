@@ -1,7 +1,7 @@
 ---
 title: Paroisse du Pied du Jura
 name: Pied du Jura
-site: https://pieddujura.eerv.ch
+site: https://www.eerv.ch/region/morges-aubonne/pied-du-jura/accueil
 territoire:
     - Apples
     - Ballens

@@ -1,7 +1,7 @@
 ---
 title: Paroisse de Genolier
 name: Genolier
-site: https://genolier.eerv.ch
+site: https://www.eerv.ch/region/la-cote/genolier/accueil
 territoire:
     - Duillier
     - Genolier

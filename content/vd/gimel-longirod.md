@@ -1,7 +1,7 @@
 ---
 title: Paroisse de Gimel - Longirod
 name: Gimel - Longirod
-site: https://gimellongirod.eerv.ch
+site: https://www.eerv.ch/region/morges-aubonne/gimel-longirod/accueil
 territoire:
     - Essertines-sur-Rolle
     - Gimel

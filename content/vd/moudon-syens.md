@@ -1,7 +1,7 @@
 ---
 title: Paroisse de Moudon - Syens
 name: Moudon - Syens
-site: https://moudonsyens.eerv.ch
+site: https://www.eerv.ch/region/la-broye/moudon-syens/accueil
 territoire:
     - Bussy-sur-Moudon
     - Chavannes-sur-Moudon

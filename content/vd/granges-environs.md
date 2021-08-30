@@ -1,7 +1,7 @@
 ---
 title: Paroisse de Granges et environs
 name: Granges et environs
-site: https://grangesetenvirons.eerv.ch
+site: https://www.eerv.ch/region/la-broye/granges-et-environs/accueil
 territoire:
     - Champtauroz
     - Dompierre

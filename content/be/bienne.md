@@ -1,7 +1,7 @@
 ---
 title: Paroisse de Bienne
 name: Bienne
-site: https://www.ref-bienne.ch/
+site: https://www.ref-bienne.ch/accueil/
 territoire:
     - Bienne
     - Évilard

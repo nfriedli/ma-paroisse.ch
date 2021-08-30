@@ -1,7 +1,7 @@
 ---
 title: Paroisse de Saint-Prex - Lussy - Vufflens
 name: Saint-Prex - Lussy - Vufflens
-site: https://saintprexlussyvufflens.eerv.ch
+site: https://www.eerv.ch/region/morges-aubonne/saint-prex-lussy-vufflens/accueil
 territoire:
     - Chigny
     - Denens

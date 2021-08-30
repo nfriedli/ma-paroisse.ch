@@ -1,7 +1,7 @@
 ---
 title: Paroisse de Saint-Laurent - Les Bergières
 name: Saint-laurent - Les Bergières
-site: https://saintlaurentlesbergieres.eerv.ch
+site: https://www.eerv.ch/region/lausanne-epalinges/saint-laurent-les-bergieres/accueil
 territoire:
     - Jouxtens-Mézery
     - Lausanne

@@ -68,6 +68,5 @@ meta:
     - Vellerat
     - Vermes
     - Vicques
-date: 2021-05-25
 ---
 

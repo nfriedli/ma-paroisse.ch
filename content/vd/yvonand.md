@@ -1,7 +1,7 @@
 ---
 title: Paroisse d'Yvonand
 name: Yvonand
-site: https://yvonand.eerv.ch
+site: https://www.eerv.ch/region/nord-vaudois/yvonand/accueil
 territoire:
     - Cuarny
     - Rovray

@@ -1,7 +1,7 @@
 ---
 title: Paroisse de Baulmes - Rances
 name: Baulmes - Rances
-site: https://baulmesrances.eerv.ch
+site: https://www.eerv.ch/region/joux-orbe/baulmes-rances/accueil
 territoire:
     - Baulmes
     - Rances

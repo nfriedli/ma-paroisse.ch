@@ -1,7 +1,7 @@
 ---
 title: Paroisse d'Ollon - Villars
 name: Ollon - Villars
-site: https://ollonvillars.eerv.ch
+site: https://www.eerv.ch/region/chablais-vaudois/ollon-villars/accueil
 territoire:
     - Ollon
 NPA:

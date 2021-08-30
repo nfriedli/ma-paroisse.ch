@@ -1,7 +1,7 @@
 ---
 title: Paroisse de Chailly - La Cathédrale
 name: Chailly - La Cathédrale
-site: https://chaillylacathedrale.eerv.ch
+site: https://www.eerv.ch/region/lausanne-epalinges/chailly-la-cathedrale/accueil
 territoire:
     - Épalinges
     - Lausanne

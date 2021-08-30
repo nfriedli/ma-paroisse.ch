@@ -1,7 +1,7 @@
 ---
 title: Paroisse de Bussigny - Villars-Sainte-Croix
 name: Bussigny - Villars-Sainte-Croix
-site: https://bussignyvillarssaintecroix.eerv.ch
+site: https://www.eerv.ch/region/les-chamberonnes/bussigny-villars-sainte-croix/accueil
 territoire:
     - Bussigny
     - Villars-Sainte-Croix

@@ -1,7 +1,7 @@
 ---
 title: Paroisse d'Oron - Palézieux
 name: Oron - Palézieux
-site: https://oronpalezieux.eerv.ch
+site: https://www.eerv.ch/region/la-broye/oron-palezieux/accueil
 territoire:
     - Essertes
     - Maracon

@@ -1,7 +1,7 @@
 ---
 title: Paroisse de Blonay - Saint-Légier
 name: Blonay - Saint-Légier
-site: https://blonaysaintlegier.eerv.ch
+site: https://www.eerv.ch/region/riviera-pays-denhaut/blonay-saint-legier/accueil
 territoire:
     - Blonay
     - Saint-Légier-La Chiésaz

@@ -1,7 +1,7 @@
 ---
 title: Paroisse de Curtilles - Lucens
 name: Curtilles - Lucens
-site: https://curtilleslucens.eerv.ch
+site: https://www.eerv.ch/region/la-broye/curtilles-lucens/accueil
 territoire:
     - Curtilles
     - Dompierre

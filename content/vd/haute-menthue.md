@@ -1,7 +1,7 @@
 ---
 title: Paroisse de la Haute-Menthue
 name: Haute-Menthue
-site: https://hautementhue.eerv.ch
+site: https://www.eerv.ch/region/gros-de-vaud-venoge/haute-menthue/accueil
 territoire:
     - Bottens
     - Jorat-Menthue

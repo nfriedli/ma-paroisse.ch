@@ -1,7 +1,7 @@
 ---
 title: Paroisse de Nyon
 name: Nyon
-site: https://nyon.eerv.ch
+site: https://www.eerv.ch/region/la-cote/nyon/accueil
 territoire:
     - Crans
     - Nyon

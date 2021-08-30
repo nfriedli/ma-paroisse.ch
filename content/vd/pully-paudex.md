@@ -1,7 +1,7 @@
 ---
 title: Paroisse de Pully - Paudex
 name: Pully - Paudex
-site: https://pullypaudex.eerv.ch
+site: https://www.eerv.ch/region/lavaux/pully-paudex/accueil
 territoire:
     - Paudex
     - Pully

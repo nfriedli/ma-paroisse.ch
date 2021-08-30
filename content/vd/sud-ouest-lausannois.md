@@ -1,7 +1,7 @@
 ---
 title: Paroisse du Sud-Ouest lausannois
 name: Sud-Ouest lausannois
-site: https://sudouestlausannois.eerv.ch
+site: https://www.eerv.ch/region/lausanne-epalinges/sud-ouest-lausannois/accueil
 territoire:
     - Jouxtens-Mézery
     - Lausanne

@@ -1,7 +1,7 @@
 ---
 title: Paroisse La Sallaz - Les Croisettes
 name: La Sallaz - Les Croisettes
-site: https://lasallazlescroisettes.eerv.ch
+site: https://www.eerv.ch/region/lausanne-epalinges/la-sallaz-les-croisettes/accueil
 territoire:
     - Épalinges
     - Lausanne

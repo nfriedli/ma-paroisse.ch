@@ -1,7 +1,7 @@
 ---
 title: Paroisse de Penthalaz - Penthaz - Daillens
 name: Penthalaz
-site: https://penthalaz.eerv.ch
+site: https://www.eerv.ch/region/gros-de-vaud-venoge/penthalaz/accueil
 territoire:
     - Daillens
     - Penthalaz

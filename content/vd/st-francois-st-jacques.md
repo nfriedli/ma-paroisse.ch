@@ -1,7 +1,7 @@
 ---
 title: Paroisse de Saint-François - Saint-Jacques
 name: Saint-François - Saint-Jacques
-site: https://saintfrancoissaintjacques.eerv.ch
+site: https://www.eerv.ch/region/lausanne-epalinges/saint-francois-saint-jacques/accueil
 territoire:
     - Lausanne
     - Pully

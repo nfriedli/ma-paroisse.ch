@@ -1,7 +1,7 @@
 ---
 title: Paroisse de La Tour-de-Peilz
 name: La Tour-de-Peilz
-site: https://latourdepeilz.eerv.ch
+site: https://www.eerv.ch/region/riviera-pays-denhaut/la-tour-de-peilz/accueil
 territoire:
     - La Tour-de-Peilz
 NPA:

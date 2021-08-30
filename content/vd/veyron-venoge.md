@@ -1,7 +1,7 @@
 ---
 title: Paroisse de Veyron - Venoge
 name: Veyron - Venoge
-site: https://veyronvenoge.eerv.ch
+site: https://www.eerv.ch/region/gros-de-vaud-venoge/veyron-venoge/accueil
 territoire:
     - Chavannes-le-Veyron
     - Cuarnens

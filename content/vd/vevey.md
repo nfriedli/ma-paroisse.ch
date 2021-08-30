@@ -1,7 +1,7 @@
 ---
 title: Paroisse de Vevey
 name: Vevey
-site: https://vevey.eerv.ch
+site: https://www.eerv.ch/region/riviera-pays-denhaut/vevey/accueil
 territoire:
     - Vevey
 NPA:

@@ -1,7 +1,7 @@
 ---
 title: Paroisse des Ormonts - Leysin
 name: Ormonts - Leysin
-site: https://ormontsleysin.eerv.ch
+site: https://www.eerv.ch/region/chablais-vaudois/ormonts-leysin/accueil
 territoire:
     - Leysin
     - Ormont-Dessous

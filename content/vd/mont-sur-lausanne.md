@@ -1,7 +1,7 @@
 ---
 title: Paroisse du Mont-sur-Lausanne
 name: Le Mont-sur-Lausanne
-site: https://lemontsurlausanne.eerv.ch
+site: https://www.eerv.ch/region/les-chamberonnes/le-mont-sur-lausanne/accueil
 territoire:
     - Le Mont-sur-Lausanne
 NPA:

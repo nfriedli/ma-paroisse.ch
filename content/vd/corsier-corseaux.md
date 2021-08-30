@@ -1,7 +1,7 @@
 ---
 title: Paroisse de Corsier - Corseaux
 name: Corsier - Corseaux
-site: https://corsiercorseaux.eerv.ch
+site: https://www.eerv.ch/region/riviera-pays-denhaut/corsier-corseaux/accueil
 territoire:
     - Corseaux
     - Corsier-sur-Vevey

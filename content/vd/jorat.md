@@ -1,7 +1,7 @@
 ---
 title: Paroisse du Jorat
 name: Jorat
-site: https://jorat.eerv.ch
+site: https://www.eerv.ch/region/la-broye/jorat/accueil
 territoire:
     - Corcelles-le-Jorat
     - Jorat-Mézières

@@ -1,7 +1,7 @@
 ---
 title: Paroisse de Montreux - Veytaux
 name: Montreux
-site: https://montreux.eerv.ch
+site: https://www.eerv.ch/region/riviera-pays-denhaut/montreux-veytaux/accueil
 territoire:
     - Montreux
     - Veytaux

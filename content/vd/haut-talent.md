@@ -1,7 +1,7 @@
 ---
 title: Paroisse du Haut-Talent
 name: Le Haut-Talent
-site: https://lehauttalent.eerv.ch
+site: https://www.eerv.ch/region/les-chamberonnes/le-haut-talent/accueil
 territoire:
     - Bottens
     - Bretigny-sur-Morrens

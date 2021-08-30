@@ -1,7 +1,7 @@
 ---
 title: Paroisse de Chardonne - Jongny
 name: Chardonne - Jongny
-site: https://chardonnejongny.eerv.ch
+site: https://www.eerv.ch/region/riviera-pays-denhaut/chardonne-jongny/accueil
 territoire:
     - Chardonne
     - Jongny

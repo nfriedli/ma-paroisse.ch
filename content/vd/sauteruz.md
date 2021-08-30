@@ -1,7 +1,7 @@
 ---
 title: Paroisse du Sauteruz
 name: Sauteruz
-site: https://sauteruz.eerv.ch
+site: https://www.eerv.ch/region/gros-de-vaud-venoge/sauteruz/accueil
 territoire:
     - Bercher
     - Essertines-sur-Yverdon

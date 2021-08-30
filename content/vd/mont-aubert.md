@@ -1,7 +1,7 @@
 ---
 title: Paroisse du Mont-Aubert
 name: Mont-Aubert
-site: https://montaubert.eerv.ch
+site: https://www.eerv.ch/region/nord-vaudois/mont-aubert/accueil
 territoire:
     - Concise
     - Corcelles-près-Concise

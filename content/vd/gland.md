@@ -1,7 +1,7 @@
 ---
 title: Paroisse de Gland
 name: Gland
-site: https://gland.eerv.ch
+site: https://www.eerv.ch/region/la-cote/gland/accueil
 territoire:
     - Coinsins
     - Gland

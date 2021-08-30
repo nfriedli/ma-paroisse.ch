@@ -1,7 +1,7 @@
 ---
 title: Paroisse du Cœur de la Côte
 name: Cœur de la Côte
-site: https://coeurdelacote.eerv.ch
+site: https://www.eerv.ch/region/la-cote/coeur-de-la-cote/accueil
 territoire:
     - Bursinel
     - Bursins

@@ -1,7 +1,7 @@
 ---
 title: Paroisse de Vufflens-la-Ville
 name: Vufflens-la-Ville
-site: https://vufflenslaville.eerv.ch
+site: https://www.eerv.ch/region/gros-de-vaud-venoge/vufflens-la-ville/accueil
 territoire:
     - Bournens
     - Boussens

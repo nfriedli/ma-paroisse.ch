@@ -1,7 +1,7 @@
 ---
 title: Paroisse d'Aigle – Yvorne – Corbeyrier
 name: Aigle – Yvorne – Corbeyrier
-site: https://aigle.eerv.ch
+site: https://www.eerv.ch/region/chablais-vaudois/aigle/accueil
 territoire:
     - Aigle
     - Corbeyrier
