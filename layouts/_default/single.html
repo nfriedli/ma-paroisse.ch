@@ -23,10 +23,13 @@
 <dt>Territoire (communes)</dt>
 <dd>{{ delimit . ", " }}</dd>
 {{ end }}
+</dl>
+
 
 {{ if or .Params.NPA .Params.meta}}
 <details>
 <summary>Plus d'informations</summary>
+<dl>
 {{ with .Params.NPA }}
 <dt>Numéros postaux (NPA)</dt>
 <dd>{{ delimit . ", " }}</dd>
@@ -39,6 +42,7 @@
 </dl>
 </details>
 {{ end }}
+
 
 {{ if .Params.region }}
 <h2>Paroisses de la région «{{ .Params.region }}»</h2>
