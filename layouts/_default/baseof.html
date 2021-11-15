@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title>{{ .Title }}{{ with .Params.eglise}} &bull; {{ . }} {{ end }}{{ if .IsPage }}{{ with .Params.canton }} &bull; {{ . }}{{ end }}{{ end }} &bull; {{ .Site.Title }}
+  <title>{{ .Title }}{{ with .Params.eglise}} - {{ . }} {{ end }}{{ if .IsPage }}{{ with .Params.canton }} - {{ . }}{{ end }}{{ end }} - {{ .Site.Title }}
   </title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {{ with .Description }}

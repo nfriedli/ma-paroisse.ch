@@ -13,7 +13,7 @@ removePathAccents: true
 
 author:
   name: Nicolas Friedli
-  email: nicolasfriedli@protonmail.ch
+  email: nicolas.friedli+mp@gmail.com
 
 disableKinds:
   - RSS
@@ -41,11 +41,12 @@ params:
     **Site en développement!**  
     Nouvelles paroisses et corrections bienvenues.
     
-    Contact: nicolasfriedli@protonmail.ch  
+    Contact: nicolas.friedli+mp@gmail.com  
     Licence: CC0 (domaine public)  
 
     [Plan complet](/sitemap/ "Toutes les paroisses sur une seule page") /
     [GitHub & en savoir plus](https://github.com/nfriedli/ma-paroisse.ch "README et sources du projet sur GitHub")  / 
+    [Églises ouvertes](https://eglises-ouvertes.ch/ "Églises protestantes réformées accessibles à la visite en Suisse romande") /
     [Réseau protestant](https://reseau-protestant.ch/liste/ "Liste de sites protestants (réformés) de Suisse romande")
   images:
     - https://cdn.pixabay.com/photo/2018/02/23/22/48/light-3176887_960_720.jpg
