@@ -6,3 +6,8 @@ minify:
     html:
       keepQuotes: true
       keepDefaultAttrVals: false
+
+privacy:
+  googleAnalytics:
+    anonymizeIP: true
+    respectDoNotTrack: true

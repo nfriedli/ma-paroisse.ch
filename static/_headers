@@ -5,6 +5,8 @@
     Cache-Control: max-age=86400
     Referrer-Policy: no-referrer-when-downgrade
     X-Frame-Options: DENY
+    Permissions-Policy: interest-cohort=()
+
 
 /sitemap.xml
     X-Robots-Tag: noindex
