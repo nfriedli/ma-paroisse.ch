@@ -33,16 +33,15 @@
 </head>
 
 <body>
-  <header>
-    {{ if .IsHome }}{{ site.Title }}{{ else }}<a href="/">{{ site.Title }}</a>{{ end }}
-  </header>
+
+  {{ partialCached "header" . .IsHome }}
+
   <main>
     {{ block "main" . }}
     {{ end }}
   </main>
-  <footer>
-    {{ with site.Params.footer }}{{ . | markdownify }}{{ end }}
-  </footer>
+
+  {{ partialCached "footer" . }}
 
 {{ if .IsHome}}
 {{ $search := resources.Get "js/search.js" }}

@@ -9,15 +9,6 @@
   {{ end }}
 </ul>
 
-<h2>Autres cantons</h2>
-{{ $current := . }}
-<ul>
-  {{ range site.Sections }}
-  {{ if ne $current .}}
-  <li>
-    <a href="{{ .Permalink }}">{{ .Title }}</a> ({{ len .RegularPages }} paroisses)
-  </li>
-  {{ end }}
-  {{ end }}
-</ul>
+{{ partialCached "autres-cantons" . .Section }}
+
 {{ end }}
