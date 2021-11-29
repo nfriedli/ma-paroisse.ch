@@ -37,10 +37,7 @@ outputs:
     - html
 
 params:
-  footer: |
-    **Site en développement!**  
-    Nouvelles paroisses et corrections bienvenues.
-    
+  footer: |  
     Contact: nicolas.friedli+mp@gmail.com  
     Licence: CC0 (domaine public)  
 
