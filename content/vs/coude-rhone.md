@@ -117,5 +117,3 @@ meta:
     - Vollèges
     - Bourg-St-Pierre
 ---
-
-Je recherche des infos pour lister: toutes les communes, tous les villages et hameaux et tous les NPA de la paroisse...

@@ -41,5 +41,3 @@ meta:
     - Muriaux
     - St-Brais
 ---
-
-Numéros postaux, communes et villages à compléter...

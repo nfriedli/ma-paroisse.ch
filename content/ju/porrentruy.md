@@ -87,5 +87,3 @@ meta:
     - Villars-sur-Fontenais
     - Coeuve
 ---
-
-Numéros postaux, communes et villages à compléter...
