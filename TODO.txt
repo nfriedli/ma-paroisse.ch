@@ -2,7 +2,7 @@ NPA à checker selon diff entre numéros attribués et numéro présents sur le 
 
 NB: pour FR et VS, attendre l'intégration des paroisses.
 
-1015
+1015 # EPFL / UniL
 1023
 1046
 1047
