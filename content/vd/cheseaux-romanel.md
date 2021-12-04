@@ -7,13 +7,9 @@ territoire:
     - Lausanne
     - Romanel-sur-Lausanne
 NPA:
-    - 1000
     - 1032
     - 1033
 meta:
-    - Lausanne 25
-    - Lausanne 26
-    - Lausanne 27
     - Le Chalet-à-Gobet
     - Montblesson
     - Montheron
