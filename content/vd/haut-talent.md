@@ -13,7 +13,6 @@ territoire:
     - Morrens
     - Poliez-Pittet
 NPA:
-    - 1000
     - 1041
     - 1053
     - 1054

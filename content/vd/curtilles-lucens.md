@@ -11,7 +11,6 @@ territoire:
     - Prévonloup
     - Valbroye
 NPA:
-    - 1000
     - 1521
     - 1522
     - 1526
