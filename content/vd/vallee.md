@@ -3,7 +3,7 @@ title: Paroisse de La Vallée
 name: La Vallée
 site: https://www.eerv.ch/region/joux-orbe/la-vallee/accueil
 territoire:
-    - L'Abbaye
+    - L’Abbaye
     - Le Chenit
     - Le Lieu
 NPA:
@@ -17,7 +17,7 @@ NPA:
     - 1348
 meta:
     - Chez-le-Maître
-    - L'Orient
+    - L’Orient
     - La Golisse
     - Le Brassus
     - Le Campe

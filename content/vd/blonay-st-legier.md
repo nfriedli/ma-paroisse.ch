@@ -9,14 +9,14 @@ NPA:
     - 1806
     - 1807
 meta:
-    - Bains-de-l'Alliaz
+    - Bains-de-l’Alliaz
     - Clies
     - Hauteville
-    - L'Alliaz
+    - L’Alliaz
     - La Chiésaz
     - Lally
     - Les Chevalleyres
     - Les Pléiades
     - St-Légier
-region: Riviera - Pays-d'Enhaut
+region: Riviera - Pays-d’Enhaut
 ---

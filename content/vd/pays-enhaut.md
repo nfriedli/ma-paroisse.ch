@@ -1,9 +1,9 @@
 ---
-title: Paroisse du Pays d'Enhaut
-name: Pays-d'Enhaut
+title: Paroisse du Pays d’Enhaut
+name: Pays-d’Enhaut
 site: https://www.eerv.ch/region/riviera-pays-denhaut/pays-denhaut/accueil
 territoire:
-    - Château-d'Œx
+    - Château-d’Œx
     - Rossinière
     - Rougemont
 NPA:
@@ -12,12 +12,12 @@ NPA:
     - 1660
 meta:
     - Flendruz
-    - L'Etivaz
+    - L’Etivaz
     - La Chaudanne
     - La Lécherette
     - La Tine
     - Les Granges
     - Les Moulins
-    - Château-d'OEx
-region: Riviera - Pays-d'Enhaut
+    - Château-d’OEx
+region: Riviera - Pays-d’Enhaut
 ---

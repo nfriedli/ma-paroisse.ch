@@ -8,7 +8,7 @@ NPA:
     - 2333
 meta:
     - La Basse-Ferrière
-    - La Chaux-d'Abel
+    - La Chaux-d’Abel
     - La Cibourg
 region: Erguël
 ---

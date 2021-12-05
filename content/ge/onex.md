@@ -1,5 +1,5 @@
 ---
-title: Paroisse d'Onex
+title: Paroisse d’Onex
 name: Onex
 site: https://onex.epg.ch
 territoire:

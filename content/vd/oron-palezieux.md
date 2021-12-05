@@ -1,5 +1,5 @@
 ---
-title: Paroisse d'Oron - Palézieux
+title: Paroisse d’Oron - Palézieux
 name: Oron - Palézieux
 site: https://www.eerv.ch/region/la-broye/oron-palezieux/accueil
 territoire:

@@ -1,5 +1,5 @@
 ---
-title: Paroisse d'Yverdon-Temple
+title: Paroisse d’Yverdon-Temple
 name: Yverdon-Temple
 site: https://www.eerv.ch/region/nord-vaudois/yverdon-temple/accueil
 territoire:

@@ -1,5 +1,5 @@
 ---
-title: Paroisse d'Estavayer-le-Lac
+title: Paroisse d’Estavayer-le-Lac
 name: Estavayer-le-Lac
 site: https://www.estaparoisse.ch/
 territoire:

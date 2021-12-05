@@ -27,7 +27,7 @@ meta:
     - Les Mosses
     - Les Planches
     - Les Voettes
-    - Vers-l'Eglise
+    - Vers-l’Eglise
     - Veyges (hameaux)
 region: Chablais vaudois
 ---

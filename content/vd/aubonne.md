@@ -1,6 +1,6 @@
 ---
-title: Paroisse de L'Aubonne
-name: L'Aubonne
+title: Paroisse de L’Aubonne
+name: L’Aubonne
 site: https://www.eerv.ch/region/morges-aubonne/laubonne/accueil
 territoire:
     - Allaman

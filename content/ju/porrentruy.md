@@ -79,7 +79,7 @@ meta:
     - Pleujouse
     - Ravines
     - Réclère
-    - Roche-d'Or
+    - Roche-d’Or
     - Rocourt
     - Saint-Ursanne
     - St-Ursanne

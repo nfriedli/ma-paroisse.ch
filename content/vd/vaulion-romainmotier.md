@@ -8,7 +8,7 @@ territoire:
     - Croy
     - Cuarnens
     - Juriens
-    - L'Isle
+    - L’Isle
     - La Praz
     - Mauraz
     - Moiry

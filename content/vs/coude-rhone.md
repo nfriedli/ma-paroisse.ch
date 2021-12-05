@@ -105,8 +105,8 @@ meta:
     - Sembrancher
     - Somlaproz
     - Soulalex
-    - Van d'en Bas
-    - Van d'en Haut
+    - Van d’en Bas
+    - Van d’en Haut
     - Vens
     - Verbier
     - Verbier Village

@@ -7,6 +7,6 @@ territoire:
 NPA:
     - 2615
 meta:
-    - La Chaux-d'Abel
+    - La Chaux-d’Abel
 region: Erguël
 ---

@@ -1,5 +1,5 @@
 ---
-title: Paroisse d'Orbe - Agiez
+title: Paroisse d’Orbe - Agiez
 name: Orbe - Agiez
 site: https://www.eerv.ch/region/joux-orbe/orbe-agiez/accueil
 territoire:

@@ -11,5 +11,5 @@ NPA:
     - 1805
 meta:
     - Le Mont-Pèlerin
-region: Riviera - Pays-d'Enhaut
+region: Riviera - Pays-d’Enhaut
 ---

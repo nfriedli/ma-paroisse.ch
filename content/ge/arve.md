@@ -1,5 +1,5 @@
 ---
-title: Paroisse de l'Arve
+title: Paroisse de l’Arve
 name: Arve
 site: https://arve.epg.ch
 territoire:

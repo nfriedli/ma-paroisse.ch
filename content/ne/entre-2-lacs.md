@@ -1,5 +1,5 @@
 ---
-title: Paroisse de L'Entre-2-Lacs
+title: Paroisse de L’Entre-2-Lacs
 name: Entre-2-Lacs
 site: https://www.entre2lacs.ch/
 territoire:

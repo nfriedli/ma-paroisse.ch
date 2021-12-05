@@ -1,5 +1,5 @@
 ---
-title: Paroisse d'Échallens
+title: Paroisse d’Échallens
 name: Échallens
 site: https://www.eerv.ch/region/gros-de-vaud-venoge/echallens/accueil
 territoire:

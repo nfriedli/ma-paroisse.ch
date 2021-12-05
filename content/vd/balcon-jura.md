@@ -14,7 +14,7 @@ NPA:
 meta:
     - Chasseron
     - Culliairy
-    - L'Auberson
+    - L’Auberson
     - La Chaux
     - La Sagne
     - La Vraconnaz

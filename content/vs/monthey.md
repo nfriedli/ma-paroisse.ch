@@ -8,7 +8,7 @@ territoire:
     - Massongex
     - Monthey
     - Troistorrents
-    - Val-d'Illiez
+    - Val-d’Illiez
 NPA:
     - 1868
     - 1869

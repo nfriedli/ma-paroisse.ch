@@ -43,5 +43,5 @@ meta:
     - Vernex
     - Villard-sur-Chamby
     - Vuarennes
-region: Riviera - Pays-d'Enhaut
+region: Riviera - Pays-d’Enhaut
 ---

@@ -5,7 +5,7 @@ site: https://www.eerv.ch/region/gros-de-vaud-venoge/veyron-venoge/accueil
 territoire:
     - Chavannes-le-Veyron
     - Cuarnens
-    - L'Isle
+    - L’Isle
     - La Praz
     - Mauraz
     - Moiry

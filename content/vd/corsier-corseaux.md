@@ -13,5 +13,5 @@ NPA:
 meta:
     - Fenil-sur-Corsier
     - Les Monts-de-Corsier
-region: Riviera - Pays-d'Enhaut
+region: Riviera - Pays-d’Enhaut
 ---

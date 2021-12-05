@@ -1,5 +1,5 @@
 ---
-title: Paroisse d'Ollon - Villars
+title: Paroisse d’Ollon - Villars
 name: Ollon - Villars
 site: https://www.eerv.ch/region/chablais-vaudois/ollon-villars/accueil
 territoire:
@@ -26,7 +26,7 @@ meta:
     - Pallueyres
     - Panex
     - Plambuit
-    - Plan d'Essert
+    - Plan d’Essert
     - Saint-Triphon
     - St-Triphon
     - Salaz

@@ -1,6 +1,6 @@
 ---
 title: Canton de Fribourg
-description: Paroisses de l'Église évangélique réformée du canton de Fribourg (EERF).
+description: Paroisses de l’Église évangélique réformée du canton de Fribourg (EERF).
 weight: 30
 cascade:
     canton: Fribourg
@@ -9,4 +9,4 @@ cascade:
         - https://pixabay.com/fr/photos/b%C3%A2timents-maisons-toits-ville-air-5477670/
 ---
 
-Paroisses de l'Église évangélique réformée du canton de Fribourg (EERF).
+Paroisses de l’Église évangélique réformée du canton de Fribourg (EERF).

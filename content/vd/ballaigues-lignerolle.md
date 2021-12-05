@@ -4,7 +4,7 @@ name: Ballaigues - Lignerolle
 site: https://www.eerv.ch/region/joux-orbe/ballaigues-lignerolle/accueil
 territoire:
     - Ballaigues
-    - L'Abergement
+    - L’Abergement
     - Les Clées
     - Lignerolle
     - Montcherand

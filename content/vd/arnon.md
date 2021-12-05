@@ -1,6 +1,6 @@
 ---
-title: Paroisse de L'Arnon
-name: L'Arnon
+title: Paroisse de L’Arnon
+name: L’Arnon
 site: https://www.eerv.ch/region/nord-vaudois/larnon/accueil
 territoire:
     - Bonvillars

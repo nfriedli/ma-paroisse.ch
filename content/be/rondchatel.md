@@ -17,7 +17,7 @@ NPA:
     - 2604
 meta:
     - Frinvillier
-    - Les Prés-d'Orvin
+    - Les Prés-d’Orvin
     - Plagne
     - Reuchenette
     - Rondchâtel
