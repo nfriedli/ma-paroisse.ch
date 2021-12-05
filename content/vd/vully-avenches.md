@@ -1,6 +1,6 @@
 ---
-title: Paroisse de Vully - Avenches
-name: Vully - Avenches
+title: Paroisse de Vully-Avenches
+name: Vully-Avenches
 site: https://www.eerv.ch/region/la-broye/vully-avenches/accueil
 territoire:
     - Avenches

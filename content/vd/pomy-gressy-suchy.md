@@ -1,6 +1,6 @@
 ---
-title: Paroisse de Pomy - Gressy - Suchy
-name: Pomy - Gressy - Suchy
+title: Paroisse de Pomy-Gressy-Suchy
+name: Pomy-Gressy-Suchy
 site: https://www.eerv.ch/region/nord-vaudois/pomy-gressy-suchy/accueil
 territoire:
     - Belmont-sur-Yverdon

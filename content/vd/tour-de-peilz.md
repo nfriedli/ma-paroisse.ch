@@ -8,5 +8,5 @@ NPA:
     - 1814
 meta:
     - Burier
-region: Riviera - Pays-d’Enhaut
+region: Riviera-Pays-d’Enhaut
 ---

@@ -1,6 +1,6 @@
 ---
-title: Paroisse de Vaulion - Romainmôtier
-name: Vaulion - Romainmôtier
+title: Paroisse de Vaulion-Romainmôtier
+name: Vaulion-Romainmôtier
 site: https://www.eerv.ch/region/joux-orbe/vaulion-romainmotier/accueil
 territoire:
     - Bretonnières
@@ -35,5 +35,5 @@ meta:
     - Saint-Denis
     - St-Denis
     - Villars-Bozon
-region: Joux - Orbe
+region: Joux-Orbe
 ---

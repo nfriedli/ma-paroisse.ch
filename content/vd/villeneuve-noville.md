@@ -1,6 +1,6 @@
 ---
-title: Paroisse de Villeneuve – Haut-Lac
-name: Villeneuve - Noville
+title: Paroisse de Villeneuve-Haut-Lac
+name: Villeneuve-Noville
 site: https://www.eerv.ch/region/chablais-vaudois/villeneuve-haut-lac/accueil
 territoire:
     - Chessel

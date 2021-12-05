@@ -1,6 +1,6 @@
 ---
-title: Paroisse de Saint-Prex - Lussy - Vufflens
-name: Saint-Prex - Lussy - Vufflens
+title: Paroisse de Saint-Prex-Lussy-Vufflens
+name: Saint-Prex-Lussy-Vufflens
 site: https://www.eerv.ch/region/morges-aubonne/saint-prex-lussy-vufflens/accueil
 territoire:
     - Chigny
@@ -26,5 +26,5 @@ NPA:
 meta:
     - Lussy
     - St-Prex
-region: Morges - Aubonne
+region: Morges-Aubonne
 ---

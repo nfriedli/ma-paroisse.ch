@@ -30,5 +30,5 @@ meta:
     - Pizy
     - Signal-de-Bougy
     - St-Livres
-region: Morges - Aubonne
+region: Morges-Aubonne
 ---

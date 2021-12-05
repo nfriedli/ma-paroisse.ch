@@ -1,6 +1,6 @@
 ---
-title: Paroisse de Baulmes - Rances
-name: Baulmes - Rances
+title: Paroisse de Baulmes-Rances
+name: Baulmes-Rances
 site: https://www.eerv.ch/region/joux-orbe/baulmes-rances/accueil
 territoire:
     - Baulmes
@@ -14,5 +14,5 @@ NPA:
     - 1446
 meta:
     - Peney
-region: Joux - Orbe
+region: Joux-Orbe
 ---

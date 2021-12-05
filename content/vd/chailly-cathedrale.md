@@ -1,6 +1,6 @@
 ---
-title: Paroisse de Chailly - La Cathédrale
-name: Chailly - La Cathédrale
+title: Paroisse de Chailly-La Cathédrale
+name: Chailly-La Cathédrale
 site: https://www.eerv.ch/region/lausanne-epalinges/chailly-la-cathedrale/accueil
 territoire:
     - Épalinges
@@ -24,5 +24,5 @@ meta:
     - Vernand-Dessous
     - Vernand-Dessus
     - Vers-chez-les-Blanc
-region: Lausanne - Épalinges
+region: Lausann-Épalinges
 ---

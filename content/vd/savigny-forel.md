@@ -1,6 +1,6 @@
 ---
-title: Paroisse de Savigny - Forel
-name: Savigny - Forel
+title: Paroisse de Savigny-Forel
+name: Savigny-Forel
 site: https://www.eerv.ch/region/lavaux/savigny-forel/accueil
 territoire:
     - Forel (Lavaux)

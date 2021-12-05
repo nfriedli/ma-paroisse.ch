@@ -1,6 +1,6 @@
 ---
-title: Paroisse de Cossonay - Grancy
-name: Cossonay - Grancy
+title: Paroisse de Cossonay-Grancy
+name: Cossonay-Grancy
 site: https://www.eerv.ch/region/gros-de-vaud-venoge/cossonay-grancy/accueil
 territoire:
     - Cossonay
@@ -21,5 +21,5 @@ meta:
     - Cossonay-Ville
     - Lussery
     - Villars-Lussery
-region: Gros-de-Vaud - Venoge
+region: Gros-de-Vaud-Venoge
 ---

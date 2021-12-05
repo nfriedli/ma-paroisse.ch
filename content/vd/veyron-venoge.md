@@ -1,6 +1,6 @@
 ---
-title: Paroisse de Veyron - Venoge
-name: Veyron - Venoge
+title: Paroisse de Veyron-Venoge
+name: Veyron-Venoge
 site: https://www.eerv.ch/region/gros-de-vaud-venoge/veyron-venoge/accueil
 territoire:
     - Chavannes-le-Veyron
@@ -22,5 +22,5 @@ meta:
     - Saint-Denis
     - St-Denis
     - Villars-Bozon
-region: Gros-de-Vaud - Venoge
+region: Gros-de-Vaud-Venoge
 ---

@@ -1,6 +1,6 @@
 ---
-title: Paroisse La Sallaz - Les Croisettes
-name: La Sallaz - Les Croisettes
+title: Paroisse La Sallaz-Les Croisettes
+name: La Sallaz-Les Croisettes
 site: https://www.eerv.ch/region/lausanne-epalinges/la-sallaz-les-croisettes/accueil
 territoire:
     - Épalinges
@@ -25,5 +25,5 @@ meta:
     - Vernand-Dessous
     - Vernand-Dessus
     - Vers-chez-les-Blanc
-region: Lausanne - Épalinges
+region: Lausann-Épalinges
 ---

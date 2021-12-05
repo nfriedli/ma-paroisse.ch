@@ -33,5 +33,5 @@ meta:
     - Les Esserts-de-Rive
     - Piguet-Dessous
     - Piguet-Dessus
-region: Joux - Orbe
+region: Joux-Orbe
 ---

@@ -19,5 +19,5 @@ meta:
     - Les Granges
     - Les Moulins
     - Château-d’OEx
-region: Riviera - Pays-d’Enhaut
+region: Riviera-Pays-d’Enhaut
 ---

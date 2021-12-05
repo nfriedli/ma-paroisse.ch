@@ -1,6 +1,6 @@
 ---
-title: Paroisse de Moudon - Syens
-name: Moudon - Syens
+title: Paroisse de Moudon-Syens
+name: Moudon-Syens
 site: https://www.eerv.ch/region/la-broye/moudon-syens/accueil
 territoire:
     - Bussy-sur-Moudon

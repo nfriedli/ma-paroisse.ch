@@ -9,5 +9,5 @@ NPA:
 meta:
     - Le Creux
     - Le Day
-region: Joux - Orbe
+region: Joux-Orbe
 ---

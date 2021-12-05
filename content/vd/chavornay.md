@@ -16,5 +16,5 @@ meta:
     - Essert-Pittet
     - Le Coudray
     - Le Pâquier
-region: Joux - Orbe
+region: Joux-Orbe
 ---

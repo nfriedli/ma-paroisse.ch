@@ -1,6 +1,6 @@
 ---
-title: Paroisse de Corsier - Corseaux
-name: Corsier - Corseaux
+title: Paroisse de Corsier-Corseaux
+name: Corsier-Corseaux
 site: https://www.eerv.ch/region/riviera-pays-denhaut/corsier-corseaux/accueil
 territoire:
     - Corseaux
@@ -13,5 +13,5 @@ NPA:
 meta:
     - Fenil-sur-Corsier
     - Les Monts-de-Corsier
-region: Riviera - Pays-d’Enhaut
+region: Riviera-Pays-d’Enhaut
 ---

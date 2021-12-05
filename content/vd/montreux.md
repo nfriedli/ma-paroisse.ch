@@ -1,5 +1,5 @@
 ---
-title: Paroisse de Montreux - Veytaux
+title: Paroisse de Montreux-Veytaux
 name: Montreux
 site: https://www.eerv.ch/region/riviera-pays-denhaut/montreux-veytaux/accueil
 territoire:
@@ -40,5 +40,5 @@ meta:
     - Vernex
     - Villard-sur-Chamby
     - Vuarennes
-region: Riviera - Pays-d’Enhaut
+region: Riviera-Pays-d’Enhaut
 ---

@@ -1,6 +1,6 @@
 ---
-title: Paroisse de Begnins - Burtigny
-name: Begnins - Burtigny
+title: Paroisse de Begnins-Burtigny
+name: Begnins-Burtigny
 site: https://www.eerv.ch/region/la-cote/begnins-burtigny/accueil
 territoire:
     - Bassins

@@ -1,6 +1,6 @@
 ---
-title: Paroisse de Chavannes - Epenex
-name: Chavannes - Epenex
+title: Paroisse de Chavannes-Epenex
+name: Chavannes-Epenex
 site: https://www.eerv.ch/region/les-chamberonnes/chavannes-epenex/accueil
 territoire:
     - Chavannes-près-Renens

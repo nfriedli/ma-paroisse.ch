@@ -1,6 +1,6 @@
 ---
-title: Paroisse de Lonay - Préverenges - Vullierens
-name: Lonay - Préverenges - Vullierens
+title: Paroisse de Lonay-Préverenges-Vullierens
+name: Lonay-Préverenges-Vullierens
 site: https://www.eerv.ch/region/morges-aubonne/lonay-preverenges-vullierens/accueil
 territoire:
     - Aclens
@@ -17,5 +17,5 @@ NPA:
     - 1115
     - 1121
     - 1123
-region: Morges - Aubonne
+region: Morges-Aubonne
 ---

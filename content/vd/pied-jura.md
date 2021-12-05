@@ -30,5 +30,5 @@ meta:
     - Bussy-sur-Morges
     - Chardonney-sur-Morges
     - Hameau de Froideville
-region: Morges - Aubonne
+region: Morges-Aubonne
 ---

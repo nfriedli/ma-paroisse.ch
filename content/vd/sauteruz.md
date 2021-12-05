@@ -21,5 +21,5 @@ meta:
     - La Robellaz
     - Nonfoux
     - Vuarrengel
-region: Gros-de-Vaud - Venoge
+region: Gros-de-Vaud-Venoge
 ---

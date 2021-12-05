@@ -1,6 +1,6 @@
 ---
-title: Paroisse de Morges - Échichens
-name: Morges - Échichens
+title: Paroisse de Morge-Échichens
+name: Morge-Échichens
 site: https://www.eerv.ch/region/morges-aubonne/morges-echichens/accueil
 territoire:
     - Échichens
@@ -17,5 +17,5 @@ meta:
     - Monnaz
     - Saint-Saphorin-sur-Morges
     - St-Saphorin
-region: Morges - Aubonne
+region: Morges-Aubonne
 ---

@@ -1,6 +1,6 @@
 ---
-title: Paroisse de Saint-Laurent - Les Bergières
-name: Saint-laurent - Les Bergières
+title: Paroisse de Saint-Laurent-Les Bergières
+name: Saint-laurent-Les Bergières
 site: https://www.eerv.ch/region/lausanne-epalinges/saint-laurent-les-bergieres/accueil
 territoire:
     - Jouxtens-Mézery
@@ -19,5 +19,5 @@ meta:
     - Vernand-Dessus
     - Vers-chez-les-Blanc
     - St-Laurent
-region: Lausanne - Épalinges
+region: Lausann-Épalinges
 ---

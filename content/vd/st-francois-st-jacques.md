@@ -1,6 +1,6 @@
 ---
-title: Paroisse de Saint-François - Saint-Jacques
-name: Saint-François - Saint-Jacques
+title: Paroisse de Saint-François-Saint-Jacques
+name: Saint-François-Saint-Jacques
 site: https://www.eerv.ch/region/lausanne-epalinges/saint-francois-saint-jacques/accueil
 territoire:
     - Lausanne
@@ -26,5 +26,5 @@ meta:
     - Vers-chez-les-Blanc
     - St-François
     - St-Jacques
-region: Lausanne - Épalinges
+region: Lausann-Épalinges
 ---

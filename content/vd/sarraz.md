@@ -19,5 +19,5 @@ NPA:
 meta:
     - Saint-Loup
     - St-Loup
-region: Gros-de-Vaud - Venoge
+region: Gros-de-Vaud-Venoge
 ---

@@ -21,5 +21,5 @@ meta:
     - Sugnens
     - Villars-Mendraz
     - Villars-Tiercelin
-region: Gros-de-Vaud - Venoge
+region: Gros-de-Vaud-Venoge
 ---

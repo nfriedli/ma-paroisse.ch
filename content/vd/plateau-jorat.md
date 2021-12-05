@@ -32,5 +32,5 @@ meta:
     - Thierrens
     - Villars-Mendraz
     - Villars-Tiercelin
-region: Gros-de-Vaud - Venoge
+region: Gros-de-Vaud-Venoge
 ---

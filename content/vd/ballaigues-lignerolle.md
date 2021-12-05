@@ -1,6 +1,6 @@
 ---
-title: Paroisse de Ballaigues - Lignerolle
-name: Ballaigues - Lignerolle
+title: Paroisse de Ballaigues-Lignerolle
+name: Ballaigues-Lignerolle
 site: https://www.eerv.ch/region/joux-orbe/ballaigues-lignerolle/accueil
 territoire:
     - Ballaigues
@@ -18,5 +18,5 @@ NPA:
 meta:
     - La Russille
     - Le Vailloud
-region: Joux - Orbe
+region: Joux-Orbe
 ---

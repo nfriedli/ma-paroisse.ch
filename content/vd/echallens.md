@@ -10,5 +10,5 @@ NPA:
     - 1040
 meta:
     - St-Barthélemy
-region: Gros-de-Vaud - Venoge
+region: Gros-de-Vaud-Venoge
 ---

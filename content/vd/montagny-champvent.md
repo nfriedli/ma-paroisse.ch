@@ -1,6 +1,6 @@
 ---
-title: Paroisse de Montagny - Champvent
-name: Montagny - Champvent
+title: Paroisse de Montagny-Champvent
+name: Montagny-Champvent
 site: https://www.eerv.ch/region/nord-vaudois/montagny-champvent/accueil
 territoire:
     - Chamblon

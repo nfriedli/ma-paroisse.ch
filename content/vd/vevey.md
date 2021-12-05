@@ -6,5 +6,5 @@ territoire:
     - Vevey
 NPA:
     - 1800
-region: Riviera - Pays-d’Enhaut
+region: Riviera-Pays-d’Enhaut
 ---

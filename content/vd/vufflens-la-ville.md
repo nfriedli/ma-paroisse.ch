@@ -14,5 +14,5 @@ NPA:
     - 1035
     - 1036
     - 1302
-region: Gros-de-Vaud - Venoge
+region: Gros-de-Vaud-Venoge
 ---

@@ -1,6 +1,6 @@
 ---
-title: Paroisse de Bellevaux - Saint-Luc
-name: Bellevaux - Saint-Luc
+title: Paroisse de Bellevaux-Saint-Luc
+name: Bellevaux-Saint-Luc
 site: https://www.eerv.ch/region/lausanne-epalinges/bellevaux-saint-luc/accueil
 territoire:
     - Lausanne
@@ -15,5 +15,5 @@ meta:
     - Vernand-Dessus
     - Vers-chez-les-Blanc
     - St-Luc
-region: Lausanne - Épalinges
+region: Lausann-Épalinges
 ---

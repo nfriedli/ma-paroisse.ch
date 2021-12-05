@@ -1,6 +1,6 @@
 ---
-title: Paroisse de Blonay - Saint-Légier
-name: Blonay - Saint-Légier
+title: Paroisse de Blonay-Saint-Légier
+name: Blonay-Saint-Légier
 site: https://www.eerv.ch/region/riviera-pays-denhaut/blonay-saint-legier/accueil
 territoire:
     - Blonay
@@ -18,5 +18,5 @@ meta:
     - Les Chevalleyres
     - Les Pléiades
     - St-Légier
-region: Riviera - Pays-d’Enhaut
+region: Riviera-Pays-d’Enhaut
 ---

@@ -1,6 +1,6 @@
 ---
-title: Paroisse de Gimel - Longirod
-name: Gimel - Longirod
+title: Paroisse de Gimel-Longirod
+name: Gimel-Longirod
 site: https://www.eerv.ch/region/morges-aubonne/gimel-longirod/accueil
 territoire:
     - Essertines-sur-Rolle
@@ -24,5 +24,5 @@ meta:
     - Roussillon
     - St-George
     - St-Oyens
-region: Morges - Aubonne
+region: Morges-Aubonne
 ---

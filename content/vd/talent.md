@@ -43,5 +43,5 @@ meta:
     - Villars-Mendraz
     - Villars-Tiercelin
     - St-Barthélemy
-region: Gros-de-Vaud - Venoge
+region: Gros-de-Vaud-Venoge
 ---
