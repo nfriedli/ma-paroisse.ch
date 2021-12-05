@@ -3,14 +3,12 @@ $text: #123;
 $contrast: #800;
 
 html {
-    font-family: Literata, Poppins, Inter, Roboto, Arial, sans-serif;
+    font-family: Literata, Georgia, serif;
     font-size: 100%;
     color: $text;
     background: $color;
-    line-height: 1.6;
+    line-height: 1.5;
     overflow-y: scroll;
-    text-rendering: optimizeSpeed;
-    /* font-feature-settings: "zero" 1, "ss01" 1, "ss02" 1, "tnum" 1, "calt" 1, "case" 1, "dlig" 1; */
 }
 
 @media screen and (min-width: 1000px) {
