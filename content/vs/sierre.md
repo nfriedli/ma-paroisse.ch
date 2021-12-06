@@ -12,6 +12,8 @@ NPA:
     - 3968
     - 3972
     - 3973
+    - 3976
+    - 3977
 meta:
     - Ayer
     - Chandolin
