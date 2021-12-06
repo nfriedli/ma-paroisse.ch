@@ -1,15 +1,28 @@
-$color: #FFF;
-$text: #123;
-$contrast: #800;
+:root {
+    --background: #FFF;
+    --text: #123;
+    --contrast: #800;
+    --light1: #EEE;
+    --light2: #DDD;
+}
+
+@media screen and (prefers-color-scheme: dark) {
+    :root {
+        --background: #222;
+        --text: #FFF;
+        --light1: #333;
+        --light2: #444;
+        --contrast: #6af;
+    }
+}
 
 html {
     font-family: inter-var, sans-serif;
     font-size: 100%;
-    color: $text;
-    background: $color;
+    color: var(--text);
+    background: var(--background);
     line-height: 1.5;
     overflow-y: scroll;
-    text-rendering: optimizeLegibility;
 }
 
 @media screen and (min-width: 1000px) {
@@ -19,19 +32,33 @@ html {
 }
 
 body {
-    padding: 1rem;
-    max-width: 60ch;
-    margin: auto;
-    margin-bottom: 4rem;
+    padding: 0;
+    margin: 0;
 }
 
 body> * + * {
         margin-top: 4rem;
-    } 
+} 
 
 header, footer {
+    background: var(--light1);
     font-size: .85rem;
     font-weight: 500;
+    padding: 0.5rem 1rem;
+}
+
+header {
+    border-bottom: 2px solid var(--light2);
+}
+
+footer {
+    border-top: 2px solid var(--light2);
+}
+
+main {
+    max-width: 50ch;
+    margin: auto;
+    padding: 1rem;
 }
 
 h1 {
@@ -46,7 +73,7 @@ h2 {
 }
 
 input {
-    border: 4px solid $contrast;
+    border: 4px solid var(--contrast);
     font-size: 1.3rem;
     font-weight: 900;
     padding: .5rem;
@@ -77,8 +104,8 @@ details {
 }
 
 a {
-    color: $contrast;
-    text-decoration-color: $text;
+    color: var(--contrast);
+    text-decoration-color: var(--text);
 }
 
 @font-face {
