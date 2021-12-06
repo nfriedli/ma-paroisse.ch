@@ -1,5 +1,5 @@
 ---
-title: paroisse du Petit-Saconnex
+title: Paroisse du Petit-Saconnex
 name: Petit-Saconnex
 site: https://petit-saconnex.epg.ch
 territoire:
