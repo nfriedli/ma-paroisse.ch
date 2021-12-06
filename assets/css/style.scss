@@ -3,7 +3,7 @@ $text: #123;
 $contrast: #800;
 
 html {
-    font-family: Inter, sans-serif;
+    font-family: inter-var, sans-serif;
     font-size: 100%;
     color: $text;
     background: $color;
@@ -80,3 +80,12 @@ a {
     color: $contrast;
     text-decoration-color: $text;
 }
+
+@font-face {
+    font-family: "inter-var";
+    font-weight: 100 900;
+    font-style: normal;
+    font-named-instance: "Regular";
+    font-display: swap;
+    src: url("/fonts/inter.woff2") format("woff2");
+  }
