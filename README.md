@@ -4,8 +4,6 @@ Un site ultra simple pour retrouver sa paroisse protestante réformée en Suisse
 
 C’est ici: https://ma-paroisse.ch
 
-**TODO:** https://github.com/nfriedli/ma-paroisse.ch/blob/main/TODO.txt
-
 ## La problématique
 
 Fusions de communes et regroupements paroissiaux rendent la maintenance des données complexes.
