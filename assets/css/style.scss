@@ -1,18 +1,19 @@
 :root {
     --background: #FFF;
-    --text: #123;
+    --text: #333;
     --contrast: #800;
     --light1: #EEE;
     --light2: #DDD;
 }
 
+
 @media screen and (prefers-color-scheme: dark) {
     :root {
         --background: #222;
-        --text: #FFF;
-        --light1: #333;
-        --light2: #444;
-        --contrast: #6af;
+        --text: #DDD;
+        --light1: #181818;
+        --light2: #111;
+        --contrast: #CCF;
     }
 }
 
@@ -34,31 +35,34 @@ html {
 body {
     padding: 0;
     margin: 0;
+    display: flex;
+    flex-direction: column;
 }
 
-body> * + * {
-        margin-top: 4rem;
-} 
+body > footer {
+    margin-top: auto;
+}
 
 header, footer {
     background: var(--light1);
     font-size: .85rem;
     font-weight: 500;
-    padding: 0.5rem 1rem;
+    padding: 0.5rem 2rem;
 }
 
 header {
     border-bottom: 2px solid var(--light2);
 }
 
-footer {
-    border-top: 2px solid var(--light2);
-}
 
 main {
+    background: var(--background);
     max-width: 50ch;
-    margin: auto;
-    padding: 1rem;
+    padding: 2rem;
+}
+
+footer {
+    border-top: 2px solid var(--light2);
 }
 
 h1 {
@@ -77,7 +81,7 @@ input {
     font-size: 1.3rem;
     font-weight: 900;
     padding: .5rem;
-    width: 100%;
+    width: 80%;
 }
 
 dl {
@@ -87,7 +91,7 @@ dl {
 dt {
     font-weight: 600;
     font-size: .9rem;
-    margin-top: 1rem;
+    margin-top: .5rem;
 }
 
 summary {
