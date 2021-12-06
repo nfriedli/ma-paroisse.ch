@@ -4,6 +4,7 @@
     --contrast: #800;
     --light1: #EEE;
     --light2: #DDD;
+    --width: 30rem;
 }
 
 
@@ -26,21 +27,27 @@ html {
     overflow-y: scroll;
 }
 
+@media screen and (min-width: 800px) {
+    html {
+        font-size: 110%;
+    }
+}
+
 @media screen and (min-width: 1000px) {
     html {
         font-size: 120%;
     }
 }
 
+@media screen and (min-width: 1500px) {
+    html {
+        font-size: 130%;
+    }
+}
+
 body {
     padding: 0;
     margin: 0;
-    display: flex;
-    flex-direction: column;
-}
-
-body > footer {
-    margin-top: auto;
 }
 
 header, footer {
@@ -48,6 +55,11 @@ header, footer {
     font-size: .85rem;
     font-weight: 500;
     padding: 0.5rem 2rem;
+
+    div {
+        margin: auto;
+        max-width: var(--width);
+    }
 }
 
 header {
@@ -57,7 +69,8 @@ header {
 
 main {
     background: var(--background);
-    max-width: 50ch;
+    margin: auto;
+    max-width: var(--width);
     padding: 2rem;
 }
 
