@@ -4,7 +4,7 @@
   {{ range site.Sections }}
   {{ if ne $current .}}
   <li>
-    <a href="{{ .Permalink }}">{{ .Title }}</a> ({{ len .RegularPages }} paroisses)
+    <a href="{{ .Permalink }}">{{ .Title }}</a> <small>({{ len .RegularPages }} paroisses)</small>
   </li>
   {{ end }}
   {{ end }}

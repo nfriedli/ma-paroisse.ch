@@ -13,7 +13,7 @@
 
 <ul>
   {{ range site.Sections }}
-  <li><a href="{{ .Permalink }}">{{ .Title }}</a> ({{ len .RegularPages }} paroisses)</li>
+  <li><a href="{{ .Permalink }}">{{ .Title }}</a> <small>({{ len .RegularPages }} paroisses)</small></li>
   {{ end }}
 </ul>
 

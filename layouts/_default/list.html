@@ -5,7 +5,7 @@
 
 <ul>
   {{ range (sort .Pages "Permalink") }}
-  <li><a href="{{ .Permalink }}">{{ .Title }}</a>{{ with .Params.region }} (région: {{.}}){{ end }}</li>
+  <li><a href="{{ .Permalink }}">{{ .Title }}</a>{{ with .Params.region }} <small>(région: {{.}})</small>{{ end }}</li>
   {{ end }}
 </ul>
 

@@ -26,5 +26,5 @@ meta:
     - Vers-chez-les-Blanc
     - St-François
     - St-Jacques
-region: Lausann-Épalinges
+region: Lausanne-Épalinges
 ---

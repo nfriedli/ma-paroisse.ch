@@ -38,14 +38,11 @@ outputs:
 
 params:
   footer: |  
-    Contact: nicolas.friedli+mp@gmail.com  
-    Licence: CC0 (domaine public)  
+    Contact: nicolas.friedli+mp@gmail.com / Licence: CC0 (domaine public)  
 
-    [Plan complet](/sitemap/)  
-    [GitHub & en savoir plus](https://github.com/nfriedli/ma-paroisse.ch)
+    [Plan complet](/sitemap/) / [GitHub & en savoir plus](https://github.com/nfriedli/ma-paroisse.ch)
     
-    [Églises ouvertes](https://eglises-ouvertes.ch/)  
-    [Réseau protestant](https://reseau-protestant.ch/liste/)
+    [Églises ouvertes](https://eglises-ouvertes.ch/) / [Réseau protestant](https://reseau-protestant.ch/liste/)
   images:
     - https://cdn.pixabay.com/photo/2018/02/23/22/48/light-3176887_960_720.jpg
     - https://cdn.pixabay.com/photo/2015/12/08/00/27/church-1081718_960_720.jpg
