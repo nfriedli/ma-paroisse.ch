@@ -1,139 +1,140 @@
 :root {
-    --background: #FFF;
-    --text: #333;
-    --contrast: #800;
-    --light1: #EEE;
-    --light2: #DDD;
-    --width: 30rem;
+  --background: #fff;
+  --text: #333;
+  --contrast: #800;
+  --light1: #eee;
+  --light2: #ddd;
+  --width: 30rem;
 }
 
-
 @media screen and (prefers-color-scheme: dark) {
-    :root {
-        --background: #222;
-        --text: #DDD;
-        --light1: #181818;
-        --light2: #111;
-        --contrast: #CCF;
-    }
+  :root {
+    --background: #222;
+    --text: #ddd;
+    --light1: #181818;
+    --light2: #111;
+    --contrast: #ccf;
+  }
 }
 
 html {
-    font-family: inter-var, sans-serif;
-    font-size: 100%;
-    color: var(--text);
-    background: var(--background);
-    line-height: 1.5;
-    overflow-y: scroll;
+  font-family: inter-var, sans-serif;
+  font-size: 100%;
+  color: var(--text);
+  background: var(--background);
+  line-height: 1.5;
+  overflow-y: scroll;
 }
 
 @media screen and (min-width: 800px) {
-    html {
-        font-size: 110%;
-    }
+  html {
+    font-size: 110%;
+  }
 }
 
 @media screen and (min-width: 1000px) {
-    html {
-        font-size: 120%;
-    }
+  html {
+    font-size: 120%;
+  }
 }
 
 @media screen and (min-width: 1500px) {
-    html {
-        font-size: 130%;
-    }
+  html {
+    font-size: 130%;
+  }
 }
 
 body {
-    padding: 0;
-    margin: 0;
+  padding: 0;
+  margin: 0;
 }
 
-header, footer {
-    background: var(--light1);
-    font-size: .85rem;
-    font-weight: 500;
-    padding: 0.5rem 2rem;
+header,
+footer {
+  background: var(--light1);
+  font-size: 0.85rem;
+  font-weight: 500;
+  padding: 0.5rem 2rem;
 
-    div {
-        margin: auto;
-        max-width: var(--width);
-    }
+  div {
+    margin: auto;
+    max-width: var(--width);
+  }
 }
 
 header {
-    border-bottom: 2px solid var(--light2);
+  border-bottom: 2px solid var(--light2);
 }
 
-
 main {
-    background: var(--background);
-    margin: auto;
-    max-width: var(--width);
-    padding: 2rem;
+  background: var(--background);
+  margin: auto;
+  max-width: var(--width);
+  padding: 2rem;
 }
 
 footer {
-    border-top: 2px solid var(--light2);
+  border-top: 2px solid var(--light2);
 }
 
 h1 {
-    font-size: 1.4rem;
-    font-weight: 900;
+  font-size: 1.4rem;
+  font-weight: 900;
 }
 
 h2 {
-    font-size: 1rem;
-    margin-top: 2rem;
-    font-weight: 800;
+  font-size: 1rem;
+  margin-top: 2rem;
+  font-weight: 800;
 }
 
 input {
-    border: 4px solid var(--contrast);
-    font-size: 1.3rem;
-    font-weight: 900;
-    padding: .5rem;
-    width: 80%;
+  border: 4px solid var(--contrast);
+  font-size: 1.3rem;
+  font-weight: 900;
+  padding: 0.5rem;
+  width: 80%;
 }
 
 dl {
-    margin-top: 2rem;
+  margin-top: 2rem;
 }
 
 dt {
-    font-weight: 600;
-    font-size: .9rem;
-    margin-top: .5rem;
+  font-weight: 600;
+  font-size: 0.9rem;
+  margin-top: 0.5rem;
 }
 
 summary {
-    font-weight: 600;
+  font-weight: 600;
 }
 
 details {
-    margin-top: 1rem;
-    font-size: .9rem;
+  margin-top: 1rem;
+  font-size: 0.9rem;
 
-    dt {
-        font-size: .81rem;
-    }
+  dt {
+    font-size: 0.81rem;
+  }
 }
 
 a {
-    color: var(--contrast);
-    text-decoration-color: var(--text);
+  color: var(--contrast);
+  text-decoration-color: var(--text);
 }
 
-li {
-    margin-top: .3rem;
+@media screen and (max-width: 800px) {
+  li {
+    margin-top: 0.5rem;
+  }
 }
 
 @font-face {
-    font-family: "inter-var";
-    font-weight: 100 900;
-    font-style: normal;
-    font-named-instance: "Regular";
-    font-display: swap;
-    src: url("/fonts/inter.woff2") format("woff2");
-  }
+  font-family: "inter-var";
+  font-weight: 100 900;
+  font-style: normal;
+  font-named-instance: "Regular";
+  font-display: swap;
+  src: url("/fonts/inter.woff2") format("woff2");
+}
