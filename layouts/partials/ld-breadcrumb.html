@@ -1,0 +1,21 @@
+{{ $current := .Page }}
+{{ $position := 1 }}
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {{- range sort site.AllPages "Permalink" -}}
+        {{- if .IsAncestor $current -}}
+        {{- if not .IsHome -}},{{- end -}}
+        {
+        "@type": "ListItem",
+        "position": {{$position}},
+        "name": "{{.LinkTitle}}",
+        "item": "{{.Permalink}}"}
+        {{ $position = add $position 1}}
+        {{- end -}}
+        {{- end -}}
+        ]
+    }
+</script>
