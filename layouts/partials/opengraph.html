@@ -32,3 +32,7 @@
 {{ with .PublishDate }}<meta property="article:published_time" {{ .Format $iso8601 | printf "content=%q" | safeHTMLAttr }} />{{ end }}
 {{ with .Lastmod }}<meta property="article:modified_time" {{ .Format $iso8601 | printf "content=%q" | safeHTMLAttr }} />{{ end }}
 {{- end -}}
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="{{ $img.Permalink }}">
+<meta name="twitter:title" content="{{ .Title }}"/>
