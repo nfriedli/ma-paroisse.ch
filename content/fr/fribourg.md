@@ -9,39 +9,57 @@ territoire:
     - Belfaux
     - Bois-d’Amont
     - Chénens
-    - Corpataux-Magnedens
     - Corserey
     - Cottens
-    - Farvagny
     - Ferpicioz
     - Fribourg
     - Granges-Paccot
+    - Gibloux
     - Givisiez
     - Grolley
     - Hauterive
     - La Brillaz
     - La Sonnaz
-    - Le Glèbe
     - Le Mouret
     - Marly
     - Matran
     - Neyruz
     - Noréaz
-    - Pierreafotscha
+    - Pierrafotscha
     - Ponthaux
     - Prés-vers-Noréaz
-    - Rossens
     - Treyvaux
     - Villars-sur-Glâne
     - Villarsel-sur-Marly
-    - Vuisterens-en-Ogoz
 NPA:
+    - 1695
+    - 1696
     - 1700
     - 1723
+    - 1726
+    - 1727
+    - 1728
     - 1732
     - 1740
+    - 1772
 meta:
     - Arconciel
+    - Corpataux
+    - Corpataux-Magnedens
     - Épendes
+    - Estavayer-le-Gibloux
+    - Farvagny
+    - Farvagny-le-Grand
+    - Farvagny-le-Petit
+    - Grenilles
+    - Illens
+    - Le Glèbe
+    - Magnedens
+    - Posat
+    - Rossens
+    - Rueyres-Saint-Laurent
     - Senèdes
+    - Villarlod
+    - Villarsel-le-Gibloux
+    - Vuisterens-en-Ogoz
 ---
