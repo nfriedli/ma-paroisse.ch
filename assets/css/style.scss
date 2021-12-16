@@ -124,6 +124,19 @@ a {
   text-decoration-color: var(--text);
 }
 
+div.comment {
+  padding-top: 2rem;
+
+a {
+    text-decoration: none;
+    background: var(--light1);
+    border: 2px solid var(--light2);
+    border-radius: 5px;
+    padding: 1rem;
+
+  }
+}
+
 @media screen and (max-width: 800px) {
   li {
     margin-top: 0.5rem;
