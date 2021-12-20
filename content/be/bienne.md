@@ -22,4 +22,4 @@ meta:
     - Pasquart
 ---
 
-La *paroisse réformée Bienne* et la *reformierte Kirchengemeinde Biel* forment la *paroisse générale réformée*.
+La «paroisse réformée Bienne» et la «reformierte Kirchengemeinde Biel» forment la «paroisse générale réformée».
