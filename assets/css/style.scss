@@ -24,6 +24,7 @@ html {
   background: var(--background);
   line-height: 1.5;
   overflow-y: scroll;
+  font-feature-settings: "calt","case","ss01", "ss02","ss03"  1;
 }
 
 @media screen and (min-width: 800px) {
