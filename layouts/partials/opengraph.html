@@ -2,7 +2,15 @@
 
 {{ $img := resources.Get "/images/opengraph.jpg"}}
 
-{{ $img = $img.Filter (images.Text .Title (dict
+{{ $img = $img.Filter (images.Text "ma-paroisse.ch" (dict
+"font" $font
+"size" 40
+"color" "#000"
+"linespacing" 1.2
+"hinting" "full"
+"x" 20
+"y" 550
+)).Filter (images.Text .Title (dict
     "font" $font
     "size" 80
     "color" "#000"
@@ -12,15 +20,6 @@
     "y" 150
 ))}}
 
-{{ $img = $img.Filter (images.Text "ma-paroisse.ch" (dict
-    "font" $font
-    "size" 40
-    "color" "#000"
-    "linespacing" 1.2
-    "hinting" "full"
-    "x" 20
-    "y" 550
-))}}
 
 <meta property="og:title" content="{{ .Title }}" />
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
