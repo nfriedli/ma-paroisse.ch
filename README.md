@@ -120,6 +120,7 @@ Le site est sous [licence CC0](https://creativecommons.org/publicdomain/zero/1.0
 
 Pour leurs avis et leurs tests, merci à:
 
+- Joël Burri (https://www.reformes.ch/blog/joel-burri)
 - Laure Devaux Allisson (https://lauredevaux.ch/)
 - Diane Friedli (https://dianefriedli.ch/)
 - Philippe Golaz (https://philippegolaz.ch/)
