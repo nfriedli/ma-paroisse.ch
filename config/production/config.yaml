@@ -1,13 +1,11 @@
-# googleAnalytics: UA-59198139-6
-
 minify:
   minifyOutput: true
   tdewolff:
     html:
-      keepQuotes: true
+      keepQuotes: false
       keepDefaultAttrVals: false
-
-privacy:
-  googleAnalytics:
-    anonymizeIP: true
-    respectDoNotTrack: true
+      keepWhitespace: false
+    js:
+      keepVarNames: true
+    json:
+      keepNumbers: true
