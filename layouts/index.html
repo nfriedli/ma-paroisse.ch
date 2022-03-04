@@ -1,7 +1,7 @@
 {{ define "main" }}
 <h1>{{ .Title }}</h1>
 
- {{ .Content }}
+{{ .Content }}
 
 <input placeholder="Localité, NPA, etc." name="name" autocomplete="off" id="search" type="search" aria-label="Recherche">
 
@@ -9,12 +9,5 @@
 
 
 <h2>Navigation «classique»</h2>
-<p>La recherche ne fonctionne pas ou ne vous donne pas satisfaction? Il est toujours possible de parcourir le site:</p>
-
-<ul>
-  {{ range site.Sections }}
-  <li><a href="{{ .Permalink }}">{{ .Title }}</a> <small>({{ len .RegularPages }} paroisses)</small></li>
-  {{ end }}
-</ul>
-
+<p>La recherche ne fonctionne pas ou ne vous donne pas satisfaction? Il est toujours possible de passer par le <a href="/sitemap/">plan du site</a>.</p>
 {{ end }}
