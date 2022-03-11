@@ -6,6 +6,7 @@ minify:
       keepDefaultAttrVals: false
       keepWhitespace: false
     js:
-      keepVarNames: true
+      keepVarNames: false
+      precision: 0
     json:
       keepNumbers: true
