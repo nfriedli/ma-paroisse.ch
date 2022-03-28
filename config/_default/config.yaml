@@ -39,15 +39,9 @@ outputs:
 params:
   footer: |  
 
-    [Plan complet](/sitemap/) / [GitHub & en savoir plus](https://github.com/nfriedli/ma-paroisse.ch)  
+    [Plan complet](/sitemap/) / [GitHub](https://github.com/nfriedli/ma-paroisse.ch) / [Veille théologique](https://theologique.ch/)
 
-    [Églises ouvertes](https://eglises-ouvertes.ch/) /
-    [Baptême protestant](https://baptiser.ch) / 
-    [Bénédiction de mariage](https://benir.ch)
-
-    [Ministères diaconal et pastoral](https://ministeres.ch/) /
-    [Prédications en ligne](https://predication.ch/) / 
-    [Veille théologique](https://theologique.ch/)
+    Responsable: [Nicolas Friedli](https://nicolasfriedli.ch/)
 
 images:
     - https://cdn.pixabay.com/photo/2018/02/23/22/48/light-3176887_960_720.jpg
