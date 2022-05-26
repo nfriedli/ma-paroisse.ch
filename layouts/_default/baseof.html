@@ -31,8 +31,9 @@
   <meta name="theme-color" content="#ffffff">
   <link rel="preload" href="/fonts/inter.woff2" as="font" type="font/woff2" crossorigin>
   {{ partial "ld-breadcrumb" . }}
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5977407574976624"
-     crossorigin="anonymous"></script>
+
+  {{ $instant := resources.Get "js/instantpage.js" | minify | fingerprint }}
+  <script src="{{ $instant.Permalink }}" type="module" defer></script>
 </head>
 
 <body>
