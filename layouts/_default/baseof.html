@@ -48,6 +48,8 @@
 
   {{ partialCached "footer" . }}
 
+</body>
+
 {{ if .IsHome}}
 {{ $search := resources.Get "js/search.js" }}
 {{ $fuse := resources.Get "js/fuse.js" }}
@@ -55,7 +57,8 @@
 <script src="{{ $js.Permalink }}"></script>
 {{ end }}
 
-</body>
-
+<script>
+  if (navigator.serviceWorker && !navigator.serviceWorker.controller) { navigator.serviceWorker.register('/sw.js'); }
+</script>
 
 </html>

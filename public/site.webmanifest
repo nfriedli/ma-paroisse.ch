@@ -17,5 +17,7 @@
     ],
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
-    "display": "standalone"
+    "display": "standalone",
+    "lang": "fr",
+    "description": "Trouver une paroisse protestante en 5 secondes."
 }
