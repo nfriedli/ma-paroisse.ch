@@ -20,7 +20,6 @@
   {{ $screen := resources.Get "css/style.scss" | toCSS | minify }}
   <link rel="stylesheet" href="{{ $screen.Permalink }}" media="screen">
   {{ hugo.Generator }}
-  {{ template "_internal/google_analytics.html" . }}
   {{ partial "opengraph.html" . }}
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -30,7 +29,6 @@
   <meta name="msapplication-TileColor" content="#da532c">
   <meta name="theme-color" content="#ffffff">
   <link rel="preload" href="/fonts/inter.woff2" as="font" type="font/woff2" crossorigin>
-  {{ partial "ld-breadcrumb" . }}
 
   {{ $instant := resources.Get "js/instantpage.js" | minify | fingerprint }}
   <script src="{{ $instant.Permalink }}" type="module" defer></script>
