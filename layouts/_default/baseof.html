@@ -32,6 +32,15 @@
 
   {{ $instant := resources.Get "js/instantpage.js" | minify | fingerprint }}
   <script src="{{ $instant.Permalink }}" type="module" defer></script>
+
+  {{ if .IsHome }}
+  <link href="https://nicolasfriedli.ch/" rel="me">
+  <link href="https://frdl.ch/" rel="me">
+  <link href="https://theologique.ch/" rel="me">
+  <link href="https://github.com/nfriedli/" rel="me">
+  <link href="mailto:contact+2022@theologique.ch" rel="me">
+  {{ end }}
+
 </head>
 
 <body>
