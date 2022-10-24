@@ -18,13 +18,12 @@
 }
 
 html {
-  font-family: inter-var, sans-serif;
+  font-family: Inter, Roboto, system-ui, -apple-system, "Segoe UI", "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 100%;
   color: var(--text);
   background: var(--background);
   line-height: 1.5;
   overflow-y: scroll;
-  font-feature-settings: "calt","case","ss01", "ss02","ss03"  1;
 }
 
 @media screen and (min-width: 800px) {
@@ -143,13 +142,4 @@ a {
   li {
     margin-top: 0.5rem;
   }
-}
-
-@font-face {
-  font-family: "inter-var";
-  font-weight: 100 900;
-  font-style: normal;
-  font-named-instance: "Regular";
-  font-display: swap;
-  src: url("/fonts/inter.woff2") format("woff2");
 }
