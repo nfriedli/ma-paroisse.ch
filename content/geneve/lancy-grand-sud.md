@@ -14,4 +14,5 @@ meta:
     - Grand-Lancy
     - Les Acacias
 region: Salève
+draft: tze
 ---

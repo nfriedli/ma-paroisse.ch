@@ -13,4 +13,5 @@ meta:
     - Carouge
     - Les Acacias
 region: Centre-ville rive gauche
+draft: true
 ---

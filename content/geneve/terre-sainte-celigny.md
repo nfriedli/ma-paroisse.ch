@@ -1,7 +1,7 @@
 ---
 title: Paroisse de Terre Sainte-Céligny
 name: Terre Sainte-Céligny
-site: https://celigny.epg.ch/
+site: https://www.eerv.ch/region/la-cote/terre-sainte/accueil
 territoire:
     - Céligny
 NPA:
