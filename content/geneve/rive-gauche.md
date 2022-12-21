@@ -1,6 +1,6 @@
 ---
 title: Paroisse Rive Gauche
-name: Paroisse Rive-Gauche
+name: Rive-Gauche
 site: https://rive-gauche.epg.ch
 territoire:
     - Carouge
