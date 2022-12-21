@@ -1,6 +1,6 @@
 ---
-title: Paroisse Rive droite
-name: Rive droite
+title: Paroisse Rive Droite
+name: Rive Droite
 site: https://rive-droite.epg.ch/
 territoire:
     - Genève

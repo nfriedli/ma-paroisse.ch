@@ -5,3 +5,11 @@
 /ne/* /neuchatel/:splat
 /vs/* /valais/:splat
 /vd/* /vaud/:splat
+
+/geneve/servette-vieusseux/     /geneve/rive-droite/
+/geneve/saint-gervais-paquis/   /geneve/rive-droite/
+/geneve/montbrilland/           /geneve/rive-droite/
+
+/geneve/arve/                   /geneve/rive-gauche/
+/geneve/champel-malagnou/       /geneve/rive-gauche/
+/geneve/eaux-vives/             /geneve/rive-gauche/
