@@ -29,9 +29,6 @@
   <meta name="msapplication-TileColor" content="#da532c">
   <meta name="theme-color" content="#ffffff">
 
-  {{ $instant := resources.Get "js/instantpage.js" | minify | fingerprint }}
-  <script src="{{ $instant.Permalink }}" type="module" defer></script>
-
   {{ if .IsHome }}
   <link href="https://nicolasfriedli.ch/" rel="me">
   <link href="https://frdl.ch/" rel="me">
@@ -66,7 +63,14 @@
 {{ end }}
 
 <script>
-  if (navigator.serviceWorker && !navigator.serviceWorker.controller) { navigator.serviceWorker.register('/sw.js'); }
+if(window.navigator && navigator.serviceWorker) {
+  navigator.serviceWorker.getRegistrations()
+  .then(function(registrations) {
+    for(let registration of registrations) {
+      registration.unregister();
+    }
+  });
+}
 </script>
 
 </html>
