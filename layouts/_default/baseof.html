@@ -3,22 +3,24 @@
 
 <head>
   <meta charset="utf-8">
-  <title>{{ .Title }}{{ with .Params.eglise}} - {{ . }} {{ end }}{{ if .IsPage }}{{ with .Params.canton }} - {{ . }}{{ end }}{{ end }} - {{ .Site.Title }}
+  <title>{{ .Title }}{{ with .Params.eglise}} - {{ . }} {{ end }}{{ if .IsPage }}{{ with .Params.canton }} - {{ . }}{{
+    end }}{{ end }} - {{ .Site.Title }}
   </title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {{ with .Description }}
   <meta name="description" content="{{ . }}">
   {{ else }}
   <meta name="description" content="
-  {{- with .Params.territoire -}}Commune{{ if gt (len .) 1}}s{{end}}: {{ delimit . ", " }}. {{ end }}
+  {{- with .Params.territoire -}}Commune{{ if gt (len .) 1}}s{{end}}: {{ delimit . " , " }}. {{ end }}
   {{- with .Params.region -}}Région: {{ . }}. {{ end }}
-  {{- with .Params.meta -}}Lieu{{ if gt (len .) 1}}x{{end}}: {{ delimit . ", " }}.{{- end -}}
+  {{- with .Params.meta -}}Lieu{{ if gt (len .) 1}}x{{end}}: {{ delimit . " , " }}.{{- end -}}
   ">
   {{ end }}
   <link rel="canonical" href="{{ .Permalink }}">
   <meta name="author" content="{{ .Site.Author.name }}">
-  {{ $screen := resources.Get "css/style.scss" | toCSS | minify }}
+  {{ $screen := resources.Get "css/style.css" | minify }}
   <link rel="stylesheet" href="{{ $screen.Permalink }}" media="screen">
+
   {{ hugo.Generator }}
   {{ partial "opengraph.html" . }}
   <link rel="icon" href="/icon.svg" type="image/svg+xml">
@@ -34,7 +36,8 @@
   {{ end }}
 
   <script defer data-domain="ma-paroisse.ch" src="https://plausible.io/js/script.js"></script>
-  <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "4495e018305145a8bafe48fca3997ba5"}'></script>
+  <script defer src='https://static.cloudflareinsights.com/beacon.min.js'
+    data-cf-beacon='{"token": "4495e018305145a8bafe48fca3997ba5"}'></script>
 </head>
 
 <body>
@@ -49,24 +52,24 @@
 
   {{ partialCached "footer" . }}
 
-</body>
+  {{ if .IsHome}}
+  {{ $search := resources.Get "js/search.js" }}
+  {{ $fuse := resources.Get "js/fuse.js" }}
+  {{ $js := slice $fuse $search | resources.Concat "js/bundle.js" | minify | fingerprint }}
+  <script src="{{ $js.Permalink }}"></script>
+  {{ end }}
 
-{{ if .IsHome}}
-{{ $search := resources.Get "js/search.js" }}
-{{ $fuse := resources.Get "js/fuse.js" }}
-{{ $js := slice $fuse $search | resources.Concat "js/bundle.js" | minify | fingerprint }}
-<script src="{{ $js.Permalink }}"></script>
-{{ end }}
-
-<script>
-if(window.navigator && navigator.serviceWorker) {
-  navigator.serviceWorker.getRegistrations()
-  .then(function(registrations) {
-    for(let registration of registrations) {
-      registration.unregister();
+  <script>
+    if (window.navigator && navigator.serviceWorker) {
+      navigator.serviceWorker.getRegistrations()
+        .then(function (registrations) {
+          for (let registration of registrations) {
+            registration.unregister();
+          }
+        });
     }
-  });
-}
-</script>
+  </script>
+
+</body>
 
 </html>

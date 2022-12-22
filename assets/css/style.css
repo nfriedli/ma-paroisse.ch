@@ -1,4 +1,5 @@
 :root {
+  --fonts: Inter, Roboto, Asap, system-ui, "Noto Sans", "Open Sans", "Segoe UI",  Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --background: #fff;
   --text: #333;
   --contrast: #800;
@@ -18,7 +19,7 @@
 }
 
 html {
-  font-family: Inter, Roboto, system-ui, -apple-system, "Segoe UI", "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-family: var(--fonts);
   font-size: 100%;
   color: var(--text);
   background: var(--background);
@@ -55,11 +56,12 @@ footer {
   font-size: 0.85rem;
   font-weight: 500;
   padding: 0.5rem 2rem;
+}
 
-  div {
-    margin: auto;
-    max-width: var(--width);
-  }
+header div,
+footer div {
+  margin: auto;
+  max-width: var(--width);
 }
 
 header {
@@ -114,28 +116,15 @@ summary {
 details {
   margin-top: 1rem;
   font-size: 0.9rem;
+}
 
-  dt {
-    font-size: 0.81rem;
-  }
+details dt {
+  font-size: 0.81rem;
 }
 
 a {
   color: var(--contrast);
   text-decoration-color: var(--text);
-}
-
-div.comment {
-  padding-top: 2rem;
-
-a {
-    text-decoration: none;
-    background: var(--light1);
-    border: 2px solid var(--light2);
-    border-radius: 5px;
-    padding: 1rem;
-
-  }
 }
 
 @media screen and (max-width: 800px) {
