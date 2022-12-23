@@ -11,10 +11,9 @@
   <meta name="description" content="{{ . }}">
   {{ else }}
   <meta name="description" content="
-  {{- with .Params.territoire -}}Commune{{ if gt (len .) 1}}s{{end}}: {{ delimit . " , " }}. {{ end }}
-  {{- with .Params.region -}}Région: {{ . }}. {{ end }}
-  {{- with .Params.meta -}}Lieu{{ if gt (len .) 1}}x{{end}}: {{ delimit . " , " }}.{{- end -}}
-  ">
+  {{- with .Params.territoire }}Commune{{ if gt (len .) 1}}s{{end}}: {{ delimit . ", " }}.{{ end }}
+  {{- with .Params.region }} Région: {{ . -}}.{{ end }}
+  {{- with .Params.meta }} Lieu{{ if gt (len .) 1}}x{{end}}: {{ delimit . ", " }}.{{ end }}">
   {{ end }}
   <link rel="canonical" href="{{ .Permalink }}">
   <meta name="author" content="{{ .Site.Author.name }}">
