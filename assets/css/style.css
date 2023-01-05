@@ -1,5 +1,5 @@
 :root {
-  --fonts: Inter, Roboto, Asap, system-ui, "Noto Sans", "Open Sans", "Segoe UI",  Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --fonts: Inter, Roboto, Asap, "Noto Sans", "Open Sans", -apple-system, "Segoe UI", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --background: #fff;
   --text: #333;
   --contrast: #800;
