@@ -1,5 +1,5 @@
 <footer>
     <div>
-    {{ with site.Params.footer }}{{ . | markdownify }}{{ end }}
+    {{ site.Params.footer | .RenderString }}
     </div>
 </footer>
