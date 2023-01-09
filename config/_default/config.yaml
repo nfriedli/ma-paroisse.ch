@@ -15,6 +15,10 @@ author:
   name: Nicolas Friedli
   email: nicolas.friedli+mp@gmail.com
 
+build:
+  noJSConfigInAssets: true
+  writeStats: false
+
 disableKinds:
   - RSS
   - taxonomy

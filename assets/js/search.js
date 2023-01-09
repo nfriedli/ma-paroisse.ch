@@ -1,3 +1,5 @@
+import Fuse from "./fuse.esm.js"
+
 const options = {
     includeScore: true,
     threshold: 0.24,

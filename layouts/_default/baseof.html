@@ -51,10 +51,14 @@
   {{ partialCached "footer" . }}
 
   {{ if .IsHome}}
-  {{ $search := resources.Get "js/search.js" }}
-  {{ $fuse := resources.Get "js/fuse.js" }}
-  {{ $js := slice $fuse $search | resources.Concat "js/bundle.js" | minify | fingerprint }}
-  <script src="{{ $js.Permalink }}"></script>
+  {{ $options := dict 
+    "targetPath" "js/bundle.js"
+    "target" "esnext"
+    "minify" "true"
+  }}
+
+  {{ $search := resources.Get "js/search.js" | js.Build $options | minify | fingerprint }}
+    <script src="{{ $search.Permalink }}"></script>
   {{ end }}
 
   <script>
