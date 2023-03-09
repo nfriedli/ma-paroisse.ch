@@ -1,0 +1,20 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: ma-paroisse.ch
+message: >-
+  Trouver une paroisse réformée de Suisse romande en 5
+  secondes.
+type: software
+authors:
+  - given-names: Nicolas
+    family-names: Friedli
+    email: nicolasfriedli+mp@gmail.com
+identifiers:
+  - type: url
+    value: 'https://nicolasfriedli.ch/'
+    description: Site de Nicolas Friedli
+repository-code: 'https://github.com/nfriedli/ma-paroisse.ch'
+url: 'https://ma-paroisse.ch/'
+license: CC0-1.0
