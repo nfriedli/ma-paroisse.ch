@@ -1,7 +1,7 @@
 ---
-title: Paroisse de Villette
-name: Villette
-site: https://www.eerv.ch/region/lavaux/villette/accueil
+title: Paroisse de Bourg-en-Lavaux
+name: Bourg-en-Lavaux
+site: https://www.eerv.ch/region/lavaux/bourg-en-lavaux/accueil
 territoire:
     - Bourg-en-Lavaux
 NPA:
@@ -19,4 +19,6 @@ meta:
     - Villette
     - Villette (Lavaux)
 region: Lavaux
+aliases:
+    - /vaud/villette/
 ---
