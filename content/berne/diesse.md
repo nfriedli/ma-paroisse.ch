@@ -1,7 +1,7 @@
 ---
 title: Paroisse de Diesse
 name: Diesse
-site: https://www.lac-en-ciel.ch/diesse/
+site: https://parefdiesse.ch/
 territoire:
     - Plateau de Diesse
 NPA:

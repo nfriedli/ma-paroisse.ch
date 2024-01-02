@@ -1,7 +1,7 @@
 ---
 title: Paroisse La Chaux-de-Fonds
 name: La Chaux-de-Fonds
-site: https://www.eren-cdf.ch/
+site: https://www.eren.ch/cdf/
 territoire:
   - La Sagne
   - Les Planchettes

@@ -2,9 +2,9 @@ minify:
   minifyOutput: true
   tdewolff:
     html:
-      keepQuotes: false
+      keepQuotes: true
       keepDefaultAttrVals: false
-      keepWhitespace: false
+      keepWhitespace: true
     js:
       keepVarNames: false
       precision: 0
