@@ -6,6 +6,8 @@
   --light1: #eee;
   --light2: #ddd;
   --width: 30rem;
+
+  color-scheme: light dark;
 }
 
 @media screen and (prefers-color-scheme: dark) {
