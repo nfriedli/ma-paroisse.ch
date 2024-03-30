@@ -4,6 +4,8 @@ Un site ultra simple pour retrouver sa paroisse protestante réformée en Suisse
 
 C’est ici: https://ma-paroisse.ch
 
+Les statistiques sont publiques: https://plausible.io/ma-paroisse.ch/
+
 ## La problématique
 
 Fusions de communes et regroupements paroissiaux rendent la maintenance des données complexes.

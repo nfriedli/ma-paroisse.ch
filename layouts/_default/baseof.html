@@ -20,13 +20,13 @@
   {{ $screen := resources.Get "css/style.css" | minify }}
   <link rel="stylesheet" href="{{ $screen.Permalink }}" media="screen">
 
-  {{ hugo.Generator }}
+  {{ if .IsHome }}{{ hugo.Generator }}{{ end }}
   {{ partial "opengraph.html" . }}
   <link rel="icon" href="/icon.svg" type="image/svg+xml">
   <link rel="apple-touch-icon" href="/apple-touch-icon.png">
   <meta name="theme-color" content="#800">
 
-  <script defer data-domain="ma-paroisse.ch" src="https://plausible.io/js/script.js"></script>
+  <script defer data-domain="ma-paroisse.ch" src="https://plausible.io/js/script.outbound-links.js"></script>
 
 </head>
 
