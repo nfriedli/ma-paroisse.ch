@@ -1,4 +1,4 @@
-import Fuse from "./fuse.esm.js"
+import Fuse from "./fuse.js"
 
 const options = {
     includeScore: true,
