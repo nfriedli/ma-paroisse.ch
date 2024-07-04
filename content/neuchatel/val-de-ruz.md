@@ -44,6 +44,11 @@ meta:
     - Villiers
     - Chézard
     - St-Martin
+ministres:
+- Esther Berger
+- Christophe Allemann
+- Isabelle Hervé Lozeron
+- Stéphane Hervé
 ---
 
 Valangin fait désormais partie de la commune de Neuchâtel, mais reste un village de la paroisse Val-de-Ruz.

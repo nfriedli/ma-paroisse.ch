@@ -21,5 +21,10 @@ NPA:
 meta:
     - Les Monts-de-Travers
     - Le Cernil
+ministres:
+- Christine Hahn
+- Karin Phildius
+- Pascal Wurz
+- Stéphanie Wurz
 ---
 

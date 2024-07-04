@@ -30,4 +30,8 @@ meta:
     - Saint-Sulpice
     - St-Sulpice
     - Travers
+ministres:
+- Patrick Schlüter
+- Séverine Schlüter
+- Véronique Tschanz-Anderegg
 ---

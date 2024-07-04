@@ -28,4 +28,8 @@ meta:
     - Wavre
     - Entre-deux-Lacs
     - St-Blaise
+ministres:
+- Delphine Collaud
+- Raoul Pagnamenta
+- Frédéric Frédo Siegenthaler
 ---

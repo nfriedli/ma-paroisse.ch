@@ -20,4 +20,12 @@ NPA:
 meta:
   - Le Crêt-du-Locle	
   - La Cibourg	
+ministres:
+- Francine Cuche Fuchs
+- Françoise Dorier
+- Gaël Letare
+- Elisabeth Müller Renner
+- Thierry Mühlbach
+- Karin Phildius
+- Vy Tirman
 ---

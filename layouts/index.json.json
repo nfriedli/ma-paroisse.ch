@@ -1,6 +1,6 @@
 {{- $.Scratch.Add "index" slice -}}
 {{- range .Site.RegularPages -}}
     {{ $NPA := apply .Params.NPA "string" "."  }}
-    {{- $.Scratch.Add "index" (dict "title" .Title "territoire" .Params.territoire "meta" .Params.meta "canton" .Params.canton "eglise" .Params.eglise "NPA" $NPA "name" .Params.name "region" .Params.region "permalink" .Permalink) -}}
+    {{- $.Scratch.Add "index" (dict "title" .Title "territoire" .Params.territoire "meta" .Params.meta "canton" .Params.canton "eglise" .Params.eglise "NPA" $NPA "name" .Params.name "region" .Params.region "permalink" .Permalink "ministres" .Params.ministres) -}}
 {{- end -}}
 {{- $.Scratch.Get "index" | jsonify -}}

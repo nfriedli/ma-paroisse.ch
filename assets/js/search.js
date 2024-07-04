@@ -18,7 +18,8 @@ const options = {
         "meta",
         "permalink",
         "NPA",
-        "region"
+        "region",
+        "ministres"
     ]
 };
 

@@ -11,4 +11,7 @@ NPA:
     - 2036
 meta:
     - Neuchâtel
+ministres:
+- Hyonou Paik
+- Yvena Garraud Thomas
 ---

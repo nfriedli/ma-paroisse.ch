@@ -22,4 +22,8 @@ meta:
     - Fretereules
     - Les Grattes
     - Montezillon
+ministres:
+    - Diane Friedli
+    - Bénédicte Gritti Geiser
+    - Nicole Rochat
 ---

@@ -1,5 +1,5 @@
 :root {
-  --fonts: Inter, Roboto, Asap, "Noto Sans", "Open Sans", -apple-system, "Segoe UI", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --fonts: ui-sans-serif, Inter, Roboto, "Noto Sans", system-ui, sans-serif;
   --background: #fff;
   --text: #333;
   --contrast: #800;
@@ -109,19 +109,6 @@ dt {
   font-weight: 600;
   font-size: 0.9rem;
   margin-top: 0.5rem;
-}
-
-summary {
-  font-weight: 600;
-}
-
-details {
-  margin-top: 1rem;
-  font-size: 0.9rem;
-}
-
-details dt {
-  font-size: 0.81rem;
 }
 
 a {

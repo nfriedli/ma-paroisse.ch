@@ -27,4 +27,9 @@ meta:
     - Vaumarcus
     - St-Aubin
     - Sauges
+ministres: 
+- Jean-Marc Leresche
+- Sylvane Auvinet
+- Cécile Mermod Malfroy
+- Christine Phébade Yana Bekima
 ---
