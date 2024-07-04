@@ -23,25 +23,18 @@
 <dt>Territoire (communes)</dt>
 <dd>{{ delimit . ", " }}</dd>
 {{ end }}
-</dl>
 
-
-{{ if or .Params.NPA .Params.meta}}
-<details>
-<summary>Plus d'informations</summary>
-<dl>
 {{ with .Params.NPA }}
 <dt>Numéros postaux (NPA)</dt>
 <dd>{{ delimit . ", " }}</dd>
 {{ end }}
 
 {{ with .Params.meta }}
-<dt>Autres critères de recherche (villages, hameaux, mots-clés)</dt>
+<dt>Autres critères de recherche (localités, mots-clés, etc.)</dt>
 <dd>{{ delimit . ", " }}</dd>
 {{ end }}
 </dl>
-</details>
-{{ end }}
+
 
 
 {{ if .Params.region }}

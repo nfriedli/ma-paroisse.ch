@@ -2,7 +2,7 @@ import Fuse from "./fuse.js"
 
 const options = {
     includeScore: true,
-    threshold: 0.24,
+    threshold: 0.2,
     useExtendedSearch: true,
     ignoreLocation: true,
     ignoreFieldNorm: true,

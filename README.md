@@ -128,6 +128,7 @@ Pour leurs avis et leurs tests, merci à:
 - Philippe Golaz (https://philippegolaz.ch/)
 - Elio Jaillet (https://eliojaillet.ch/)
 - Olivier Keshavjee (https://www.theologeek.ch/)
+- David Kneubühler
 - Sarah Nicolet
 - CAMILLE ZIMMERMANN-GUERDAT
 
