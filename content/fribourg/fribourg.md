@@ -3,63 +3,63 @@ title: Paroisse de Fribourg
 name: Fribourg
 site: https://www.paroisse-fribourg.ch/
 territoire:
-    - Autafond
-    - Autigny
-    - Avry
-    - Belfaux
-    - Bois-d’Amont
-    - Chénens
-    - Corserey
-    - Cottens
-    - Ferpicioz
-    - Fribourg
-    - Granges-Paccot
-    - Gibloux
-    - Givisiez
-    - Grolley
-    - Hauterive
-    - La Brillaz
-    - La Sonnaz
-    - Le Mouret
-    - Marly
-    - Matran
-    - Neyruz
-    - Noréaz
-    - Pierrafotscha
-    - Ponthaux
-    - Prés-vers-Noréaz
-    - Treyvaux
-    - Villars-sur-Glâne
-    - Villarsel-sur-Marly
+- Autafond
+- Autigny
+- Avry
+- Belfaux
+- Bois-d’Amont
+- Chénens
+- Corserey
+- Cottens
+- Ferpicioz
+- Fribourg
+- Granges-Paccot
+- Gibloux
+- Givisiez
+- Grolley
+- Hauterive
+- La Brillaz
+- La Sonnaz
+- Le Mouret
+- Marly
+- Matran
+- Neyruz
+- Noréaz
+- Pierrafotscha
+- Ponthaux
+- Prés-vers-Noréaz
+- Treyvaux
+- Villars-sur-Glâne
+- Villarsel-sur-Marly
 NPA:
-    - 1695
-    - 1696
-    - 1700
-    - 1723
-    - 1726
-    - 1727
-    - 1728
-    - 1732
-    - 1740
-    - 1772
+- 1695
+- 1696
+- 1700
+- 1723
+- 1726
+- 1727
+- 1728
+- 1732
+- 1740
+- 1772
 meta:
-    - Arconciel
-    - Corpataux
-    - Corpataux-Magnedens
-    - Épendes
-    - Estavayer-le-Gibloux
-    - Farvagny
-    - Farvagny-le-Grand
-    - Farvagny-le-Petit
-    - Grenilles
-    - Illens
-    - Le Glèbe
-    - Magnedens
-    - Posat
-    - Rossens
-    - Rueyres-Saint-Laurent
-    - Senèdes
-    - Villarlod
-    - Villarsel-le-Gibloux
-    - Vuisterens-en-Ogoz
+- Arconciel
+- Corpataux
+- Corpataux-Magnedens
+- Épendes
+- Estavayer-le-Gibloux
+- Farvagny
+- Farvagny-le-Grand
+- Farvagny-le-Petit
+- Grenilles
+- Illens
+- Le Glèbe
+- Magnedens
+- Posat
+- Rossens
+- Rueyres-Saint-Laurent
+- Senèdes
+- Villarlod
+- Villarsel-le-Gibloux
+- Vuisterens-en-Ogoz
 ---

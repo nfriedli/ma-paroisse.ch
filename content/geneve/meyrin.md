@@ -3,12 +3,12 @@ title: Paroisse de Meyrin
 name: Meyrin
 site: https://meyrin.epg.ch
 territoire:
-    - Meyrin
-    - Vernier
+- Meyrin
+- Vernier
 NPA:
-    - 1214
-    - 1217
+- 1214
+- 1217
 meta:
-    - Mategnin
+- Mategnin
 region: Rhône-Mandement
 ---

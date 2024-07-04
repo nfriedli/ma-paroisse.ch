@@ -3,18 +3,18 @@ title: Paroisse de Neuchâtel
 name: Neuchâtel
 site: https://www.eren.ch/neuchatel/
 territoire:
-    - Neuchâtel
+- Neuchâtel
 NPA:
-    - 2000
-    - 2001
-    - 2002
-    - 2010
-    - 2067
+- 2000
+- 2001
+- 2002
+- 2010
+- 2067
 meta:
-    - Chaumont
-    - La Coudre
-    - Monruz
-    - Serrières
+- Chaumont
+- La Coudre
+- Monruz
+- Serrières
 ministres:
 - Marianne Chappuis
 - Zachée Betche

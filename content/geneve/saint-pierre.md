@@ -3,10 +3,10 @@ title: Paroisse Saint-Pierre
 name: Saint-Pierre
 site: https://saint-pierre.epg.ch/
 territoire:
-    - Genève
+- Genève
 NPA: 
-    - 1204
+- 1204
 region: Centre-ville rive gauche
 aliases:
-    - /geneve/saint-pierre-fusterie/
+- /geneve/saint-pierre-fusterie/
 ---

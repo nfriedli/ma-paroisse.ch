@@ -3,10 +3,10 @@ title: Paroisse de Sonvilier
 name: Sonvilier
 site: https://www.referguel.ch/paroisses/sonvilier/
 territoire:
-    - Sonvilier
+- Sonvilier
 NPA:
-    - 2615
+- 2615
 meta:
-    - La Chaux-d’Abel
+- La Chaux-d’Abel
 region: Erguël
 ---

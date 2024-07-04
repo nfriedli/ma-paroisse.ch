@@ -3,14 +3,14 @@ title: Paroisse de Diesse
 name: Diesse
 site: https://parefdiesse.ch/
 territoire:
-    - Plateau de Diesse
+- Plateau de Diesse
 NPA:
-    - 2515
-    - 2516
-    - 2517
+- 2515
+- 2516
+- 2517
 meta:
-    - Diesse
-    - Lamboing
-    - Prêles
+- Diesse
+- Lamboing
+- Prêles
 region: Lac-en-Ciel
 ---

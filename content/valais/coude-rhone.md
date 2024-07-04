@@ -3,117 +3,117 @@ title: Paroisse du Coude du Rhône
 name: Coude du Rhône
 site: https://coudedurhone.erev.ch/
 territoire:
-    - Bagnes
-    - Bourg-Saint-Pierre
-    - Collonges
-    - Les Marécottes
-    - Leytron
-    - Liddes
-    - Martigny
-    - Martigny-Croix
-    - Orsières
-    - Salvan
-    - Saxon
-    - Sembrancher
-    - Trient
-    - Val de Bagnes
+- Bagnes
+- Bourg-Saint-Pierre
+- Collonges
+- Les Marécottes
+- Leytron
+- Liddes
+- Martigny
+- Martigny-Croix
+- Orsières
+- Salvan
+- Saxon
+- Sembrancher
+- Trient
+- Val de Bagnes
 NPA:
-    - 1920
-    - 1921
-    - 1922
-    - 1927
-    - 1933
-    - 1933
-    - 1934
-    - 1936
-    - 1937
-    - 1941
-    - 1942
-    - 1945
-    - 1947
-    - 1948
+- 1920
+- 1921
+- 1922
+- 1927
+- 1933
+- 1933
+- 1934
+- 1936
+- 1937
+- 1941
+- 1942
+- 1945
+- 1947
+- 1948
 meta:
-    - Bonatchiesse
-    - Branche
-    - Bruson
-    - Chamoille
-    - Chamoille
-    - Champex-Lac
-    - Champsec
-    - Charrat
-    - Chemin-Dessous
-    - Chemin-Dessus
-    - Chez-les-Addy
-    - Chez-les-Giroud
-    - Chez-les-Reuse
-    - Chez-Petit
-    - Commeire
-    - Cries
-    - Dranse
-    - Étiez
-    - Ferret
-    - Fionnay
-    - Fontaine-Dessous
-    - Fontaine-Dessus
-    - Fontenelle
-    - Fornex
-    - Issert
-    - La Bâtiaz
-    - La Douay
-    - La Fontaine
-    - La Fouly
-    - La Garde
-    - La Rosière
-    - La Verrerie
-    - Le Bioley
-    - Le Biolley Chandonne
-    - Le Borgeaud
-    - Le Brocard
-    - Le Cergneux
-    - Le Châble 
-    - le Cotterg
-    - Le Fays
-    - le Fregnoley
-    - Le Guercet
-    - Le Levron
-    - Le Pied-du-Château
-    - le Sapey
-    - Le Sommet-des-Vignes
-    - Le Trétien
-    - Les Arlaches
-    - Les Granges
-    - Les Marécottes
-    - Les Moulins
-    - Les Places
-    - Les Rappes
-    - Lourtier
-    - Martigny-Bourg
-    - Martigny-Ville
-    - Mauvoisin
-    - Médières
-    - Montagnier
-    - Orsières
-    - Palazuit
-    - Prarreyer
-    - Prassurny
-    - Prayon
-    - Praz-de-Fort
-    - Ravoire
-    - Reppaz
-    - Rive-Haute
-    - Sarreyer
-    - Sembrancher
-    - Somlaproz
-    - Soulalex
-    - Van d’en Bas
-    - Van d’en Haut
-    - Vens
-    - Verbier
-    - Verbier Village
-    - Verlonne
-    - Versegères
-    - Vichères
-    - Villette
-    - Vollèges
-    - Bourg-St-Pierre
+- Bonatchiesse
+- Branche
+- Bruson
+- Chamoille
+- Chamoille
+- Champex-Lac
+- Champsec
+- Charrat
+- Chemin-Dessous
+- Chemin-Dessus
+- Chez-les-Addy
+- Chez-les-Giroud
+- Chez-les-Reuse
+- Chez-Petit
+- Commeire
+- Cries
+- Dranse
+- Étiez
+- Ferret
+- Fionnay
+- Fontaine-Dessous
+- Fontaine-Dessus
+- Fontenelle
+- Fornex
+- Issert
+- La Bâtiaz
+- La Douay
+- La Fontaine
+- La Fouly
+- La Garde
+- La Rosière
+- La Verrerie
+- Le Bioley
+- Le Biolley Chandonne
+- Le Borgeaud
+- Le Brocard
+- Le Cergneux
+- Le Châble 
+- le Cotterg
+- Le Fays
+- le Fregnoley
+- Le Guercet
+- Le Levron
+- Le Pied-du-Château
+- le Sapey
+- Le Sommet-des-Vignes
+- Le Trétien
+- Les Arlaches
+- Les Granges
+- Les Marécottes
+- Les Moulins
+- Les Places
+- Les Rappes
+- Lourtier
+- Martigny-Bourg
+- Martigny-Ville
+- Mauvoisin
+- Médières
+- Montagnier
+- Orsières
+- Palazuit
+- Prarreyer
+- Prassurny
+- Prayon
+- Praz-de-Fort
+- Ravoire
+- Reppaz
+- Rive-Haute
+- Sarreyer
+- Sembrancher
+- Somlaproz
+- Soulalex
+- Van d’en Bas
+- Van d’en Haut
+- Vens
+- Verbier
+- Verbier Village
+- Verlonne
+- Versegères
+- Vichères
+- Villette
+- Vollèges
+- Bourg-St-Pierre
 ---

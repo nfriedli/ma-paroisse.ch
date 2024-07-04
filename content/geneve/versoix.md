@@ -3,8 +3,8 @@ title: Paroisse de Versoix
 name: Versoix
 site: https://versoix.epg.ch
 territoire:
-    - Versoix
+- Versoix
 NPA:
-    - 1290
+- 1290
 region: Jura-Lac
 ---

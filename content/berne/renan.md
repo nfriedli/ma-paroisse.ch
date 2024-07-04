@@ -3,10 +3,10 @@ title: Paroisse de Renan
 name: Renan
 site: https://www.referguel.ch/paroisses/renan/
 territoire:
-    - Renan
+- Renan
 NPA:
-    - 2616
+- 2616
 meta:
-    - Les Convers
+- Les Convers
 region: Erguël
 ---

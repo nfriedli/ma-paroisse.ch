@@ -3,8 +3,8 @@ title: Paroisse de La Neuveville
 name: La Neuveville
 site: https://paref2520.ch/
 territoire:
-    - La Neuveville
+- La Neuveville
 NPA:
-    - 2520
+- 2520
 region: Lac-en-Ciel
 ---
