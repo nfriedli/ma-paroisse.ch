@@ -1,0 +1,1 @@
+npx indexnow-submitter submit-sitemap -k 49112b766a3b42669a71c3c318d770b5 -h ma-paroisse.ch https://ma-paroisse.ch/sitemap.xml
