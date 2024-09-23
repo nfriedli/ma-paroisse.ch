@@ -16,8 +16,8 @@
   {{- with .Params.meta }} Lieu{{ if gt (len .) 1}}x{{end}}: {{ delimit . ", " }}.{{ end }}">
   {{ end }}
   <link rel="canonical" href="{{ .Permalink }}">
-  {{ $screen := resources.Get "css/style.css" }}
-  <style media="screen">{{ $screen.Content | safeCSS }}" </style>
+  {{ $screen := resources.Get "css/style.css" | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $screen.Permalink }}" media="screen">
 
   {{ if .IsHome }}
   {{ hugo.Generator }}
