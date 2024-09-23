@@ -7,4 +7,6 @@ territoire:
 NPA:
 - 2613
 region: Erguël
+ministres:
+- Matteo Silvestrini
 ---

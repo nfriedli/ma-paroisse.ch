@@ -9,4 +9,6 @@ NPA:
 meta:
 - Les Convers
 region: Erguël
+ministres:
+- Nadine Marschner
 ---

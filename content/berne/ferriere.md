@@ -11,4 +11,6 @@ meta:
 - La Chaux-d’Abel
 - La Cibourg
 region: Erguël
+ministres:
+- Nadine Marschner
 ---

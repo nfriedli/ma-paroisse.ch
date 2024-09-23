@@ -9,4 +9,6 @@ NPA:
 meta:
 - La Chaux-d’Abel
 region: Erguël
+ministres:
+- Alain Wimmer
 ---

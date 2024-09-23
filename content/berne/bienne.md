@@ -21,6 +21,11 @@ meta:
 - Macolin
 - Madretsch 
 - Pasquart
+ministres:
+- Carmelo Catalfamo
+- Laure Devaux Allisson
+- Cédric Némitz
+- Ellen Pagnamenta
 ---
 
 La «paroisse réformée Bienne» et la «reformierte Kirchengemeinde Biel» forment la «paroisse générale réformée».

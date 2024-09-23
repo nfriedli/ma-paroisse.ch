@@ -12,4 +12,6 @@ meta:
 - Mont-Soleil
 - St-Imier
 region: Erguël
+ministres:
+- Macaire Gallopin
 ---

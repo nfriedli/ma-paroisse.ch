@@ -9,4 +9,6 @@ NPA:
 - 2608
 - 2612
 region: Erguël
+ministres:
+- Maëlle Bader
 ---

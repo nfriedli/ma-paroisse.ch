@@ -9,4 +9,6 @@ NPA:
 - 2606
 - 2607
 region: Erguël
+ministres:
+- Patrick Schlüter
 ---
