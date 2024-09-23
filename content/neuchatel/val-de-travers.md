@@ -31,7 +31,8 @@ meta:
 - St-Sulpice
 - Travers
 ministres:
-- Patrick Schlüter
-- Séverine Schlüter
+- Sébastien Berney
+- Guillaume Klauser
 - Véronique Tschanz-Anderegg
+- Micha Weiss
 ---

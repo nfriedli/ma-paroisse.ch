@@ -22,9 +22,9 @@ meta:
 - Les Monts-de-Travers
 - Le Cernil
 ministres:
+- Quentin Beck
 - Christine Hahn
 - Karin Phildius
-- Pascal Wurz
 - Stéphanie Wurz
 ---
 

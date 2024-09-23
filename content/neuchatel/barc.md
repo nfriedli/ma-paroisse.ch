@@ -25,5 +25,4 @@ meta:
 ministres:
 - Diane Friedli
 - Bénédicte Gritti Geiser
-- Nicole Rochat
 ---
