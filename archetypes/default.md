@@ -9,6 +9,7 @@ NPA:
 meta:
     - 
 region: 
+ministres:
 draft: true
 ---
 
