@@ -68,5 +68,13 @@ meta:
 - Vellerat
 - Vermes
 - Vicques
+ministres:
+- Aurore Boillat
+- John Ebbutt
+- Maria Gafner
+- Franz Liechti-Genge
+- Manuela Liechti-Genge
+- Annick Monot
+- Sarah Nicolet
 ---
 

@@ -86,4 +86,9 @@ meta:
 - Seleute
 - Villars-sur-Fontenais
 - Coeuve
+ministres:
+- Florence Hostettler
+- Franz Liechti-Genge
+- Manuela Liechti-Genge
+- Matthieu Mérillat
 ---

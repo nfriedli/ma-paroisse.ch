@@ -45,4 +45,7 @@ meta:
 - Montfavergier
 - Muriaux
 - St-Brais
+ministres:
+- Florence Hostettler
+- Dafné Reymond
 ---
