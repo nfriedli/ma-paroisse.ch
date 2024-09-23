@@ -30,6 +30,7 @@ meta:
 - St-Blaise
 ministres:
 - Delphine Collaud
+- Ruth Letare
 - Raoul Pagnamenta
 - Frédéric Frédo Siegenthaler
 ---
