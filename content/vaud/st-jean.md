@@ -16,4 +16,6 @@ meta:
 - Vers-chez-les-Blanc
 - St-Jean
 region: Lausanne-Épalinges
+ministres:
+- Aude Gelin
 ---

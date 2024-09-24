@@ -25,4 +25,6 @@ meta:
 - Vernand-Dessus
 - Vers-chez-les-Blanc
 region: Lausanne-Épalinges
+ministres:
+- Aude Gelin
 ---
