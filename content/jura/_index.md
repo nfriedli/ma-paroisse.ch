@@ -1,5 +1,6 @@
 ---
 title: Canton du Jura
+linkTitle: Jura
 description: Paroisses de l’Église réformée du canton du Jura.
 weight: 40
 cascade:

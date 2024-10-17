@@ -1,5 +1,6 @@
 ---
 title: Canton de Neuchâtel
+linkTitle: Neuchâtel
 description: Paroisses de l’Église réformée évangélique du canton de Neuchâtel (EREN).
 weight: 50
 cascade:
