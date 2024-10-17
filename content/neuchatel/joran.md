@@ -1,7 +1,7 @@
 ---
 title: Paroisse du Joran
 name: Le Joran
-site: http://www.lejoran.ch/
+site: https://www.eren.ch/joran/
 territoire:
 - Boudry
 - Cortaillod

@@ -1,7 +1,7 @@
 ---
 title: Paroisse du Val-de-Travers
 name: Val-de-Travers
-site: https://paroissereformeevaldetravers.wordpress.com/
+site: https://www.eren.ch/vdt/
 territoire:
 - La Côte-aux-Fées
 - Les Verrières

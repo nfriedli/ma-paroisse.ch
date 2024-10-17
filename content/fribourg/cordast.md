@@ -1,7 +1,7 @@
 ---
 title: Paroisse de Cordast
 name: Cordast
-site: https://www.ref-cordast.ch/fr/
+site: https://ref-cordast.ch/fr/
 territoire:
 - Courtepin
 - Cressier

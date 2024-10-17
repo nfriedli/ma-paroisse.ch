@@ -1,7 +1,7 @@
 ---
 title: Paroisse de Meyriez
 name: Meyriez
-site: https://www.ref-fr.ch/p/meyriez/
+site: https://www.kirchgemeinde-meyriez.ch/
 territoire:
 - Courgevaux
 - Meyriez
