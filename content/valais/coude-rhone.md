@@ -116,4 +116,8 @@ meta:
 - Villette
 - Vollèges
 - Bourg-St-Pierre
+ministres:
+- Pierre Boismorand
+- Roselyne Righetti
+- Armand Bissat
 ---

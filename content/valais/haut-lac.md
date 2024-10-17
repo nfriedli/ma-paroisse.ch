@@ -31,4 +31,6 @@ meta:
 - Tanay
 - Torgon
 - Vesenand
+ministres:
+- Didier Wirth
 ---

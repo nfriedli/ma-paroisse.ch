@@ -36,4 +36,8 @@ meta:
 - Planachaux
 - Propéraz
 - Vers-Ensier
+ministres:
+- Robert Zamaradi
+- Agnès Thuégaz
+- Monika Bouvier
 ---

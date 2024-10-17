@@ -42,4 +42,6 @@ meta:
 - Veyras
 - Vissoie
 - Zinal
+ministres:
+- Gilles Cavin
 ---

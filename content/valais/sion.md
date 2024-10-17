@@ -79,7 +79,6 @@ meta:
 - Eison
 - Erde
 - Euseigne
-- Évolène
 - Fey
 - Fortunau
 - Granois
@@ -135,9 +134,7 @@ meta:
 - Sornard
 - Saint-Germain
 - St-Germain
-- Saint-Léonard
 - St-Léonard
-- Saint-Martin
 - St-Martin
 - Saint-Pierre-de-Clages
 - St-Pierre-de-Clages
@@ -156,4 +153,7 @@ meta:
 - Villa
 - Vissigen
 - Vuisse
+ministres:
+- Sara Schulthess
+- Josiane Frossard
 ---

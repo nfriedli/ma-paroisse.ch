@@ -26,4 +26,6 @@ meta:
 - Mex
 - Morcles
 - Vésenaud
+ministres:
+- Gwendoline Noël-Reguin
 ---
