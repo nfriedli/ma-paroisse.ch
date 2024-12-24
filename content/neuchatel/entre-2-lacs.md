@@ -5,12 +5,9 @@ site: https://www.entre2lacs.ch/
 territoire:
 - Cornaux
 - Cressier
-- Enges
-- Hauterive
-- La Tène
+- Laténa
 - Le Landeron
 - Lignières
-- Saint-Blaise
 NPA:
 - 2068
 - 2072
@@ -22,12 +19,17 @@ NPA:
 - 2523
 - 2525
 meta:
+- Enges
+- Épagnier
+- Hauterive
 - Marin
-- Épagnier 
+- La Tène
 - Thielle
 - Wavre
-- Entre-deux-Lacs
+- Saint-Blaise
 - St-Blaise
+- Entre-deux-Lacs
+- Latena
 ministres:
 - Delphine Collaud
 - Ruth Letare
