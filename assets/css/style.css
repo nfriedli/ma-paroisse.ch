@@ -1,5 +1,5 @@
 :root {
-  --fonts: ui-sans-serif, Inter, Roboto, "Noto Sans", system-ui, sans-serif;
+  --fonts: ui-sans-serif, Roboto, Inter, "Noto Sans", system-ui, sans-serif;
   --background: #fff;
   --text: #333;
   --contrast: #800;
@@ -22,32 +22,18 @@
 
 html {
   font-family: var(--fonts);
-  font-size: 100%;
+  font-size: clamp(1rem, 0.625rem + 0.75vw, 1.375rem);
   color: var(--text);
   background: var(--background);
   line-height: 1.5;
   overflow-y: scroll;
-}
-
-@media screen and (min-width: 800px) {
-  html {
-    font-size: 110%;
-  }
-}
-
-@media screen and (min-width: 1000px) {
-  html {
-    font-size: 120%;
-  }
-}
-
-@media screen and (min-width: 1500px) {
-  html {
-    font-size: 130%;
-  }
+  font-variant-ligatures: none;
 }
 
 body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
   padding: 0;
   margin: 0;
 }
@@ -73,12 +59,14 @@ header {
 main {
   background: var(--background);
   margin: auto;
+  width: 100%;
   max-width: var(--width);
   padding: 2rem;
 }
 
 footer {
   border-top: 2px solid var(--light2);
+  margin-top: auto;
 }
 
 h1 {
