@@ -25,6 +25,9 @@
 /js/*
     Cache-Control: max-age=63072000,immutable
 
+/codes/*
+    Cache-Control: max-age=63072000,immutable
+
 /css/*
     Cache-Control: max-age=63072000,immutable
 
