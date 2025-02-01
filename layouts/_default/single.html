@@ -33,7 +33,22 @@
 <dt>Autres critères de recherche (localités, mots-clés, etc.)</dt>
 <dd>{{ delimit . ", " }}</dd>
 {{ end }}
+
+
+
+{{ $opts := dict 
+    "level" "high" 
+    "scale" 8
+    "targetDir" "codes"
+  }}
+{{ with images.QR .Params.site $opts }}
+    <dt>QR code</dt>
+    <dd><img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="QR code vers {{ .Title }}" class="qr" loading="lazy"></dd>
+{{ end }}
+
+
 </dl>
+
 
 
 

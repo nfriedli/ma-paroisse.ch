@@ -108,6 +108,11 @@ ul.search-results {
   min-height: 20vh;
 }
 
+img.qr {
+  display: block;
+  image-rendering: pixelated;
+}
+
 @media screen and (max-width: 800px) {
   li {
     margin-top: 0.5rem;
