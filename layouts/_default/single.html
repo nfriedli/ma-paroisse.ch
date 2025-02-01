@@ -43,7 +43,7 @@
   }}
 {{ with images.QR .Params.site $opts }}
     <dt>QR code</dt>
-    <dd><img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="QR code vers {{ .Title }}" class="qr" loading="lazy"></dd>
+    <dd><img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="QR code vers: {{ page.Title }} ({{ page.Params.site }})" class="qr" loading="lazy"></dd>
 {{ end }}
 
 
