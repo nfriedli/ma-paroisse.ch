@@ -31,7 +31,6 @@ meta:
 - Entre-deux-Lacs
 - Latena
 ministres:
-- Delphine Collaud
 - Ruth Letare
 - Raoul Pagnamenta
 - Frédéric Frédo Siegenthaler

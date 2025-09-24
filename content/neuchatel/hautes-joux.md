@@ -24,7 +24,5 @@ meta:
 ministres:
 - Quentin Beck
 - Christine Hahn
-- Karin Phildius
-- Stéphanie Wurz
 ---
 

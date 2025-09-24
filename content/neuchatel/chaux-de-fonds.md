@@ -26,6 +26,5 @@ ministres:
 - Gaël Letare
 - Elisabeth Müller Renner
 - Thierry Mühlbach
-- Karin Phildius
 - Vy Tirman
 ---

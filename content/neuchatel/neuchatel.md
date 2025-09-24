@@ -16,9 +16,7 @@ meta:
 - Monruz
 - Serrières
 ministres:
-- Marianne Chappuis
 - Zachée Betche
 - Florian Schubert
-- Ysabelle de Salis
 - Constantin Bacha
 ---

@@ -28,7 +28,6 @@ meta:
 - St-Aubin
 - Sauges
 ministres: 
-- Jean-Marc Leresche
 - Sylvane Auvinet
 - Cécile Mermod Malfroy
 ---
