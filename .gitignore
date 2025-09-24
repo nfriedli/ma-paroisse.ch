@@ -4,4 +4,5 @@ hugo_stats.json
 indexnow.log
 node_modules
 package-lock.json
+public
 resources
