@@ -7,4 +7,6 @@ territoire:
 NPA:
 - 2520
 region: Lac-en-Ciel
+ministres:
+- Marianne Chappuis
 ---
