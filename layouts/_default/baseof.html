@@ -60,9 +60,10 @@
   {{ partialCached "header" . .IsHome }}
 
   <main>
+    <div>
     {{ block "main" . }}
     {{ end }}
-
+    </div>
   </main>
 
   {{ partialCached "footer" . }}

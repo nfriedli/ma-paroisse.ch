@@ -23,6 +23,6 @@ ExpiresDefault "access plus 1 day"
     Header set Content-Type "application/json;charset=utf-8"
 </FilesMatch>
 
-<FilesMatch "^(js|css)/.*$">
+<FilesMatch "\.(css|js|png)$">
     Header set Cache-Control "max-age=63072000, immutable"
 </FilesMatch>

@@ -46,8 +46,8 @@ footer {
   padding: 0.5rem 2rem;
 }
 
-header div,
-footer div {
+header > div,
+footer > div {
   margin: auto;
   max-width: var(--width);
 }
@@ -58,10 +58,12 @@ header {
 
 main {
   background: var(--background);
+}
+
+main > div {
   margin: auto;
-  width: 100%;
-  max-width: var(--width);
   padding: 2rem;
+  max-width: var(--width);
 }
 
 footer {
@@ -102,6 +104,7 @@ dt {
 a {
   color: var(--contrast);
   text-decoration-color: var(--text);
+  overflow-wrap: anywhere;
 }
 
 ul.search-results {
