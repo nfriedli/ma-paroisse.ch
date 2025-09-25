@@ -1,5 +1,5 @@
 :root {
-  --fonts: ui-sans-serif, Roboto, Inter, "Noto Sans", system-ui, sans-serif;
+  --fonts: ui-sans-serif, "Roboto", "Inter", "Noto Sans", system-ui, sans-serif;
   --background: #fff;
   --text: #333;
   --contrast: #800;
@@ -27,7 +27,6 @@ html {
   background: var(--background);
   line-height: 1.5;
   overflow-y: scroll;
-  font-variant-ligatures: none;
 }
 
 body {
@@ -43,32 +42,21 @@ footer {
   background: var(--light1);
   font-size: 0.85rem;
   font-weight: 500;
-  padding: 0.5rem 2rem;
-}
-
-header > div,
-footer > div {
-  margin: auto;
-  max-width: var(--width);
 }
 
 header {
   border-bottom: 2px solid var(--light2);
 }
 
-main {
-  background: var(--background);
-}
-
-main > div {
-  margin: auto;
-  padding: 2rem;
-  max-width: var(--width);
-}
-
 footer {
   border-top: 2px solid var(--light2);
   margin-top: auto;
+}
+
+div.wrapper {
+  margin: auto;
+  max-width: var(--width);
+  padding: .5rem 1rem;
 }
 
 h1 {
@@ -101,10 +89,17 @@ dt {
   margin-top: 0.5rem;
 }
 
+dd {
+  margin-inline-start: 1rem;
+}
+
 a {
   color: var(--contrast);
   text-decoration-color: var(--text);
-  overflow-wrap: anywhere;
+}
+
+ul {
+  padding-inline-start: 1rem;
 }
 
 ul.search-results {
