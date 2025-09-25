@@ -1,6 +1,17 @@
-{{- $.Scratch.Add "index" slice -}}
-{{- range .RegularPages -}}
-    {{ $NPA := apply .Params.NPA "string" "."  }}
-    {{- $.Scratch.Add "index" (dict "title" .Title "territoire" .Params.territoire "meta" .Params.meta "canton" .Params.canton "eglise" .Params.eglise "NPA" $NPA "name" .Params.name "region" .Params.region "permalink" .Permalink) -}}
-{{- end -}}
-{{- $.Scratch.Get "index" | jsonify -}}
+{{- $index := slice -}}
+{{- range .RegularPages }}
+  {{- $NPA := apply .Params.NPA "string" "." -}}
+  {{- $item := dict
+      "title"     .Title
+      "territoire" .Params.territoire
+      "meta"      .Params.meta
+      "canton"    .Params.canton
+      "eglise"    .Params.eglise
+      "NPA"       $NPA
+      "name"      .Params.name
+      "region"    .Params.region
+      "permalink" .Permalink
+  -}}
+  {{- $index = $index | append $item -}}
+{{- end }}
+{{- $index | jsonify -}}
