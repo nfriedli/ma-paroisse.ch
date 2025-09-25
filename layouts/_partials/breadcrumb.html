@@ -11,8 +11,8 @@
             "@type": "ListItem",
             "position": {{ $i }},
             "name": "{{ .LinkTitle | safeJS }}",
-            "url": {{ .Permalink }},
-            "item": {{ .Permalink }}
+            "url": {{ .RelPermalink }},
+            "item": {{ .RelPermalink }}
           },
           {{- $i = add $i 1 -}}
         {{ end }}
@@ -20,8 +20,8 @@
             "@type": "ListItem",
             "position": {{ $i }},
             "name": "{{ .LinkTitle | safeJS }}",
-            "url": {{ .Permalink }},
-            "item": {{ .Permalink }}
+            "url": {{ .RelPermalink }},
+            "item": {{ .RelPermalink }}
           }
         ]
       }

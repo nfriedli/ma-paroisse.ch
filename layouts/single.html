@@ -11,7 +11,7 @@
 
 {{ if .Params.canton }}
 <dt>Canton</dt>
-<dd><a href="{{ .Parent.Permalink }}">{{ .Params.canton }}</a>{{ with .Params.eglise }} ({{ . }}){{ end }}</dd>
+<dd><a href="{{ .Parent.RelPermalink }}">{{ .Params.canton }}</a>{{ with .Params.eglise }} ({{ . }}){{ end }}</dd>
 {{ end }}
 
 {{ with .Params.region }}
@@ -57,12 +57,12 @@
     {{ $current := .}}
     {{ with .Parent }}
     <ul>
-    {{ range (sort .Pages "Permalink") }}
+    {{ range (sort .Pages "RelPermalink") }}
         {{ if eq $current.Params.region .Params.region }}
-            {{ if eq $current.Permalink .Permalink }}    
+            {{ if eq $current.RelPermalink .RelPermalink }}    
             <li>{{ .Title }}</li>
             {{ else }}
-            <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
             {{ end }}
         {{ end }}
     {{ end }}
@@ -73,11 +73,11 @@
 {{ $current := .}}
 {{ with .Parent }}
 <ul>
-{{ range (sort .Pages "Permalink") }}
-    {{ if eq $current.Permalink .Permalink }}    
+{{ range (sort .Pages "RelPermalink") }}
+    {{ if eq $current.RelPermalink .RelPermalink }}    
         <li>{{ .Title }}</li>
         {{ else }}
-        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
     {{ end }}
 {{ end }}
 </ul>

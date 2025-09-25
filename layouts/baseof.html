@@ -17,7 +17,7 @@
   {{ end }}
   <link rel="canonical" href="{{ .Permalink }}">
   {{ $screen := resources.Get "css/style.css" | minify | fingerprint }}
-  <link rel="stylesheet" href="{{ $screen.Permalink }}" media="screen">
+  <link rel="stylesheet" href="{{ $screen.RelPermalink }}" media="screen">
 
   {{ if .IsHome }}
   {{ hugo.Generator }}
@@ -76,7 +76,7 @@
   }}
 
   {{ $search := resources.Get "js/search.js" | js.Build $options | minify | fingerprint }}
-    <script src="{{ $search.Permalink }}"></script>
+    <script src="{{ $search.RelPermalink }}"></script>
   {{ end }}
 
  </body>

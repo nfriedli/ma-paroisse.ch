@@ -1,12 +1,10 @@
 baseURL: https://ma-paroisse.ch/
 title: ma-paroisse.ch
 
-languageCode: fr-ch
+languageCode: fr
 defaultContentLanguage: fr
 
-canonifyURLs: true
 copyright: CC0 (domaine public)
-cleandestinationdir: true
 removePathAccents: true
 
 build:

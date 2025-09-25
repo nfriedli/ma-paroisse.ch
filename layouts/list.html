@@ -4,8 +4,8 @@
 {{ .Content }}
 
 <ul>
-  {{ range (sort .Pages "Permalink") }}
-  <li><a href="{{ .Permalink }}">{{ .Title }}</a>{{ with .Params.region }} <small>(région: {{.}})</small>{{ end }}</li>
+  {{ range (sort .Pages "RelPermalink") }}
+  <li><a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ with .Params.region }} <small>(région: {{.}})</small>{{ end }}</li>
   {{ end }}
 </ul>
 

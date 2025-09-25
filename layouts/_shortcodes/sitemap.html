@@ -3,13 +3,13 @@
 {{ $pagesWithoutRegion := where .Pages ".Params.region" nil}}
 <ul>
     {{ range (sort $pagesWithoutRegion "Permalink") }}
-    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
     {{ end }}
     {{ range $pagesWithRegion.GroupByParam "region" }}
     <li>{{ .Key }}
         <ul>
         {{ range (sort .Pages "Permalink") }}
-            <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
         {{ end }}
         </ul>
     </li>
@@ -19,7 +19,7 @@
 
 <ul>
 {{ range .Site.Sections }}
-    <li><a href="{{ .Permalink }}">{{ .Title }}</a>
+    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a>
         {{ template "souspages" . }}</li>
 {{ end }}
 </ul>
