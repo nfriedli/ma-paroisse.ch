@@ -1,28 +1,50 @@
+AddDefaultCharset UTF-8
+DefaultLanguage fr
+
 RewriteEngine On
 
-RewriteCond %{HTTPS} !=on [OR]
-RewriteCond %{HTTP_HOST} !^ma-paroisse\.ch$ [NC]
-RewriteRule ^(.*)$ https://ma-paroisse.ch/ [R=301,L]
+# Renvoi vers la version https
+RewriteCond %{HTTPS} off [OR]
+RewriteCond %{HTTP_HOST} ^www. [NC]
+RewriteRule (.*) https://ma-paroisse.ch/$1 [R=301,L]
 
+# Redirige les URL avec paramètres vers la même URL sans les paramètres
+RewriteCond %{QUERY_STRING} !^$
+RewriteRule ^(.*)$ /$1? [R=301,L]
+
+# 404
+ErrorDocument 404 /
+
+# https://securityheaders.com/
 Header always set Strict-Transport-Security "max-age=63072000; includeSubDomains; preload" env=HTTPS
 Header always set X-Content-Type-Options "nosniff"
-Header always set X-XSS-Protection "1; mode=block"
-Header always set Referrer-Policy "no-referrer-when-downgrade"
-Header always set X-Frame-Options "DENY"
-Header always set Permissions-Policy "interest-cohort=()"
+Header always set X-Frame-Options "deny"
+Header always set X-XSS-Protection "1;mode=block"
+Header always set Referrer-Policy "no-referrer"
+Header always set X-Permitted-Cross-Domain-Policies "none"
+Header always set Permissions-Policy "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()"
 
-ExpiresActive On
-ExpiresDefault "access plus 1 day"
+# headers pour le cache
+Header unset Pragma
+Header unset Last-Modified
 
+# Cache pour images
+<filesMatch ".(avif|jpg|jpeg|png|gif|ico|svg|webp)$">
+Header set Cache-Control "max-age=31536000, public"
+</filesMatch>
+
+# noindex en header pour xml et json
 <FilesMatch "^(sitemap\.xml|index\.xml|.*\.json)$">
     Header set X-Robots-Tag "noindex"
-    Header set Cache-Control "max-age=86400, public"
 </FilesMatch>
 
+# Content type pour le JSON
 <FilesMatch "\.json$">
     Header set Content-Type "application/json;charset=utf-8"
+    Header set Cache-Control "max-age=86400, public, must-revalidate"
 </FilesMatch>
 
-<FilesMatch "\.(css|js|png)$">
-    Header set Cache-Control "max-age=63072000, immutable"
-</FilesMatch>
+# Cache immutable pour fonts et css
+<filesMatch ".(css|woff2|js)$">
+Header set Cache-Control "max-age=63072000, public, immutable"
+</filesMatch>
