@@ -34,9 +34,9 @@ Header set Cache-Control "max-age=31536000, public"
 </filesMatch>
 
 # noindex en header pour xml et json
-<FilesMatch "^(sitemap\.xml|index\.xml|.*\.json)$">
-    Header set X-Robots-Tag "noindex"
-</FilesMatch>
+#<FilesMatch "^(sitemap\.xml|index\.xml|.*\.json)$">
+#    Header set X-Robots-Tag "noindex"
+#</FilesMatch>
 
 # Content type pour le JSON
 <FilesMatch "\.json$">
