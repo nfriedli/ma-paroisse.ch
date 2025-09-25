@@ -19,6 +19,4 @@ meta:
 - Villette
 - Villette (Lavaux)
 region: Lavaux
-aliases:
-- /vaud/villette/
 ---

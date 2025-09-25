@@ -7,6 +7,4 @@ territoire:
 NPA: 
 - 1204
 region: Centre-ville rive gauche
-aliases:
-- /geneve/saint-pierre-fusterie/
 ---
