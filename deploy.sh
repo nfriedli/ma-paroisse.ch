@@ -1,0 +1,1 @@
+hugo --cleanDestinationDir && rclone sync --progress public/ infomaniakssh:ma-paroisse.ch/
