@@ -86,4 +86,10 @@ meta:
 - Villarlod
 - Villarsel-le-Gibloux
 - Vuisterens-en-Ogoz
+ministres:
+- Bettina Beer
+- Daniel Bolliger
+- Marina Felder
+- Noriane Rapin
+- Andreas Rüttner
 ---
