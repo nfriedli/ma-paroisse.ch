@@ -24,7 +24,6 @@ ministres:
 - Francine Cuche Fuchs
 - Françoise Dorier
 - Gaël Letare
-- Elisabeth Müller Renner
 - Thierry Mühlbach
 - Vy Tirman
 ---

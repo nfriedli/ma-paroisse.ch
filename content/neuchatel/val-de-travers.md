@@ -33,6 +33,6 @@ meta:
 ministres:
 - Sébastien Berney
 - Guillaume Klauser
-- Véronique Tschanz-Anderegg
+- Véronique Tschanz Anderegg
 - Micha Weiss
 ---
