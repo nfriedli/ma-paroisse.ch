@@ -71,10 +71,8 @@ meta:
 ministres:
 - Aurore Boillat
 - John Ebbutt
-- Maria Gafner
-- Franz Liechti-Genge
 - Manuela Liechti-Genge
-- Annick Monot
+- Annick Monnot
 - Sarah Nicolet
 ---
 

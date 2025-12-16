@@ -88,7 +88,5 @@ meta:
 - Coeuve
 ministres:
 - Florence Hostettler
-- Franz Liechti-Genge
-- Manuela Liechti-Genge
 - Matthieu Mérillat
 ---
