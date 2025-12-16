@@ -3,17 +3,12 @@ title: Paroisse du Pied du Jura
 name: Pied du Jura
 site: https://www.eerv.ch/region/morges-aubonne/pied-du-jura/accueil
 territoire:
-- Apples
 - Ballens
 - Berolle
 - Bière
-- Bussy-Chardonney
 - Clarmont
-- Cottens
+- Hautemorges
 - Mollens
-- Pampigny
-- Reverolle
-- Sévery
 NPA:
 - 1116
 - 1127
@@ -27,8 +22,14 @@ NPA:
 - 1146
 - 1149
 meta:
+- Apples
+- Bussy-Chardonney
 - Bussy-sur-Morges
 - Chardonney-sur-Morges
+- Cottens
 - Hameau de Froideville
+- Pampigny
+- Reverolle
+- Sévery
 region: Morges-Aubonne
 ---
