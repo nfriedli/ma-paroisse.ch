@@ -7,4 +7,6 @@ territoire:
 NPA:
 - 2605
 region: Erguël
+ministres:
+- Séverine Schlüter
 ---

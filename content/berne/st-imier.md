@@ -13,5 +13,5 @@ meta:
 - St-Imier
 region: Erguël
 ministres:
-- Macaire Gallopin
+- Matteo Silvestrini
 ---

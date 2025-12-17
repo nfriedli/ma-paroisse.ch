@@ -22,8 +22,8 @@ meta:
 - Madretsch 
 - Pasquart
 ministres:
-- Carmelo Catalfamo
 - Laure Devaux Allisson
+- Macaire Gallopin
 - Cédric Némitz
 - Ellen Pagnamenta
 ---
