@@ -14,6 +14,7 @@ NPA:
 meta:
 - Barberêche
 - Cormérod
+- Cormondes
 - Cournillens
 - Courtion
 - Misery

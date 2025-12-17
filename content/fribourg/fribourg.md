@@ -11,7 +11,7 @@ territoire:
 - Chénens
 - Corminbœuf
 - Cottens
-- Ferpicioz
+- Ferpicloz
 - Fribourg
 - Granges-Paccot
 - Gibloux

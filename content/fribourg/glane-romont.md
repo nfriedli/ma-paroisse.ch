@@ -3,16 +3,12 @@ title: Paroisse de La Glâne-Romont
 name: La Glâne-Romont
 site: https://www.ref-fr.ch/laglane-romont
 territoire:
-- Auboranges, 
 - Billens-Hennens
-- Chapelle
 - Châtonnaye
-- Écublens
 - Grangettes-près-Romont
 - Le Châtelard
 - Massonnens
 - Mézières
-- Montet
 - Romont
 - Rue
 - Siviriez

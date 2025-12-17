@@ -13,4 +13,5 @@ NPA:
 - 3280
 meta:
 - Coulevon
+- Murten
 ---

@@ -5,17 +5,20 @@ site: https://eglise-bulle.ch/
 territoire:
 - Bas-Intyamon
 - Bellegarde
-- Brot
+- Botterens
+- Broc
 - Bulle
 - Cemiat
 - Châtel-sur-Montsalvens
 - Corbières
 - Crésuz
+- Écharlens
 - Épagny
 - Grandvillard
 - Gruyères
 - Haut-Intyamon
 - Hauteville
+- Jaun
 - La Roche
 - Le Pâquier
 - Marsans
