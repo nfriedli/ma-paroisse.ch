@@ -16,4 +16,7 @@ meta:
 - Nant
 - Praz
 - Sugiez
+ministres:
+- Francesca Farrow
+- Martin Nouis
 ---
