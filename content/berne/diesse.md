@@ -13,4 +13,6 @@ meta:
 - Lamboing
 - Prêles
 region: Lac-en-Ciel
+ministres:
+- Stéphane Rouèche
 ---

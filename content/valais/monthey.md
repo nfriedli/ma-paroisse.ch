@@ -39,5 +39,6 @@ meta:
 ministres:
 - Robert Zamaradi
 - Agnès Thuégaz
-- Monika Bouvier
+- Philippe Cavin
+- Gwendoline Noel-Reguin
 ---

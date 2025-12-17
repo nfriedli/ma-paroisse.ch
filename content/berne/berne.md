@@ -4,5 +4,7 @@ name: Berne
 site: https://www.egliserefberne.ch/
 territoire:
 - Berne
+ministres:
+- Olivier Schopfer
 ---
 

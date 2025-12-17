@@ -9,4 +9,5 @@ NPA:
 region: Lac-en-Ciel
 ministres:
 - Marianne Chappuis
+- Marie-Laure Krafft-Golay
 ---

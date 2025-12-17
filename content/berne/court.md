@@ -9,6 +9,4 @@ NPA:
 - 2736
 - 2738
 region: Par8
-ministres:
-- Jean-Marc Schmid
 ---

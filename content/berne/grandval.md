@@ -13,5 +13,7 @@ NPA:
 - 2746
 - 2747
 region: Par8
+ministres:
+- Liliane Gujer
 ---
 
