@@ -99,13 +99,13 @@ Les contenus sous format JSON sont disponibles ici: https://ma-paroisse.ch/index
 
 Les contenus JSON par canton:
 
-- https://ma-paroisse.ch/be/index.json
-- https://ma-paroisse.ch/fr/index.json
-- https://ma-paroisse.ch/ge/index.json
-- https://ma-paroisse.ch/ju/index.json
-- https://ma-paroisse.ch/ne/index.json
-- https://ma-paroisse.ch/vd/index.json
-- https://ma-paroisse.ch/vs/index.json
+- https://ma-paroisse.ch/berne/index.json
+- https://ma-paroisse.ch/frribourg/index.json
+- https://ma-paroisse.ch/geneve/index.json
+- https://ma-paroisse.ch/jura/index.json
+- https://ma-paroisse.ch/neuchatel/index.json
+- https://ma-paroisse.ch/vaud/index.json
+- https://ma-paroisse.ch/valais/index.json
 
 N’hésitez pas à reprendre les données directement dans le JSON (*hotlink*)!
 
