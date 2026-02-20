@@ -44,6 +44,16 @@ Header set Cache-Control "max-age=31536000, public"
     Header set Cache-Control "max-age=3600, public, must-revalidate"
 </FilesMatch>
 
+# Compresser le JSON (et le reste)
+AddOutputFilterByType DEFLATE application/json
+AddOutputFilterByType DEFLATE application/ld+json
+AddOutputFilterByType DEFLATE text/plain
+AddOutputFilterByType DEFLATE text/html
+AddOutputFilterByType DEFLATE text/xml
+AddOutputFilterByType DEFLATE text/css
+AddOutputFilterByType DEFLATE application/javascript
+AddOutputFilterByType DEFLATE application/x-javascript
+
 # Cache immutable pour fonts et css
 <filesMatch ".(css|woff2|js)$">
 Header set Cache-Control "max-age=63072000, public, immutable"
