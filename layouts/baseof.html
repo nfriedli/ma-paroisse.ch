@@ -52,6 +52,7 @@
   <link rel="me" href="https://frdl.ch/">
   <link rel="me" href="https://theologique.ch/">
   <link rel="me" href="https://github.com/nfriedli/">
+  <link rel="human-json" href="/human.json">
 
 </head>
 
@@ -75,7 +76,7 @@
     "minify" "true"
   }}
 
-  {{ $search := resources.Get "js/search.js" | js.Build $options | minify | fingerprint }}
+  {{ $search := resources.Get "js/search.js" | js.Build $options | fingerprint }}
     <script src="{{ $search.RelPermalink }}"></script>
   {{ end }}
 
