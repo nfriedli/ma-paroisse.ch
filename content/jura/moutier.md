@@ -19,7 +19,6 @@ NPA:
 meta:
 - La Scheulte
 - Elay
-region: Par8
 ministres:
 - Quentin Jeanneret
 ---
