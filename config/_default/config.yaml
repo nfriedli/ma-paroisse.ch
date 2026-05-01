@@ -1,9 +1,9 @@
 baseURL: https://ma-paroisse.ch/
 title: ma-paroisse.ch
 
-defaultContentLanguage: fr
 languages:
   fr:
+    label: Français
     locale: fr-ch
 
 copyright: CC0 (domaine public)
