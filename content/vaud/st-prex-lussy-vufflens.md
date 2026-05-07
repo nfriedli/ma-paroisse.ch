@@ -27,4 +27,8 @@ meta:
 - Lussy
 - St-Prex
 region: Morges-Aubonne
+ministres: 
+- Elio Jaillet
+- Olivier Rosselet
+- Renaud Rindlisbacher
 ---
